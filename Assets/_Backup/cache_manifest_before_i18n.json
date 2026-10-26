@@ -1,0 +1,357 @@
+{
+    "audioPaddingVersion":  2,
+    "entries":  [
+                    {
+                        "key":  "TASK_01",
+                        "language":  "English",
+                        "hash":  "11d6a67730c9cfd9ee2235f0b128ae1f3634437645cf7313491a1ea4f4fc89f9",
+                        "fileName":  "English_11d6a67730c9cfd9ee2235f0b128ae1f3634437645cf7313491a1ea4f4fc89f9.wav",
+                        "text":  "Welcome to the Vedanta Pot Leakage Training Visualization. This module covers the Emergency Response Procedure for Side Shell Leakage at Upper Location.",
+                        "paddingVersion":  2
+                    },
+                    {
+                        "key":  "TASK_01_WELCOME",
+                        "language":  "English",
+                        "hash":  "11d6a67730c9cfd9ee2235f0b128ae1f3634437645cf7313491a1ea4f4fc89f9",
+                        "fileName":  "English_11d6a67730c9cfd9ee2235f0b128ae1f3634437645cf7313491a1ea4f4fc89f9.wav",
+                        "text":  "Welcome to the Vedanta Pot Leakage Training Visualization. This module covers the Emergency Response Procedure for Side Shell Leakage at Upper Location.",
+                        "paddingVersion":  2
+                    },
+                    {
+                        "key":  "TASK_02",
+                        "language":  "English",
+                        "hash":  "733d1093f14beaaf619816170068a8f8c6024eeec09bfc076b060a4bce0ae5e1",
+                        "fileName":  "English_733d1093f14beaaf619816170068a8f8c6024eeec09bfc076b060a4bce0ae5e1.wav",
+                        "text":  "The reduction pots operate continuously under high temperature and molten bath conditions. Proper monitoring and rapid response to abnormalities are critical to operational safety.",
+                        "paddingVersion":  2
+                    },
+                    {
+                        "key":  "TASK_03",
+                        "language":  "English",
+                        "hash":  "TASK_03_POT4321",
+                        "fileName":  "English_TASK_03_POT4321.wav",
+                        "text":  "Pot leakage has occurred in Pot 4321.",
+                        "paddingVersion":  2
+                    },
+                    {
+                        "key":  "TASK_03_SLIDE_HOOD",
+                        "language":  "English",
+                        "hash":  "500741703ef676533726cf049fed2fa158d29d19170f2c39b96d6945cd27dc97",
+                        "fileName":  "English_500741703ef676533726cf049fed2fa158d29d19170f2c39b96d6945cd27dc97.wav",
+                        "text":  "Slide the hood.",
+                        "paddingVersion":  2
+                    },
+                    {
+                        "key":  "TASK_03_REMOVE_HOOD",
+                        "language":  "English",
+                        "hash":  "500741703ef676533726cf049fed2fa158d29d19170f2c39b96d6945cd27dc97",
+                        "fileName":  "English_500741703ef676533726cf049fed2fa158d29d19170f2c39b96d6945cd27dc97.wav",
+                        "text":  "Slide the hood.",
+                        "paddingVersion":  2
+                    },
+                    {
+                        "key":  "TASK_04",
+                        "language":  "English",
+                        "hash":  "07e82f2cfab8bffa6a9ee3dbb454fe6daad9eee8fc02bdadcb315533d052e3ce",
+                        "fileName":  "English_07e82f2cfab8bffa6a9ee3dbb454fe6daad9eee8fc02bdadcb315533d052e3ce.wav",
+                        "text":  "Let us call the Superintendent in such situation by picking up the walkie-talkie.",
+                        "paddingVersion":  2
+                    },
+                    {
+                        "key":  "RADIO_VO_TASK_03",
+                        "language":  "English",
+                        "hash":  "106f25dcfd184193e312ade7582b1a8f3e44ae14aa78079576bdf8b105b67e2b",
+                        "fileName":  "English_106f25dcfd184193e312ade7582b1a8f3e44ae14aa78079576bdf8b105b67e2b.wav",
+                        "text":  "Shift Superintendent, Technical In-charge, Pot 69 has developed a side shell leakage. The leakage is visible from the upper side of the pot.",
+                        "paddingVersion":  2
+                    },
+                    {
+                        "key":  "POTLEAKAGE_WALKIE_SHIFT_INCHARGE",
+                        "language":  "English",
+                        "hash":  "f5a1e702f7f0dbecaa1e5963a8506d18ba7c15c87491eee8cb9b476c975a80d1",
+                        "fileName":  "English_f5a1e702f7f0dbecaa1e5963a8506d18ba7c15c87491eee8cb9b476c975a80d1.wav",
+                        "text":  "Take proper safety measures before proceeding with the leakage response.",
+                        "paddingVersion":  2
+                    },
+                    {
+                        "key":  "POTLEAKAGE_WALKIE_TECHNICAL_INCHARGE",
+                        "language":  "English",
+                        "hash":  "face87befcc00429bda003eb603ab97b7c01b39b2012f3bc2df50bf93c33c1a7",
+                        "fileName":  "English_face87befcc00429bda003eb603ab97b7c01b39b2012f3bc2df50bf93c33c1a7.wav",
+                        "text":  "Check the pot voltage in the pot control system and reduce the voltage below one point two volts if the leakage does not stop.",
+                        "paddingVersion":  2
+                    },
+                    {
+                        "key":  "POT_CONTROLLER_NOTIFICATION",
+                        "language":  "English",
+                        "hash":  "ab5fbaeb527fb90aa0b511abfdd7aeeafda810e4131053e2e35060355cb32e1e",
+                        "fileName":  "English_ab5fbaeb527fb90aa0b511abfdd7aeeafda810e4131053e2e35060355cb32e1e.wav",
+                        "text":  "Pot Controller Notification. Emergency chain activated. The Pot Controller broadcasts repeated announcements across the potline.",
+                        "paddingVersion":  2
+                    },
+                    {
+                        "key":  "POT_CONTROLLER_ANNOUNCEMENT",
+                        "language":  "English",
+                        "hash":  "1abbb2f38e49a6fd373253b1f7a2bea97e6cb5e2467d0b2a0d47afdecf44fa2e",
+                        "fileName":  "English_1abbb2f38e49a6fd373253b1f7a2bea97e6cb5e2467d0b2a0d47afdecf44fa2e.wav",
+                        "text":  "Attention all personnel: Pot 69 upper side shell leakage reported. Emergency response team proceed to Pot 69.",
+                        "paddingVersion":  2
+                    },
+                    {
+                        "key":  "TASK_05",
+                        "language":  "English",
+                        "hash":  "cb3efcb1d8cbb2eb5d487f819fea63b98d7ce933d4ddcea392ef2b862e887567",
+                        "fileName":  "English_cb3efcb1d8cbb2eb5d487f819fea63b98d7ce933d4ddcea392ef2b862e887567.wav",
+                        "text":  "Observe the voltage value. The safe limit is below 4.5 V, with current below 350 kA.",
+                        "paddingVersion":  2
+                    },
+                    {
+                        "key":  "TASK_06",
+                        "language":  "English",
+                        "hash":  "8cf19eff08cd4efe3762b9ef66d6db1398b1e379ebd2c641f291e5704824b506",
+                        "fileName":  "English_8cf19eff08cd4efe3762b9ef66d6db1398b1e379ebd2c641f291e5704824b506.wav",
+                        "text":  "Active digits are blinking on the Pot Controller. The voltage is currently high at 4.544 V, exceeding the safe operational threshold.",
+                        "paddingVersion":  2
+                    },
+                    {
+                        "key":  "TASK_07",
+                        "language":  "English",
+                        "hash":  "1e4386b05a7e404a8bfceb22c6f3077d0206decf3808381030a8e6ce330f83df",
+                        "fileName":  "English_1e4386b05a7e404a8bfceb22c6f3077d0206decf3808381030a8e6ce330f83df.wav",
+                        "text":  "Verify the beam level on both the Pot Controller and the Beam Scale.",
+                        "paddingVersion":  2
+                    },
+                    {
+                        "key":  "TASK_08",
+                        "language":  "English",
+                        "hash":  "f4a90dfad8487e2052ec5e0e1a3fdf66fcc87b2fb3a26cafbc284f69d3f96ccd",
+                        "fileName":  "English_f4a90dfad8487e2052ec5e0e1a3fdf66fcc87b2fb3a26cafbc284f69d3f96ccd.wav",
+                        "text":  "Press the Lower Anode Beam button on the Pot Controller to bring the pot voltage within safe operational limits.",
+                        "paddingVersion":  2
+                    },
+                    {
+                        "key":  "TASK_09",
+                        "language":  "English",
+                        "hash":  "be0a0f5ca281d8134fee260c21059ba20f190a78c444b228ca7a60102462c5b5",
+                        "fileName":  "English_be0a0f5ca281d8134fee260c21059ba20f190a78c444b228ca7a60102462c5b5.wav",
+                        "text":  "Select the Side Breaking Tool from the toolbox to proceed with side breaking and crust removal.",
+                        "paddingVersion":  2
+                    },
+                    {
+                        "key":  "TASK_10",
+                        "language":  "English",
+                        "hash":  "cf2d1d1d4adbc88586eea6904f19074f4620bb175ab4cfb21f2bb2f06a5f84da",
+                        "fileName":  "English_cf2d1d1d4adbc88586eea6904f19074f4620bb175ab4cfb21f2bb2f06a5f84da.wav",
+                        "text":  "Now carefully apply the stopper to the leakage point on the pot. Look for the area where smoke is visible and molten metal is flowing. If the leakage is wider, you may use an additional stopper to help control it.",
+                        "paddingVersion":  2
+                    },
+                    {
+                        "key":  "TASK_10_STOPPER_APPLIED",
+                        "language":  "English",
+                        "hash":  "570bcabb48625cc963de3427d4c62b44a299d4f53138bc4cb8bdfc4bb2cfa98f",
+                        "fileName":  "English_570bcabb48625cc963de3427d4c62b44a299d4f53138bc4cb8bdfc4bb2cfa98f.wav",
+                        "text":  "Let us arrange the cooling pipes",
+                        "paddingVersion":  2
+                    },
+                    {
+                        "key":  "TASK_10_PTM_CRANE",
+                        "language":  "English",
+                        "hash":  "6b2be3fa31e30d79615a7bd3675b56291913f1be916b2d7d6e04ddfb45de7a05",
+                        "fileName":  "English_6b2be3fa31e30d79615a7bd3675b56291913f1be916b2d7d6e04ddfb45de7a05.wav",
+                        "text":  "The intensity is reduced but not stopped. Let us arrange PTM crane for pot breaking process, and the bath bin is also arranged by forklift.",
+                        "paddingVersion":  2
+                    },
+                    {
+                        "key":  "TASK_10_SIDE_BREAKING",
+                        "language":  "English",
+                        "hash":  "f883677b79f37508de898f306b387b2956c3fa2b81d8187f32eb5e6aa0237381",
+                        "fileName":  "English_f883677b79f37508de898f306b387b2956c3fa2b81d8187f32eb5e6aa0237381.wav",
+                        "text":  "Side breaking above the leakage has started.",
+                        "paddingVersion":  2
+                    },
+                    {
+                        "key":  "TASK_10_RED_SHELL",
+                        "language":  "English",
+                        "hash":  "4f347bd13e6ad8124417cc8372870e2189465fd7ee63a6d8c5e942012dd46d8c",
+                        "fileName":  "English_4f347bd13e6ad8124417cc8372870e2189465fd7ee63a6d8c5e942012dd46d8c.wav",
+                        "text":  "Observe the red shell formation in the shell. Let us use hoes to reduce the red shell formation.",
+                        "paddingVersion":  2
+                    },
+                    {
+                        "key":  "TASK_10_VOLTAGE_CHECK",
+                        "language":  "English",
+                        "hash":  "7c853d1d736d3f790cd3fc26fff486449e99f025663e9f918daf43ef7a7071ec",
+                        "fileName":  "English_7c853d1d736d3f790cd3fc26fff486449e99f025663e9f918daf43ef7a7071ec.wav",
+                        "text":  "Check whether the voltage is within the safer limit before working on the red shell formation.",
+                        "paddingVersion":  2
+                    },
+                    {
+                        "key":  "TASK_10_OBSERVE_RED_SHELL",
+                        "language":  "English",
+                        "hash":  "35ed6c36e59146e698e1252b28a788eed4a55fc2974bc17f21d6f0a4ec065418",
+                        "fileName":  "English_35ed6c36e59146e698e1252b28a788eed4a55fc2974bc17f21d6f0a4ec065418.wav",
+                        "text":  "Observe the red shell formation in the shell.",
+                        "paddingVersion":  2
+                    },
+                    {
+                        "key":  "TASK_10_USE_HOES",
+                        "language":  "English",
+                        "hash":  "ba593e4389464cd200a70b70c94f0aa4c8397b6e782db3d951c3e642224ff980",
+                        "fileName":  "English_ba593e4389464cd200a70b70c94f0aa4c8397b6e782db3d951c3e642224ff980.wav",
+                        "text":  "Let us use hose to reduce the red shell formation.",
+                        "paddingVersion":  2
+                    },
+                    {
+                        "key":  "TASK_10_PICK_UP_HOES",
+                        "language":  "English",
+                        "hash":  "904b86e80b2bd59803aac100460a5d3dd45770043b68edd2a42df5b6a5880044",
+                        "fileName":  "English_904b86e80b2bd59803aac100460a5d3dd45770043b68edd2a42df5b6a5880044.wav",
+                        "text":  "Pick up the hoes to reduce the red shell formation.",
+                        "paddingVersion":  2
+                    },
+                    {
+                        "key":  "TASK_10_PLACE_HOES_PIPE",
+                        "language":  "English",
+                        "hash":  "27eda14bc0e8d5f375cef0fc12f97cacdc6161bcb99322ad82450bf060cd3659",
+                        "fileName":  "English_27eda14bc0e8d5f375cef0fc12f97cacdc6161bcb99322ad82450bf060cd3659.wav",
+                        "text":  "Place the hose pipe near the red shell area.",
+                        "paddingVersion":  2
+                    },
+                    {
+                        "key":  "TASK_10_OPEN_FLR_VALVE",
+                        "language":  "English",
+                        "hash":  "299437c4390e49763c5ef34240416b73bfc41d9a0b6c901310347406b1014608",
+                        "fileName":  "English_299437c4390e49763c5ef34240416b73bfc41d9a0b6c901310347406b1014608.wav",
+                        "text":  "Open the FLR block valve.",
+                        "paddingVersion":  2
+                    },
+                    {
+                        "key":  "TASK_10_VALVE_OPEN_COOL_AIR",
+                        "language":  "English",
+                        "hash":  "4679667bc89bae373ccba2cd1da4f920a9b96c9295c5173f20839f8715f2582a",
+                        "fileName":  "English_4679667bc89bae373ccba2cd1da4f920a9b96c9295c5173f20839f8715f2582a.wav",
+                        "text":  "Now that the valve is open, cool air is released over there.",
+                        "paddingVersion":  2
+                    },
+                    {
+                        "key":  "TASK_10_OBSERVE_RED_SHELL_COOLING",
+                        "language":  "English",
+                        "hash":  "2e633141c2b0460eb6faf5c7f2ed3790c77d2cedc723ac9dc8a90a047454dfb9",
+                        "fileName":  "English_2e633141c2b0460eb6faf5c7f2ed3790c77d2cedc723ac9dc8a90a047454dfb9.wav",
+                        "text":  "Let us observe the red shell. It still requires more cooling; use hoes to reduce red shell formation.",
+                        "paddingVersion":  2
+                    },
+                    {
+                        "key":  "TASK_BATH_PIPE_POWDER",
+                        "language":  "English",
+                        "hash":  "TASK_BATH_PIPE_POWDER",
+                        "fileName":  "English_TASK_BATH_PIPE_POWDER.wav",
+                        "text":  "Now let us use bath powder from PTM crane.",
+                        "paddingVersion":  2
+                    },
+                    {
+                        "key":  "SELECT_HIGHLIGHTED_TOOL",
+                        "language":  "English",
+                        "hash":  "SELECT_HIGHLIGHTED_TOOL",
+                        "fileName":  "English_SELECT_HIGHLIGHTED_TOOL.wav",
+                        "text":  "Select the Highlighted Tool",
+                        "paddingVersion":  2
+                    },
+                    {
+                        "key":  "TASK_5_AIR_UNLOCK",
+                        "language":  "English",
+                        "hash":  "TASK_5_AIR_UNLOCK",
+                        "fileName":  "English_TASK_5_AIR_UNLOCK.wav",
+                        "text":  "Let us now open the valve to release compressed air in the affected area.",
+                        "paddingVersion":  2
+                    },
+                    {
+                        "key":  "TASK_CONTROL_MACHINE",
+                        "language":  "English",
+                        "hash":  "TASK_CONTROL_MACHINE",
+                        "fileName":  "English_TASK_CONTROL_MACHINE.wav",
+                        "text":  "Check the Voltage and Beam Level. Make sure both are within the safe operating limits.",
+                        "paddingVersion":  2
+                    },
+                    {
+                        "key":  "TASK_CRUST_BATHING",
+                        "language":  "English",
+                        "hash":  "TASK_CRUST_BATHING",
+                        "fileName":  "English_TASK_CRUST_BATHING.wav",
+                        "text":  "Let us start Crust Breaking Process by bring PTM crane to the leaked potline",
+                        "paddingVersion":  2
+                    },
+                    {
+                        "key":  "CONTROL_MACHINE_PRESS_AD",
+                        "language":  "English",
+                        "hash":  "CONTROL_MACHINE_PRESS_AD",
+                        "fileName":  "English_CONTROL_MACHINE_PRESS_AD.wav",
+                        "text":  "Press AD again to continue adjusting the voltage and beam level toward the safe operating range.",
+                        "paddingVersion":  2
+                    },
+                    {
+                        "key":  "CONTROL_MACHINE_VOLTAGE_4_1",
+                        "language":  "English",
+                        "hash":  "CONTROL_MACHINE_VOLTAGE_4_1",
+                        "fileName":  "English_CONTROL_MACHINE_VOLTAGE_4_1.wav",
+                        "text":  "The voltage has reached 4.1 volts. Continue adjusting until the voltage is below 4.1 volts and the beam level is above 350.",
+                        "paddingVersion":  2
+                    },
+                    {
+                        "key":  "CONTROL_MACHINE_SAFE_RANGE",
+                        "language":  "English",
+                        "hash":  "CONTROL_MACHINE_SAFE_RANGE",
+                        "fileName":  "English_CONTROL_MACHINE_SAFE_RANGE.wav",
+                        "text":  "The voltage and beam level are now within the safe operating range.",
+                        "paddingVersion":  2
+                    },
+                    {
+                        "key":  "CLOSE_HOOD",
+                        "language":  "English",
+                        "hash":  "CLOSE_HOOD",
+                        "fileName":  "English_CLOSE_HOOD.wav",
+                        "text":  "Pot leakage is completely stopped. Let us close the hood.",
+                        "paddingVersion":  2
+                    },
+                    {
+                        "key":  "THROW_FUSED_ALUMINA_SAFE_DISTANCE",
+                        "language":  "English",
+                        "hash":  "THROW_FUSED_ALUMINA_SAFE_DISTANCE",
+                        "fileName":  "English_THROW_FUSED_ALUMINA_SAFE_DISTANCE.wav",
+                        "text":  "Throw fused alumina to seal the bath leakage area. Make sure you are maintaining 2 to 3 meter safe distance.",
+                        "paddingVersion":  2
+                    },
+                    {
+                        "key":  "CLOSE_HOOD_LEFT",
+                        "language":  "English",
+                        "hash":  "CLOSE_HOOD_LEFT",
+                        "fileName":  "English_CLOSE_HOOD_LEFT.wav",
+                        "text":  "Let us close the left hood now.",
+                        "paddingVersion":  2
+                    },
+                    {
+                        "key":  "SELECT_SST_CONNECTOR",
+                        "language":  "English",
+                        "hash":  "SELECT_SST_CONNECTOR",
+                        "fileName":  "English_SELECT_SST_CONNECTOR.wav",
+                        "text":  "Select SST Cooling Connector in order to reduce the intensity of the leakage.",
+                        "paddingVersion":  2
+                    },
+                    {
+                        "key":  "SELECT_HOSE_PIPE",
+                        "language":  "English",
+                        "hash":  "SELECT_HOSE_PIPE",
+                        "fileName":  "English_SELECT_HOSE_PIPE.wav",
+                        "text":  "Select Hose pipe in order to reduce the intensity of the leakage.",
+                        "paddingVersion":  2
+                    },
+                    {
+                        "key":  "TASK_27_TRAINING_COMPLETED",
+                        "language":  "English",
+                        "hash":  "TASK_27_TRAINING_COMPLETED",
+                        "fileName":  "English_TASK_27_TRAINING_COMPLETED.wav",
+                        "text":  "Pot Leakage Emergency Response Training Completed.",
+                        "paddingVersion":  2
+                    }
+                ]
+}

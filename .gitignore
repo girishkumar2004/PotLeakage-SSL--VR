@@ -1,0 +1,42 @@
+# Unity generated folders
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+MemoryCaptures/
+.utmp/
+
+# Builds and nested build folders
+PotLeakage(SSL)-VR/
+build/
+*.apk
+*.aab
+
+# IDE / Editor
+.vs/
+.idea/
+.vscode/
+.vsconfig
+*.csproj
+*.unityproj
+*.sln
+*.slnx
+*.suo
+*.user
+*.userprefs
+*.pidb
+*.booproj
+*.svd
+*.pdb
+*.mdb
+*.opendb
+*.VC.db
+
+# Archives and local temp
+*.rar
+*.zip
+*.bak
+*.7z
+Localization_Review_Odia.tsv

@@ -1,0 +1,108 @@
+{
+  "_help": "Edit this file to change the quiz. answerIndex is 0-based (0=A, 1=B, 2=C, 3=D). Up to 4 options per question. passPercent is the pass mark.",
+  "title": "Pot Leakage Standard Operations",
+  "resultTitle": "Pot Leakage Assessment Result",
+  "passPercent": 70,
+  "questions": [
+    {
+      "question": "Pot leakage is considered as:",
+      "options": [
+        "Normal operation",
+        "Maintenance Activity",
+        "Emergency Situation",
+        "Routine Inspections"
+      ],
+      "answerIndex": 2
+    },
+    {
+      "question": "How many types of pot leakage are mentioned in the SOP?",
+      "options": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "answerIndex": 1
+    },
+    {
+      "question": "What is an early symptom of Side Shell Leakage?",
+      "options": [
+        "Low Pot Voltage",
+        "Red Shell on Pot Shell",
+        "Green Powder",
+        "Low Metal Temperature"
+      ],
+      "answerIndex": 1
+    },
+    {
+      "question": "Whom should you inform first after observing pot leakage?",
+      "options": [
+        "PTM operator",
+        "Shift Superintendent/ Technical In-charge",
+        "Security",
+        "Store Department"
+      ],
+      "answerIndex": 1
+    },
+    {
+      "question": "What is the maximum pot voltage that should be maintained during leakage handling?",
+      "options": [
+        "2.5 V",
+        "3.5 V",
+        "4.5 V",
+        "5.5 V"
+      ],
+      "answerIndex": 2
+    },
+    {
+      "question": "Which material is added to help arrest side shell leakage?",
+      "options": [
+        "Covering Powder",
+        "Fused Alumina",
+        "Coke",
+        "Lime"
+      ],
+      "answerIndex": 1
+    },
+    {
+      "question": "Which team is informed during a pot leakage emergency?",
+      "options": [
+        "Marketing Team",
+        "Fire, First Aid & Combat Team",
+        "Finance Team",
+        "Procurement Team"
+      ],
+      "answerIndex": 1
+    },
+    {
+      "question": "What should be checked after pot stoppage?",
+      "options": [
+        "Tool Store",
+        "Pot Voltage",
+        "Security Gate",
+        "Attendance Register"
+      ],
+      "answerIndex": 1
+    },
+    {
+      "question": "Faceshield is used to protect against:",
+      "options": [
+        "Dust",
+        "Bath Splash",
+        "Noise",
+        "Vibration"
+      ],
+      "answerIndex": 1
+    },
+    {
+      "question": "Pot leakage is applicable to which area?",
+      "options": [
+        "Carbon",
+        "Cast House",
+        "Entire Pot-line",
+        "Power Plant"
+      ],
+      "answerIndex": 2
+    }
+  ]
+}

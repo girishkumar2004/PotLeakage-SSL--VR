@@ -1,0 +1,302 @@
+{
+  "_help": "Edit this file to change the quiz. answerIndex is 0-based (0=A, 1=B, 2=C, 3=D). Up to 4 options per question. passPercent is the pass mark.",
+  "title": "Pot Leakage Standard Operations",
+  "resultTitle": "Pot Leakage Assessment Result",
+  "passPercent": 70,
+  "questions": [
+    {
+      "question": "Pot leakage is considered as:",
+      "options": [
+        "Normal operation",
+        "Maintenance Activity",
+        "Emergency Situation",
+        "Routine Inspections"
+      ],
+      "answerIndex": 2
+    },
+    {
+      "question": "How many types of pot leakage are mentioned in the SOP?",
+      "options": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "answerIndex": 1
+    },
+    {
+      "question": "What is an early symptom of Side Shell Leakage?",
+      "options": [
+        "Low Pot Voltage",
+        "Red Shell on Pot Shell",
+        "Green Powder",
+        "Low Metal Temperature"
+      ],
+      "answerIndex": 1
+    },
+    {
+      "question": "Whom should you inform first after observing pot leakage?",
+      "options": [
+        "PTM operator",
+        "Shift Superintendent/ Technical In-charge",
+        "Security",
+        "Store Department"
+      ],
+      "answerIndex": 1
+    },
+    {
+      "question": "What is the maximum pot voltage that should be maintained during leakage handling?",
+      "options": [
+        "2.5 V",
+        "3.5 V",
+        "4.5 V",
+        "5.5 V"
+      ],
+      "answerIndex": 2
+    },
+    {
+      "question": "Which material is added to help arrest side shell leakage?",
+      "options": [
+        "Covering Powder",
+        "Fused Alumina",
+        "Coke",
+        "Lime"
+      ],
+      "answerIndex": 1
+    },
+    {
+      "question": "Which team is informed during a pot leakage emergency?",
+      "options": [
+        "Marketing Team",
+        "Fire, First Aid & Combat Team",
+        "Finance Team",
+        "Procurement Team"
+      ],
+      "answerIndex": 1
+    },
+    {
+      "question": "What should be checked after pot stoppage?",
+      "options": [
+        "Tool Store",
+        "Pot Voltage",
+        "Security Gate",
+        "Attendance Register"
+      ],
+      "answerIndex": 1
+    },
+    {
+      "question": "Faceshield is used to protect against:",
+      "options": [
+        "Dust",
+        "Bath Splash",
+        "Noise",
+        "Vibration"
+      ],
+      "answerIndex": 1
+    },
+    {
+      "question": "Pot leakage is applicable to which area?",
+      "options": [
+        "Carbon",
+        "Cast House",
+        "Entire Pot-line",
+        "Power Plant"
+      ],
+      "answerIndex": 2
+    }
+  ],
+  "translations": {
+    "hi": {
+      "title": "पॉट लीकेज मानक संचालन",
+      "resultTitle": "पॉट लीकेज मूल्यांकन परिणाम",
+      "questions": [
+        {
+          "question": "पॉट लीकेज को माना जाता है:",
+          "options": [
+            "सामान्य संचालन",
+            "रखरखाव गतिविधि",
+            "आपातकालीन स्थिति",
+            "नियमित निरीक्षण"
+          ]
+        },
+        {
+          "question": "एसओपी में पॉट लीकेज के कितने प्रकार बताए गए हैं?",
+          "options": [
+            "1",
+            "2",
+            "3",
+            "4"
+          ]
+        },
+        {
+          "question": "साइड शेल लीकेज का शुरुआती लक्षण क्या है?",
+          "options": [
+            "कम पॉट वोल्टेज",
+            "पॉट शेल पर रेड शेल",
+            "हरा पाउडर",
+            "कम धातु तापमान"
+          ]
+        },
+        {
+          "question": "पॉट लीकेज देखने के बाद आपको सबसे पहले किसे सूचित करना चाहिए?",
+          "options": [
+            "पीटीएम ऑपरेटर",
+            "शिफ्ट सुपरिंटेंडेंट / टेक्निकल इंचार्ज",
+            "सिक्योरिटी",
+            "स्टोर विभाग"
+          ]
+        },
+        {
+          "question": "लीकेज संभालने के दौरान अधिकतम कितना पॉट वोल्टेज बनाए रखना चाहिए?",
+          "options": [
+            "2.5 V",
+            "3.5 V",
+            "4.5 V",
+            "5.5 V"
+          ]
+        },
+        {
+          "question": "साइड शेल लीकेज रोकने में मदद के लिए कौन-सी सामग्री डाली जाती है?",
+          "options": [
+            "कवरिंग पाउडर",
+            "फ्यूज़्ड एल्यूमिना",
+            "कोक",
+            "चूना"
+          ]
+        },
+        {
+          "question": "पॉट लीकेज आपातकाल में किस टीम को सूचित किया जाता है?",
+          "options": [
+            "मार्केटिंग टीम",
+            "फायर, फर्स्ट एड और कॉम्बैट टीम",
+            "फाइनेंस टीम",
+            "प्रोक्योरमेंट टीम"
+          ]
+        },
+        {
+          "question": "पॉट रुकने के बाद क्या जाँचना चाहिए?",
+          "options": [
+            "टूल स्टोर",
+            "पॉट वोल्टेज",
+            "सिक्योरिटी गेट",
+            "उपस्थिति रजिस्टर"
+          ]
+        },
+        {
+          "question": "फेसशील्ड किससे बचाव के लिए उपयोग किया जाता है:",
+          "options": [
+            "धूल",
+            "बाथ की छींटें",
+            "शोर",
+            "कंपन"
+          ]
+        },
+        {
+          "question": "पॉट लीकेज किस क्षेत्र पर लागू होता है?",
+          "options": [
+            "कार्बन",
+            "कास्ट हाउस",
+            "पूरी पॉट-लाइन",
+            "पावर प्लांट"
+          ]
+        }
+      ]
+    },
+    "or": {
+      "title": "ପଟ୍ ଲିକେଜ୍ ମାନକ ପରିଚାଳନା",
+      "resultTitle": "ପଟ୍ ଲିକେଜ୍ ମୂଲ୍ୟାଙ୍କନ ଫଳାଫଳ",
+      "questions": [
+        {
+          "question": "ପଟ୍ ଲିକେଜ୍‌କୁ ଏହିପରି ଗଣାଯାଏ:",
+          "options": [
+            "ସାଧାରଣ ପରିଚାଳନା",
+            "ରକ୍ଷଣାବେକ୍ଷଣ କାର୍ଯ୍ୟ",
+            "ଜରୁରୀକାଳୀନ ପରିସ୍ଥିତି",
+            "ନିୟମିତ ଯାଞ୍ଚ"
+          ]
+        },
+        {
+          "question": "ଏସ୍ଓପିରେ ପଟ୍ ଲିକେଜ୍‌ର କେତେ ପ୍ରକାର ଉଲ୍ଲେଖ ଅଛି?",
+          "options": [
+            "1",
+            "2",
+            "3",
+            "4"
+          ]
+        },
+        {
+          "question": "ସାଇଡ୍ ସେଲ୍ ଲିକେଜ୍‌ର ପ୍ରାରମ୍ଭିକ ଲକ୍ଷଣ କ'ଣ?",
+          "options": [
+            "କମ୍ ପଟ୍ ଭୋଲ୍ଟେଜ୍",
+            "ପଟ୍ ସେଲ୍ ଉପରେ ରେଡ୍ ସେଲ୍",
+            "ସବୁଜ ପାଉଡର୍",
+            "କମ୍ ଧାତୁ ତାପମାତ୍ରା"
+          ]
+        },
+        {
+          "question": "ପଟ୍ ଲିକେଜ୍ ଦେଖିବା ପରେ ଆପଣ ପ୍ରଥମେ କାହାକୁ ଜଣାଇବା ଉଚିତ?",
+          "options": [
+            "ପିଟିଏମ୍ ଅପରେଟର୍",
+            "ଶିଫ୍ଟ୍ ସୁପରିଣ୍ଟେଣ୍ଡେଣ୍ଟ / ଟେକ୍ନିକାଲ୍ ଇନ୍‌ଚାର୍ଜ",
+            "ସିକ୍ୟୁରିଟି",
+            "ଷ୍ଟୋର୍ ବିଭାଗ"
+          ]
+        },
+        {
+          "question": "ଲିକେଜ୍ ପରିଚାଳନା ସମୟରେ ସର୍ବାଧିକ କେତେ ପଟ୍ ଭୋଲ୍ଟେଜ୍ ରଖାଯିବା ଉଚିତ?",
+          "options": [
+            "2.5 V",
+            "3.5 V",
+            "4.5 V",
+            "5.5 V"
+          ]
+        },
+        {
+          "question": "ସାଇଡ୍ ସେଲ୍ ଲିକେଜ୍ ରୋକିବାରେ ସାହାଯ୍ୟ ପାଇଁ କେଉଁ ସାମଗ୍ରୀ ଯୋଡ଼ାଯାଏ?",
+          "options": [
+            "କଭରିଂ ପାଉଡର୍",
+            "ଫ୍ୟୁଜ୍ଡ୍ ଆଲୁମିନା",
+            "କୋକ୍",
+            "ଚୂନ"
+          ]
+        },
+        {
+          "question": "ପଟ୍ ଲିକେଜ୍ ଜରୁରୀକାଳୀନ ସମୟରେ କେଉଁ ଦଳକୁ ଜଣାଯାଏ?",
+          "options": [
+            "ମାର୍କେଟିଂ ଦଳ",
+            "ଫାୟାର୍, ଫାର୍ଷ୍ଟ୍ ଏଡ୍ ଏବଂ କମ୍ବାଟ୍ ଦଳ",
+            "ଫାଇନାନ୍ସ ଦଳ",
+            "ପ୍ରୋକ୍ୟୁରମେଣ୍ଟ ଦଳ"
+          ]
+        },
+        {
+          "question": "ପଟ୍ ବନ୍ଦ ହେବା ପରେ କ'ଣ ଯାଞ୍ଚ କରିବା ଉଚିତ?",
+          "options": [
+            "ଟୁଲ୍ ଷ୍ଟୋର୍",
+            "ପଟ୍ ଭୋଲ୍ଟେଜ୍",
+            "ସିକ୍ୟୁରିଟି ଗେଟ୍",
+            "ଉପସ୍ଥାନ ରେଜିଷ୍ଟର"
+          ]
+        },
+        {
+          "question": "ଫେସ୍‌ସିଲ୍ଡ୍ କାହାଠାରୁ ସୁରକ୍ଷା ପାଇଁ ବ୍ୟବହୃତ ହୁଏ:",
+          "options": [
+            "ଧୂଳି",
+            "ବାଥ୍ ଛିଟିକା",
+            "ଶବ୍ଦ",
+            "କମ୍ପନ"
+          ]
+        },
+        {
+          "question": "ପଟ୍ ଲିକେଜ୍ କେଉଁ କ୍ଷେତ୍ର ପାଇଁ ପ୍ରଯୁଜ୍ୟ?",
+          "options": [
+            "କାର୍ବନ୍",
+            "କାଷ୍ଟ ହାଉସ୍",
+            "ସମଗ୍ର ପଟ୍-ଲାଇନ୍",
+            "ପାୱାର୍ ପ୍ଲାଣ୍ଟ"
+          ]
+        }
+      ]
+    }
+  }
+}

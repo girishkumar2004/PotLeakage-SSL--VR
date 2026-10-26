@@ -1,0 +1,1838 @@
+{
+  "entries": [
+    {
+      "key": "TASK_01",
+      "display": {
+        "en": "Welcome to the Vedanta Pot Leakage Training Visualization.\nThis module covers the Emergency Response Procedure for Side Shell Leakage at Upper Location.",
+        "hi": "वेदांता पॉट लीकेज प्रशिक्षण विज़ुअलाइज़ेशन में आपका स्वागत है।\nयह मॉड्यूल ऊपरी स्थान पर साइड शेल लीकेज की आपातकालीन प्रतिक्रिया प्रक्रिया को कवर करता है।",
+        "or": "ବେଦାନ୍ତ ପଟ୍ ଲିକେଜ୍ ପ୍ରଶିକ୍ଷଣ ଭିଜୁଆଲାଇଜେସନ୍‌କୁ ଆପଣଙ୍କୁ ସ୍ୱାଗତ।\nଏହି ମଡ୍ୟୁଲ୍ ଉପର ସ୍ଥାନରେ ସାଇଡ୍ ସେଲ୍ ଲିକେଜ୍ ପାଇଁ ଜରୁରୀକାଳୀନ ପ୍ରତିକ୍ରିୟା ପ୍ରକ୍ରିୟାକୁ ଅନ୍ତର୍ଭୁକ୍ତ କରେ।"
+      },
+      "speech": {
+        "en": "Welcome to the Vedanta Pot Leakage Training Visualization. This module covers the Emergency Response Procedure for Side Shell Leakage at Upper Location.",
+        "hi": "वेदांता पॉट लीकेज प्रशिक्षण विज़ुअलाइज़ेशन में आपका स्वागत है। यह मॉड्यूल ऊपरी स्थान पर साइड शेल लीकेज की आपातकालीन प्रतिक्रिया प्रक्रिया को कवर करता है।",
+        "or": "ବେଦାନ୍ତ ପଟ୍ ଲିକେଜ୍ ପ୍ରଶିକ୍ଷଣ ଭିଜୁଆଲାଇଜେସନ୍‌କୁ ଆପଣଙ୍କୁ ସ୍ୱାଗତ। ଏହି ମଡ୍ୟୁଲ୍ ଉପର ସ୍ଥାନରେ ସାଇଡ୍ ସେଲ୍ ଲିକେଜ୍ ପାଇଁ ଜରୁରୀକାଳୀନ ପ୍ରତିକ୍ରିୟା ପ୍ରକ୍ରିୟାକୁ ଅନ୍ତର୍ଭୁକ୍ତ କରେ।"
+      }
+    },
+    {
+      "key": "TASK_01_WELCOME",
+      "display": {
+        "en": "Welcome to the Vedanta Pot Leakage Training Visualization.\nThis module covers the Emergency Response Procedure for Side Shell Leakage at Upper Location.",
+        "hi": "वेदांता पॉट लीकेज प्रशिक्षण विज़ुअलाइज़ेशन में आपका स्वागत है।\nयह मॉड्यूल ऊपरी स्थान पर साइड शेल लीकेज की आपातकालीन प्रतिक्रिया प्रक्रिया को कवर करता है।",
+        "or": "ବେଦାନ୍ତ ପଟ୍ ଲିକେଜ୍ ପ୍ରଶିକ୍ଷଣ ଭିଜୁଆଲାଇଜେସନ୍‌କୁ ଆପଣଙ୍କୁ ସ୍ୱାଗତ।\nଏହି ମଡ୍ୟୁଲ୍ ଉପର ସ୍ଥାନରେ ସାଇଡ୍ ସେଲ୍ ଲିକେଜ୍ ପାଇଁ ଜରୁରୀକାଳୀନ ପ୍ରତିକ୍ରିୟା ପ୍ରକ୍ରିୟାକୁ ଅନ୍ତର୍ଭୁକ୍ତ କରେ।"
+      },
+      "speech": {
+        "en": "Welcome to the Vedanta Pot Leakage Training Visualization. This module covers the Emergency Response Procedure for Side Shell Leakage at Upper Location.",
+        "hi": "वेदांता पॉट लीकेज प्रशिक्षण विज़ुअलाइज़ेशन में आपका स्वागत है। यह मॉड्यूल ऊपरी स्थान पर साइड शेल लीकेज की आपातकालीन प्रतिक्रिया प्रक्रिया को कवर करता है।",
+        "or": "ବେଦାନ୍ତ ପଟ୍ ଲିକେଜ୍ ପ୍ରଶିକ୍ଷଣ ଭିଜୁଆଲାଇଜେସନ୍‌କୁ ଆପଣଙ୍କୁ ସ୍ୱାଗତ। ଏହି ମଡ୍ୟୁଲ୍ ଉପର ସ୍ଥାନରେ ସାଇଡ୍ ସେଲ୍ ଲିକେଜ୍ ପାଇଁ ଜରୁରୀକାଳୀନ ପ୍ରତିକ୍ରିୟା ପ୍ରକ୍ରିୟାକୁ ଅନ୍ତର୍ଭୁକ୍ତ କରେ।"
+      }
+    },
+    {
+      "key": "TASK_02",
+      "display": {
+        "en": "The reduction pots operate continuously under high temperature and molten bath conditions. Proper monitoring and rapid response to abnormalities are critical to operational safety.",
+        "hi": "रिडक्शन पॉट उच्च तापमान और पिघले हुए बाथ की स्थितियों में लगातार काम करते हैं। संचालन सुरक्षा के लिए उचित निगरानी और असामान्यताओं पर तुरंत कार्रवाई बहुत ज़रूरी है।",
+        "or": "ରିଡକ୍ସନ୍ ପଟ୍ ଉଚ୍ଚ ତାପମାତ୍ରା ଏବଂ ତରଳ ବାଥ୍ ଅବସ୍ଥାରେ ନିରନ୍ତର କାମ କରେ। ପରିଚାଳନା ସୁରକ୍ଷା ପାଇଁ ଠିକ୍ ନିରୀକ୍ଷଣ ଏବଂ ଅସ୍ୱାଭାବିକତା ପ୍ରତି ଶୀଘ୍ର ପ୍ରତିକ୍ରିୟା ଅତ୍ୟନ୍ତ ଗୁରୁତ୍ୱପୂର୍ଣ୍ଣ।"
+      },
+      "speech": {
+        "en": "The reduction pots operate continuously under high temperature and molten bath conditions. Proper monitoring and rapid response to abnormalities are critical to operational safety.",
+        "hi": "रिडक्शन पॉट उच्च तापमान और पिघले हुए बाथ की स्थितियों में लगातार काम करते हैं। संचालन सुरक्षा के लिए उचित निगरानी और असामान्यताओं पर तुरंत कार्रवाई बहुत ज़रूरी है।",
+        "or": "ରିଡକ୍ସନ୍ ପଟ୍ ଉଚ୍ଚ ତାପମାତ୍ରା ଏବଂ ତରଳ ବାଥ୍ ଅବସ୍ଥାରେ ନିରନ୍ତର କାମ କରେ। ପରିଚାଳନା ସୁରକ୍ଷା ପାଇଁ ଠିକ୍ ନିରୀକ୍ଷଣ ଏବଂ ଅସ୍ୱାଭାବିକତା ପ୍ରତି ଶୀଘ୍ର ପ୍ରତିକ୍ରିୟା ଅତ୍ୟନ୍ତ ଗୁରୁତ୍ୱପୂର୍ଣ୍ଣ।"
+      }
+    },
+    {
+      "key": "TASK_03",
+      "voiceProfile": "Technical_Mark",
+      "display": {
+        "en": "Pot leakage has occurred in Pot 4321.",
+        "hi": "पॉट 4321 में पॉट लीकेज हो गया है।",
+        "or": "ପଟ୍ 4321 ରେ ପଟ୍ ଲିକେଜ୍ ହୋଇଛି।"
+      },
+      "speech": {
+        "en": "Pot leakage has occurred in Pot 4321.",
+        "hi": "पॉट चार हज़ार तीन सौ इक्कीस में पॉट लीकेज हो गया है।",
+        "or": "ପଟ୍ ଚାରି ହଜାର ତିନି ଶହ ଏକୋଇଶରେ ପଟ୍ ଲିକେଜ୍ ହୋଇଛି।"
+      }
+    },
+    {
+      "key": "TASK_03_SLIDE_HOOD",
+      "voiceProfile": "Technical_Mark",
+      "display": {
+        "en": "Slide the hood.",
+        "hi": "हुड को स्लाइड करें।",
+        "or": "ହୁଡ୍‌କୁ ଘୁଞ୍ଚାନ୍ତୁ।"
+      },
+      "speech": {
+        "en": "Slide the hood.",
+        "hi": "हुड को स्लाइड करें।",
+        "or": "ହୁଡ୍‌କୁ ଘୁଞ୍ଚାନ୍ତୁ।"
+      }
+    },
+    {
+      "key": "TASK_03_REMOVE_HOOD",
+      "voiceProfile": "Technical_Mark",
+      "display": {
+        "en": "Slide the hood.",
+        "hi": "हुड को स्लाइड करें।",
+        "or": "ହୁଡ୍‌କୁ ଘୁଞ୍ଚାନ୍ତୁ।"
+      },
+      "speech": {
+        "en": "Slide the hood.",
+        "hi": "हुड को स्लाइड करें।",
+        "or": "ହୁଡ୍‌କୁ ଘୁଞ୍ଚାନ୍ତୁ।"
+      }
+    },
+    {
+      "key": "TASK_04",
+      "voiceProfile": "Technical_Mark",
+      "display": {
+        "en": "Let us call the Superintendent in such situation by picking up the walkie-talkie.",
+        "hi": "ऐसी स्थिति में आइए वॉकी-टॉकी उठाकर सुपरिंटेंडेंट को कॉल करें।",
+        "or": "ଏପରି ପରିସ୍ଥିତିରେ ୱାକି-ଟକି ଉଠାଇ ସୁପରିଣ୍ଟେଣ୍ଡେଣ୍ଟଙ୍କୁ କଲ୍ କରିବା।"
+      },
+      "speech": {
+        "en": "Let us call the Superintendent in such situation by picking up the walkie-talkie.",
+        "hi": "ऐसी स्थिति में आइए वॉकी-टॉकी उठाकर सुपरिंटेंडेंट को कॉल करें।",
+        "or": "ଏପରି ପରିସ୍ଥିତିରେ ୱାକି-ଟକି ଉଠାଇ ସୁପରିଣ୍ଟେଣ୍ଡେଣ୍ଟଙ୍କୁ କଲ୍ କରିବା।"
+      }
+    },
+    {
+      "key": "RADIO_VO_TASK_03",
+      "display": {
+        "en": "Shift Superintendent, Technical In-charge, Pot 69 has developed a side shell leakage. The leakage is visible from the upper side of the pot.",
+        "hi": "शिफ्ट सुपरिंटेंडेंट, टेक्निकल इंचार्ज, पॉट 69 में साइड शेल लीकेज हो गया है। लीकेज पॉट के ऊपरी हिस्से से दिखाई दे रहा है।",
+        "or": "ଶିଫ୍ଟ୍ ସୁପରିଣ୍ଟେଣ୍ଡେଣ୍ଟ, ଟେକ୍ନିକାଲ୍ ଇନ୍‌ଚାର୍ଜ, ପଟ୍ 69 ରେ ସାଇଡ୍ ସେଲ୍ ଲିକେଜ୍ ହୋଇଛି। ଲିକେଜ୍ ପଟ୍‌ର ଉପର ପାର୍ଶ୍ୱରୁ ଦେଖାଯାଉଛି।"
+      },
+      "speech": {
+        "en": "Shift Superintendent, Technical In-charge, Pot 69 has developed a side shell leakage. The leakage is visible from the upper side of the pot.",
+        "hi": "शिफ्ट सुपरिंटेंडेंट, टेक्निकल इंचार्ज, पॉट उनहत्तर में साइड शेल लीकेज हो गया है। लीकेज पॉट के ऊपरी हिस्से से दिखाई दे रहा है।",
+        "or": "ଶିଫ୍ଟ୍ ସୁପରିଣ୍ଟେଣ୍ଡେଣ୍ଟ, ଟେକ୍ନିକାଲ୍ ଇନ୍‌ଚାର୍ଜ, ପଟ୍ ଊନସ୍ତରିରେ ସାଇଡ୍ ସେଲ୍ ଲିକେଜ୍ ହୋଇଛି। ଲିକେଜ୍ ପଟ୍‌ର ଉପର ପାର୍ଶ୍ୱରୁ ଦେଖାଯାଉଛି।"
+      }
+    },
+    {
+      "key": "POTLEAKAGE_WALKIE_SHIFT_INCHARGE",
+      "voiceProfile": "Shift_InCharge",
+      "display": {
+        "en": "Take proper safety measures before proceeding with the leakage response.",
+        "hi": "लीकेज की कार्रवाई आगे बढ़ाने से पहले उचित सुरक्षा उपाय अपनाएँ।",
+        "or": "ଲିକେଜ୍ ପ୍ରତିକ୍ରିୟା ଆଗକୁ ବଢ଼ାଇବା ପୂର୍ବରୁ ଠିକ୍ ସୁରକ୍ଷା ପଦକ୍ଷେପ ନିଅନ୍ତୁ।"
+      },
+      "speech": {
+        "en": "Take proper safety measures before proceeding with the leakage response.",
+        "hi": "लीकेज की कार्रवाई आगे बढ़ाने से पहले उचित सुरक्षा उपाय अपनाएँ।",
+        "or": "ଲିକେଜ୍ ପ୍ରତିକ୍ରିୟା ଆଗକୁ ବଢ଼ାଇବା ପୂର୍ବରୁ ଠିକ୍ ସୁରକ୍ଷା ପଦକ୍ଷେପ ନିଅନ୍ତୁ।"
+      }
+    },
+    {
+      "key": "POTLEAKAGE_WALKIE_TECHNICAL_INCHARGE",
+      "voiceProfile": "Technical_Mark",
+      "display": {
+        "en": "Check the pot voltage in the pot control system and reduce the voltage below 1.2 V if the leakage does not stop.",
+        "hi": "पॉट कंट्रोल सिस्टम में पॉट वोल्टेज जाँचें और यदि लीकेज न रुके तो वोल्टेज को 1.2 V से नीचे घटाएँ।",
+        "or": "ପଟ୍ କଣ୍ଟ୍ରୋଲ୍ ସିଷ୍ଟମ୍‌ରେ ପଟ୍ ଭୋଲ୍ଟେଜ୍ ଯାଞ୍ଚ କରନ୍ତୁ ଏବଂ ଲିକେଜ୍ ବନ୍ଦ ନହେଲେ ଭୋଲ୍ଟେଜ୍‌କୁ 1.2 V ରୁ କମ୍ କରନ୍ତୁ।"
+      },
+      "speech": {
+        "en": "Check the pot voltage in the pot control system and reduce the voltage below one point two volts if the leakage does not stop.",
+        "hi": "पॉट कंट्रोल सिस्टम में पॉट वोल्टेज जाँचें और यदि लीकेज न रुके तो वोल्टेज को एक दशमलव दो वोल्ट से नीचे घटाएँ।",
+        "or": "ପଟ୍ କଣ୍ଟ୍ରୋଲ୍ ସିଷ୍ଟମ୍‌ରେ ପଟ୍ ଭୋଲ୍ଟେଜ୍ ଯାଞ୍ଚ କରନ୍ତୁ ଏବଂ ଲିକେଜ୍ ବନ୍ଦ ନହେଲେ ଭୋଲ୍ଟେଜ୍‌କୁ ଏକ ଦଶମିକ ଦୁଇ ଭୋଲ୍ଟରୁ କମ୍ କରନ୍ତୁ।"
+      }
+    },
+    {
+      "key": "POT_CONTROLLER_NOTIFICATION",
+      "display": {
+        "en": "Pot Controller Notification.\n\nEmergency chain activated. The Pot Controller broadcasts repeated announcements across the potline.\n\n\"Attention all personnel: Pot 69 upper side shell leakage reported. Emergency response team proceed to Pot 69.\"",
+        "hi": "पॉट कंट्रोलर सूचना।\nइमरजेंसी चेन सक्रिय हो गई है। पॉट कंट्रोलर पूरी पॉटलाइन में बार-बार घोषणा कर रहा है। \"सभी कर्मचारी ध्यान दें: पॉट 69 में ऊपरी साइड शेल लीकेज की सूचना मिली है। आपातकालीन प्रतिक्रिया दल पॉट 69 पर पहुँचे।\"",
+        "or": "ପଟ୍ କଣ୍ଟ୍ରୋଲର୍ ବିଜ୍ଞପ୍ତି।\nଇମରଜେନ୍ସି ଚେନ୍ ସକ୍ରିୟ ହୋଇଛି। ପଟ୍ କଣ୍ଟ୍ରୋଲର୍ ସମ୍ପୂର୍ଣ୍ଣ ପଟ୍‌ଲାଇନ୍‌ରେ ବାରମ୍ବାର ଘୋଷଣା କରୁଛି। \"ସମସ୍ତ କର୍ମଚାରୀ ଧ୍ୟାନ ଦିଅନ୍ତୁ: ପଟ୍ 69 ରେ ଉପର ସାଇଡ୍ ସେଲ୍ ଲିକେଜ୍ ଖବର ମିଳିଛି। ଜରୁରୀକାଳୀନ ପ୍ରତିକ୍ରିୟା ଦଳ ପଟ୍ 69 କୁ ଯାଆନ୍ତୁ।\""
+      },
+      "speech": {
+        "en": "Pot Controller Notification. Emergency chain activated. The Pot Controller broadcasts repeated announcements across the potline.",
+        "hi": "पॉट कंट्रोलर सूचना। इमरजेंसी चेन सक्रिय हो गई है। पॉट कंट्रोलर पूरी पॉटलाइन में बार-बार घोषणा कर रहा है।",
+        "or": "ପଟ୍ କଣ୍ଟ୍ରୋଲର୍ ବିଜ୍ଞପ୍ତି। ଇମରଜେନ୍ସି ଚେନ୍ ସକ୍ରିୟ ହୋଇଛି। ପଟ୍ କଣ୍ଟ୍ରୋଲର୍ ସମ୍ପୂର୍ଣ୍ଣ ପଟ୍‌ଲାଇନ୍‌ରେ ବାରମ୍ବାର ଘୋଷଣା କରୁଛି।"
+      }
+    },
+    {
+      "key": "POT_CONTROLLER_ANNOUNCEMENT",
+      "display": {
+        "en": "Attention all personnel: Pot 69 upper side shell leakage reported. Emergency response team proceed to Pot 69.",
+        "hi": "सभी कर्मचारी ध्यान दें: पॉट 69 में ऊपरी साइड शेल लीकेज की सूचना मिली है। आपातकालीन प्रतिक्रिया दल पॉट 69 पर पहुँचे।",
+        "or": "ସମସ୍ତ କର୍ମଚାରୀ ଧ୍ୟାନ ଦିଅନ୍ତୁ: ପଟ୍ 69 ରେ ଉପର ସାଇଡ୍ ସେଲ୍ ଲିକେଜ୍ ଖବର ମିଳିଛି। ଜରୁରୀକାଳୀନ ପ୍ରତିକ୍ରିୟା ଦଳ ପଟ୍ 69 କୁ ଯାଆନ୍ତୁ।"
+      },
+      "speech": {
+        "en": "Attention all personnel: Pot 69 upper side shell leakage reported. Emergency response team proceed to Pot 69.",
+        "hi": "सभी कर्मचारी ध्यान दें: पॉट उनहत्तर में ऊपरी साइड शेल लीकेज की सूचना मिली है। आपातकालीन प्रतिक्रिया दल पॉट उनहत्तर पर पहुँचे।",
+        "or": "ସମସ୍ତ କର୍ମଚାରୀ ଧ୍ୟାନ ଦିଅନ୍ତୁ: ପଟ୍ ଊନସ୍ତରିରେ ଉପର ସାଇଡ୍ ସେଲ୍ ଲିକେଜ୍ ଖବର ମିଳିଛି। ଜରୁରୀକାଳୀନ ପ୍ରତିକ୍ରିୟା ଦଳ ପଟ୍ ଊନସ୍ତରିକୁ ଯାଆନ୍ତୁ।"
+      }
+    },
+    {
+      "key": "TASK_05",
+      "voiceProfile": "Technical_Mark",
+      "display": {
+        "en": "Observe the voltage value. The safe limit is below 4.5 V, with current below 350 kA.",
+        "hi": "वोल्टेज का मान देखें। सुरक्षित सीमा 4.5 V से कम है, और करंट 350 kA से कम होना चाहिए।",
+        "or": "ଭୋଲ୍ଟେଜ୍ ମୂଲ୍ୟ ଦେଖନ୍ତୁ। ସୁରକ୍ଷିତ ସୀମା 4.5 V ରୁ କମ୍, ଏବଂ କରେଣ୍ଟ୍ 350 kA ରୁ କମ୍ ହେବା ଉଚିତ।"
+      },
+      "speech": {
+        "en": "Observe the voltage value. The safe limit is below 4.5 V, with current below 350 kA.",
+        "hi": "वोल्टेज का मान देखें। सुरक्षित सीमा 4.5 वोल्ट से कम है, और करंट 350 किलो एम्पियर से कम होना चाहिए।",
+        "or": "ଭୋଲ୍ଟେଜ୍ ମୂଲ୍ୟ ଦେଖନ୍ତୁ। ସୁରକ୍ଷିତ ସୀମା ଚାରି ଦଶମିକ ପାଞ୍ଚ ଭୋଲ୍ଟରୁ କମ୍, ଏବଂ କରେଣ୍ଟ୍ ତିନି ଶହ ପଚାଶ କିଲୋ ଆମ୍ପିୟରରୁ କମ୍ ହେବା ଉଚିତ।"
+      }
+    },
+    {
+      "key": "TASK_06",
+      "voiceProfile": "Technical_Mark",
+      "display": {
+        "en": "Active digits are blinking on the Pot Controller. The voltage is currently high at 4.544 V, exceeding the safe operational threshold.",
+        "hi": "पॉट कंट्रोलर पर सक्रिय अंक झपक रहे हैं। वोल्टेज इस समय 4.544 V पर ऊँचा है, जो सुरक्षित संचालन सीमा से अधिक है।",
+        "or": "ପଟ୍ କଣ୍ଟ୍ରୋଲର୍‌ରେ ସକ୍ରିୟ ଅଙ୍କଗୁଡ଼ିକ ଝଲକୁଛି। ଭୋଲ୍ଟେଜ୍ ବର୍ତ୍ତମାନ 4.544 V ରେ ଅଧିକ ଅଛି, ଯାହା ସୁରକ୍ଷିତ ପରିଚାଳନା ସୀମାଠାରୁ ଅଧିକ।"
+      },
+      "speech": {
+        "en": "Active digits are blinking on the Pot Controller. The voltage is currently high at 4.544 V, exceeding the safe operational threshold.",
+        "hi": "पॉट कंट्रोलर पर सक्रिय अंक झपक रहे हैं। वोल्टेज इस समय 4.544 वोल्ट पर ऊँचा है, जो सुरक्षित संचालन सीमा से अधिक है।",
+        "or": "ପଟ୍ କଣ୍ଟ୍ରୋଲର୍‌ରେ ସକ୍ରିୟ ଅଙ୍କଗୁଡ଼ିକ ଝଲକୁଛି। ଭୋଲ୍ଟେଜ୍ ବର୍ତ୍ତମାନ ଚାରି ଦଶମିକ ପାଞ୍ଚ ଚାରି ଚାରି ଭୋଲ୍ଟରେ ଅଧିକ ଅଛି, ଯାହା ସୁରକ୍ଷିତ ପରିଚାଳନା ସୀମାଠାରୁ ଅଧିକ।"
+      }
+    },
+    {
+      "key": "TASK_07",
+      "voiceProfile": "Technical_Mark",
+      "display": {
+        "en": "Verify the beam level on both the Pot Controller and the Beam Scale.",
+        "hi": "पॉट कंट्रोलर और बीम स्केल दोनों पर बीम स्तर की जाँच करें।",
+        "or": "ପଟ୍ କଣ୍ଟ୍ରୋଲର୍ ଏବଂ ବିମ୍ ସ୍କେଲ୍ ଉଭୟରେ ବିମ୍ ସ୍ତର ଯାଞ୍ଚ କରନ୍ତୁ।"
+      },
+      "speech": {
+        "en": "Verify the beam level on both the Pot Controller and the Beam Scale.",
+        "hi": "पॉट कंट्रोलर और बीम स्केल दोनों पर बीम स्तर की जाँच करें।",
+        "or": "ପଟ୍ କଣ୍ଟ୍ରୋଲର୍ ଏବଂ ବିମ୍ ସ୍କେଲ୍ ଉଭୟରେ ବିମ୍ ସ୍ତର ଯାଞ୍ଚ କରନ୍ତୁ।"
+      }
+    },
+    {
+      "key": "TASK_08",
+      "voiceProfile": "Technical_Mark",
+      "display": {
+        "en": "Press the Lower Anode Beam button on the Pot Controller to bring the pot voltage within safe operational limits.",
+        "hi": "पॉट वोल्टेज को सुरक्षित संचालन सीमा में लाने के लिए पॉट कंट्रोलर पर लोअर एनोड बीम बटन दबाएँ।",
+        "or": "ପଟ୍ ଭୋଲ୍ଟେଜ୍‌କୁ ସୁରକ୍ଷିତ ପରିଚାଳନା ସୀମା ମଧ୍ୟକୁ ଆଣିବା ପାଇଁ ପଟ୍ କଣ୍ଟ୍ରୋଲର୍‌ରେ ଲୋୟର୍ ଆନୋଡ୍ ବିମ୍ ବଟନ୍ ଦବାନ୍ତୁ।"
+      },
+      "speech": {
+        "en": "Press the Lower Anode Beam button on the Pot Controller to bring the pot voltage within safe operational limits.",
+        "hi": "पॉट वोल्टेज को सुरक्षित संचालन सीमा में लाने के लिए पॉट कंट्रोलर पर लोअर एनोड बीम बटन दबाएँ।",
+        "or": "ପଟ୍ ଭୋଲ୍ଟେଜ୍‌କୁ ସୁରକ୍ଷିତ ପରିଚାଳନା ସୀମା ମଧ୍ୟକୁ ଆଣିବା ପାଇଁ ପଟ୍ କଣ୍ଟ୍ରୋଲର୍‌ରେ ଲୋୟର୍ ଆନୋଡ୍ ବିମ୍ ବଟନ୍ ଦବାନ୍ତୁ।"
+      }
+    },
+    {
+      "key": "TASK_09",
+      "voiceProfile": "Technical_Mark",
+      "display": {
+        "en": "Select the Side Breaking Tool from the toolbox to proceed with side breaking and crust removal.",
+        "hi": "साइड ब्रेकिंग और क्रस्ट हटाने के लिए टूलबॉक्स से साइड ब्रेकिंग टूल चुनें।",
+        "or": "ସାଇଡ୍ ବ୍ରେକିଂ ଏବଂ କ୍ରଷ୍ଟ ହଟାଇବା ପାଇଁ ଟୁଲ୍‌ବକ୍ସରୁ ସାଇଡ୍ ବ୍ରେକିଂ ଟୁଲ୍ ବାଛନ୍ତୁ।"
+      },
+      "speech": {
+        "en": "Select the Side Breaking Tool from the toolbox to proceed with side breaking and crust removal.",
+        "hi": "साइड ब्रेकिंग और क्रस्ट हटाने के लिए टूलबॉक्स से साइड ब्रेकिंग टूल चुनें।",
+        "or": "ସାଇଡ୍ ବ୍ରେକିଂ ଏବଂ କ୍ରଷ୍ଟ ହଟାଇବା ପାଇଁ ଟୁଲ୍‌ବକ୍ସରୁ ସାଇଡ୍ ବ୍ରେକିଂ ଟୁଲ୍ ବାଛନ୍ତୁ।"
+      }
+    },
+    {
+      "key": "TASK_10",
+      "voiceProfile": "Technical_Mark",
+      "display": {
+        "en": "Now carefully apply the stopper to the leakage point on the pot. Look for the area where smoke is visible and molten metal is flowing. If the leakage is wider, you may use an additional stopper to help control it.",
+        "hi": "अब पॉट के लीकेज बिंदु पर स्टॉपर को सावधानी से लगाएँ। उस जगह को देखें जहाँ धुआँ दिख रहा है और पिघली धातु बह रही है। यदि लीकेज अधिक चौड़ा है, तो उसे नियंत्रित करने के लिए अतिरिक्त स्टॉपर का उपयोग कर सकते हैं।",
+        "or": "ବର୍ତ୍ତମାନ ପଟ୍‌ର ଲିକେଜ୍ ସ୍ଥାନରେ ସାବଧାନତାର ସହ ଷ୍ଟପର୍ ଲଗାନ୍ତୁ। ଯେଉଁ ସ୍ଥାନରେ ଧୂଆଁ ଦେଖାଯାଉଛି ଏବଂ ତରଳ ଧାତୁ ବହୁଛି ତାହା ଦେଖନ୍ତୁ। ଯଦି ଲିକେଜ୍ ଅଧିକ ଚଉଡ଼ା, ତେବେ ଏହାକୁ ନିୟନ୍ତ୍ରଣ କରିବା ପାଇଁ ଅତିରିକ୍ତ ଷ୍ଟପର୍ ବ୍ୟବହାର କରିପାରିବେ।"
+      },
+      "speech": {
+        "en": "Now carefully apply the stopper to the leakage point on the pot. Look for the area where smoke is visible and molten metal is flowing. If the leakage is wider, you may use an additional stopper to help control it.",
+        "hi": "अब पॉट के लीकेज बिंदु पर स्टॉपर को सावधानी से लगाएँ। उस जगह को देखें जहाँ धुआँ दिख रहा है और पिघली धातु बह रही है। यदि लीकेज अधिक चौड़ा है, तो उसे नियंत्रित करने के लिए अतिरिक्त स्टॉपर का उपयोग कर सकते हैं।",
+        "or": "ବର୍ତ୍ତମାନ ପଟ୍‌ର ଲିକେଜ୍ ସ୍ଥାନରେ ସାବଧାନତାର ସହ ଷ୍ଟପର୍ ଲଗାନ୍ତୁ। ଯେଉଁ ସ୍ଥାନରେ ଧୂଆଁ ଦେଖାଯାଉଛି ଏବଂ ତରଳ ଧାତୁ ବହୁଛି ତାହା ଦେଖନ୍ତୁ। ଯଦି ଲିକେଜ୍ ଅଧିକ ଚଉଡ଼ା, ତେବେ ଏହାକୁ ନିୟନ୍ତ୍ରଣ କରିବା ପାଇଁ ଅତିରିକ୍ତ ଷ୍ଟପର୍ ବ୍ୟବହାର କରିପାରିବେ।"
+      }
+    },
+    {
+      "key": "TASK_10_STOPPER_APPLIED",
+      "voiceProfile": "Technical_Mark",
+      "display": {
+        "en": "Let us arrange the cooling pipes",
+        "hi": "आइए कूलिंग पाइप लगाएँ।",
+        "or": "ଆସନ୍ତୁ କୁଲିଂ ପାଇପ୍ ଲଗାଇବା।"
+      },
+      "speech": {
+        "en": "Let us arrange the cooling pipes",
+        "hi": "आइए कूलिंग पाइप लगाएँ।",
+        "or": "ଆସନ୍ତୁ କୁଲିଂ ପାଇପ୍ ଲଗାଇବା।"
+      }
+    },
+    {
+      "key": "TASK_10_PTM_CRANE",
+      "voiceProfile": "Technical_Mark",
+      "display": {
+        "en": " .",
+        "hi": "तीव्रता कम हुई है लेकिन रुकी नहीं है। आइए पॉट ब्रेकिंग प्रक्रिया के लिए पीटीएम क्रेन की व्यवस्था करें, और फोर्कलिफ्ट से बाथ बिन भी लगाया जाता है।",
+        "or": "ତୀବ୍ରତା କମିଛି କିନ୍ତୁ ବନ୍ଦ ହୋଇନାହିଁ। ଆସନ୍ତୁ ପଟ୍ ବ୍ରେକିଂ ପ୍ରକ୍ରିୟା ପାଇଁ ପିଟିଏମ୍ କ୍ରେନ୍ ବ୍ୟବସ୍ଥା କରିବା, ଏବଂ ଫୋର୍କଲିଫ୍ଟ ଦ୍ୱାରା ବାଥ୍ ବିନ୍ ମଧ୍ୟ ରଖାଯାଏ।"
+      },
+      "speech": {
+        "en": "The intensity is reduced but not stopped. Let us arrange PTM crane for pot breaking process, and the bath bin is also arranged by forklift.",
+        "hi": "तीव्रता कम हुई है लेकिन रुकी नहीं है। आइए पॉट ब्रेकिंग प्रक्रिया के लिए पीटीएम क्रेन की व्यवस्था करें, और फोर्कलिफ्ट से बाथ बिन भी लगाया जाता है।",
+        "or": "ତୀବ୍ରତା କମିଛି କିନ୍ତୁ ବନ୍ଦ ହୋଇନାହିଁ। ଆସନ୍ତୁ ପଟ୍ ବ୍ରେକିଂ ପ୍ରକ୍ରିୟା ପାଇଁ ପିଟିଏମ୍ କ୍ରେନ୍ ବ୍ୟବସ୍ଥା କରିବା, ଏବଂ ଫୋର୍କଲିଫ୍ଟ ଦ୍ୱାରା ବାଥ୍ ବିନ୍ ମଧ୍ୟ ରଖାଯାଏ।"
+      }
+    },
+    {
+      "key": "TASK_10_SIDE_BREAKING",
+      "voiceProfile": "Technical_Mark",
+      "display": {
+        "en": "Side breaking above the leakage has started.",
+        "hi": "लीकेज के ऊपर साइड ब्रेकिंग शुरू हो गई है।",
+        "or": "ଲିକେଜ୍ ଉପରେ ସାଇଡ୍ ବ୍ରେକିଂ ଆରମ୍ଭ ହୋଇଛି।"
+      },
+      "speech": {
+        "en": "Side breaking above the leakage has started.",
+        "hi": "लीकेज के ऊपर साइड ब्रेकिंग शुरू हो गई है।",
+        "or": "ଲିକେଜ୍ ଉପରେ ସାଇଡ୍ ବ୍ରେକିଂ ଆରମ୍ଭ ହୋଇଛି।"
+      }
+    },
+    {
+      "key": "TASK_10_RED_SHELL",
+      "voiceProfile": "Technical_Mark",
+      "display": {
+        "en": "Observe the red shell formation in the shell. Let us use hoes to reduce the red shell formation.",
+        "hi": "शेल में रेड शेल के बनने को देखें। आइए रेड शेल बनना कम करने के लिए हो का उपयोग करें।",
+        "or": "ସେଲ୍‌ରେ ରେଡ୍ ସେଲ୍ ଗଠନକୁ ଦେଖନ୍ତୁ। ଆସନ୍ତୁ ରେଡ୍ ସେଲ୍ ଗଠନ କମାଇବା ପାଇଁ ହୋ ବ୍ୟବହାର କରିବା।"
+      },
+      "speech": {
+        "en": "Observe the red shell formation in the shell. Let us use hoes to reduce the red shell formation.",
+        "hi": "शेल में रेड शेल के बनने को देखें। आइए रेड शेल बनना कम करने के लिए हो का उपयोग करें।",
+        "or": "ସେଲ୍‌ରେ ରେଡ୍ ସେଲ୍ ଗଠନକୁ ଦେଖନ୍ତୁ। ଆସନ୍ତୁ ରେଡ୍ ସେଲ୍ ଗଠନ କମାଇବା ପାଇଁ ହୋ ବ୍ୟବହାର କରିବା।"
+      }
+    },
+    {
+      "key": "TASK_10_VOLTAGE_CHECK",
+      "voiceProfile": "Technical_Mark",
+      "display": {
+        "en": "Check whether the voltage is within the safer limit before working on the red shell formation.",
+        "hi": "रेड शेल पर काम करने से पहले जाँच लें कि वोल्टेज सुरक्षित सीमा के भीतर है या नहीं।",
+        "or": "ରେଡ୍ ସେଲ୍ ଗଠନ ଉପରେ କାମ କରିବା ପୂର୍ବରୁ ଭୋଲ୍ଟେଜ୍ ସୁରକ୍ଷିତ ସୀମା ମଧ୍ୟରେ ଅଛି କି ନାହିଁ ଯାଞ୍ଚ କରନ୍ତୁ।"
+      },
+      "speech": {
+        "en": "Check whether the voltage is within the safer limit before working on the red shell formation.",
+        "hi": "रेड शेल पर काम करने से पहले जाँच लें कि वोल्टेज सुरक्षित सीमा के भीतर है या नहीं।",
+        "or": "ରେଡ୍ ସେଲ୍ ଗଠନ ଉପରେ କାମ କରିବା ପୂର୍ବରୁ ଭୋଲ୍ଟେଜ୍ ସୁରକ୍ଷିତ ସୀମା ମଧ୍ୟରେ ଅଛି କି ନାହିଁ ଯାଞ୍ଚ କରନ୍ତୁ।"
+      }
+    },
+    {
+      "key": "TASK_10_OBSERVE_RED_SHELL",
+      "voiceProfile": "Technical_Mark",
+      "display": {
+        "en": "Observe the red shell formation in the shell.",
+        "hi": "शेल में रेड शेल के बनने को देखें।",
+        "or": "ସେଲ୍‌ରେ ରେଡ୍ ସେଲ୍ ଗଠନକୁ ଦେଖନ୍ତୁ।"
+      },
+      "speech": {
+        "en": "Observe the red shell formation in the shell.",
+        "hi": "शेल में रेड शेल के बनने को देखें।",
+        "or": "ସେଲ୍‌ରେ ରେଡ୍ ସେଲ୍ ଗଠନକୁ ଦେଖନ୍ତୁ।"
+      }
+    },
+    {
+      "key": "TASK_10_USE_HOES",
+      "voiceProfile": "Technical_Mark",
+      "display": {
+        "en": "Let us use hose to reduce the red shell formation.",
+        "hi": "आइए रेड शेल बनना कम करने के लिए होज़ का उपयोग करें।",
+        "or": "ଆସନ୍ତୁ ରେଡ୍ ସେଲ୍ ଗଠନ କମାଇବା ପାଇଁ ହୋଜ୍ ବ୍ୟବହାର କରିବା।"
+      },
+      "speech": {
+        "en": "Let us use hose to reduce the red shell formation.",
+        "hi": "आइए रेड शेल बनना कम करने के लिए होज़ का उपयोग करें।",
+        "or": "ଆସନ୍ତୁ ରେଡ୍ ସେଲ୍ ଗଠନ କମାଇବା ପାଇଁ ହୋଜ୍ ବ୍ୟବହାର କରିବା।"
+      }
+    },
+    {
+      "key": "TASK_10_PICK_UP_HOES",
+      "voiceProfile": "Technical_Mark",
+      "display": {
+        "en": "Pick up the hose to reduce the red shell formation.",
+        "hi": "रेड शेल बनना कम करने के लिए होज़ उठाएँ।",
+        "or": "ରେଡ୍ ସେଲ୍ ଗଠନ କମାଇବା ପାଇଁ ହୋଜ୍ ଉଠାନ୍ତୁ।"
+      },
+      "speech": {
+        "en": "Pick up the hoes to reduce the red shell formation.",
+        "hi": "रेड शेल बनना कम करने के लिए हो उठाएँ।",
+        "or": "ରେଡ୍ ସେଲ୍ ଗଠନ କମାଇବା ପାଇଁ ହୋ ଉଠାନ୍ତୁ।"
+      }
+    },
+    {
+      "key": "TASK_10_PLACE_HOES_PIPE",
+      "voiceProfile": "Technical_Mark",
+      "display": {
+        "en": "Place the hose pipe near the red shell area.",
+        "hi": "होज़ पाइप को रेड शेल वाले क्षेत्र के पास रखें।",
+        "or": "ହୋଜ୍ ପାଇପ୍‌କୁ ରେଡ୍ ସେଲ୍ ଅଞ୍ଚଳ ନିକଟରେ ରଖନ୍ତୁ।"
+      },
+      "speech": {
+        "en": "Place the hose pipe near the red shell area.",
+        "hi": "होज़ पाइप को रेड शेल वाले क्षेत्र के पास रखें।",
+        "or": "ହୋଜ୍ ପାଇପ୍‌କୁ ରେଡ୍ ସେଲ୍ ଅଞ୍ଚଳ ନିକଟରେ ରଖନ୍ତୁ।"
+      }
+    },
+    {
+      "key": "TASK_10_OPEN_FLR_VALVE",
+      "voiceProfile": "Technical_Mark",
+      "display": {
+        "en": "Open the FLR block valve.",
+        "hi": "एफएलआर ब्लॉक वाल्व खोलें।",
+        "or": "ଏଫ୍ଏଲ୍ଆର୍ ବ୍ଲକ୍ ଭଲ୍ଭ ଖୋଲନ୍ତୁ।"
+      },
+      "speech": {
+        "en": "Open the FLR block valve.",
+        "hi": "एफएलआर ब्लॉक वाल्व खोलें।",
+        "or": "ଏଫ୍ଏଲ୍ଆର୍ ବ୍ଲକ୍ ଭଲ୍ଭ ଖୋଲନ୍ତୁ।"
+      }
+    },
+    {
+      "key": "TASK_10_VALVE_OPEN_COOL_AIR",
+      "voiceProfile": "Technical_Mark",
+      "display": {
+        "en": "Now that the valve is open, cool air is released over there.",
+        "hi": "अब वाल्व खुल गया है, इसलिए वहाँ ठंडी हवा छोड़ी जा रही है।",
+        "or": "ବର୍ତ୍ତମାନ ଭଲ୍ଭ ଖୋଲିଯାଇଛି, ତେଣୁ ସେଠାରେ ଥଣ୍ଡା ବାୟୁ ଛଡ଼ାଯାଉଛି।"
+      },
+      "speech": {
+        "en": "Now that the valve is open, cool air is released over there.",
+        "hi": "अब वाल्व खुल गया है, इसलिए वहाँ ठंडी हवा छोड़ी जा रही है।",
+        "or": "ବର୍ତ୍ତମାନ ଭଲ୍ଭ ଖୋଲିଯାଇଛି, ତେଣୁ ସେଠାରେ ଥଣ୍ଡା ବାୟୁ ଛଡ଼ାଯାଉଛି।"
+      }
+    },
+    {
+      "key": "TASK_10_OBSERVE_RED_SHELL_COOLING",
+      "voiceProfile": "Technical_Mark",
+      "display": {
+        "en": "Let us observe the red shell. It still requires more cooling; use hoes to reduce red shell formation.",
+        "hi": "आइए रेड शेल को देखें। इसे अभी और ठंडा करने की ज़रूरत है; रेड शेल बनना कम करने के लिए हो का उपयोग करें।",
+        "or": "ଆସନ୍ତୁ ରେଡ୍ ସେଲ୍ ଦେଖିବା। ଏହାକୁ ଏବେ ଅଧିକ ଥଣ୍ଡା କରିବା ଆବଶ୍ୟକ; ରେଡ୍ ସେଲ୍ ଗଠନ କମାଇବା ପାଇଁ ହୋ ବ୍ୟବହାର କରନ୍ତୁ।"
+      },
+      "speech": {
+        "en": "Let us observe the red shell. It still requires more cooling; use hoes to reduce red shell formation.",
+        "hi": "आइए रेड शेल को देखें। इसे अभी और ठंडा करने की ज़रूरत है; रेड शेल बनना कम करने के लिए हो का उपयोग करें।",
+        "or": "ଆସନ୍ତୁ ରେଡ୍ ସେଲ୍ ଦେଖିବା। ଏହାକୁ ଏବେ ଅଧିକ ଥଣ୍ଡା କରିବା ଆବଶ୍ୟକ; ରେଡ୍ ସେଲ୍ ଗଠନ କମାଇବା ପାଇଁ ହୋ ବ୍ୟବହାର କରନ୍ତୁ।"
+      }
+    },
+    {
+      "key": "Emergency Communication",
+      "display": {
+        "en": "Emergency Communication",
+        "hi": "आपातकालीन संचार",
+        "or": "ଜରୁରୀକାଳୀନ ଯୋଗାଯୋଗ"
+      },
+      "speech": {
+        "en": "",
+        "hi": "आपातकालीन संचार",
+        "or": "ଜରୁରୀକାଳୀନ ଯୋଗାଯୋଗ"
+      }
+    },
+    {
+      "key": "Step 1: Select SST Cooling Connector",
+      "display": {
+        "en": "Step 1: Select SST Cooling Connector",
+        "hi": "चरण 1: एसएसटी कूलिंग कनेक्टर चुनें",
+        "or": "ଧାପ 1: ଏସ୍ଏସ୍ଟି କୁଲିଂ କନେକ୍ଟର୍ ବାଛନ୍ତୁ"
+      },
+      "speech": {
+        "en": "",
+        "hi": "चरण 1: एसएसटी कूलिंग कनेक्टर चुनें",
+        "or": "ଧାପ 1: ଏସ୍ଏସ୍ଟି କୁଲିଂ କନେକ୍ଟର୍ ବାଛନ୍ତୁ"
+      }
+    },
+    {
+      "key": "Step 2: Select Hose pipe",
+      "display": {
+        "en": "Step 2: Select Hose pipe",
+        "hi": "चरण 2: होज़ पाइप चुनें",
+        "or": "ଧାପ 2: ହୋଜ୍ ପାଇପ୍ ବାଛନ୍ତୁ"
+      },
+      "speech": {
+        "en": "",
+        "hi": "चरण 2: होज़ पाइप चुनें",
+        "or": "ଧାପ 2: ହୋଜ୍ ପାଇପ୍ ବାଛନ୍ତୁ"
+      }
+    },
+    {
+      "key": "Step 3: Select Bag",
+      "display": {
+        "en": "Step 3: Select Bag",
+        "hi": "चरण 3: बैग चुनें",
+        "or": "ଧାପ 3: ବ୍ୟାଗ୍ ବାଛନ୍ତୁ"
+      },
+      "speech": {
+        "en": "",
+        "hi": "चरण 3: बैग चुनें",
+        "or": "ଧାପ 3: ବ୍ୟାଗ୍ ବାଛନ୍ତୁ"
+      }
+    },
+    {
+      "key": "SST Connection",
+      "display": {
+        "en": "SST Connection",
+        "hi": "एसएसटी कनेक्शन",
+        "or": "ଏସ୍ଏସ୍ଟି ସଂଯୋଗ"
+      },
+      "speech": {
+        "en": "",
+        "hi": "एसएसटी कनेक्शन",
+        "or": "ଏସ୍ଏସ୍ଟି ସଂଯୋଗ"
+      }
+    },
+    {
+      "key": "Air Unlock Valve",
+      "display": {
+        "en": "Air Unlock Valve",
+        "hi": "एयर अनलॉक वाल्व",
+        "or": "ଏୟାର୍ ଅନଲକ୍ ଭଲ୍ଭ"
+      },
+      "speech": {
+        "en": "",
+        "hi": "एयर अनलॉक वाल्व",
+        "or": "ଏୟାର୍ ଅନଲକ୍ ଭଲ୍ଭ"
+      }
+    },
+    {
+      "key": "Slide Right Hood",
+      "display": {
+        "en": "Slide Right Hood",
+        "hi": "दायाँ हुड स्लाइड करें",
+        "or": "ଡାହାଣ ହୁଡ୍ ଘୁଞ୍ଚାନ୍ତୁ"
+      },
+      "speech": {
+        "en": "",
+        "hi": "दायाँ हुड स्लाइड करें",
+        "or": "ଡାହାଣ ହୁଡ୍ ଘୁଞ୍ଚାନ୍ତୁ"
+      }
+    },
+    {
+      "key": "Slide Left Hood",
+      "display": {
+        "en": "Slide Left Hood",
+        "hi": "बायाँ हुड स्लाइड करें",
+        "or": "ବାମ ହୁଡ୍ ଘୁଞ୍ଚାନ୍ତୁ"
+      },
+      "speech": {
+        "en": "",
+        "hi": "बायाँ हुड स्लाइड करें",
+        "or": "ବାମ ହୁଡ୍ ଘୁଞ୍ଚାନ୍ତୁ"
+      }
+    },
+    {
+      "key": "Crust Breaking",
+      "display": {
+        "en": "Crust Breaking",
+        "hi": "क्रस्ट ब्रेकिंग",
+        "or": "କ୍ରଷ୍ଟ ବ୍ରେକିଂ"
+      },
+      "speech": {
+        "en": "",
+        "hi": "क्रस्ट ब्रेकिंग",
+        "or": "କ୍ରଷ୍ଟ ବ୍ରେକିଂ"
+      }
+    },
+    {
+      "key": "Pot Control Machine",
+      "display": {
+        "en": "Pot Control Machine",
+        "hi": "पॉट कंट्रोल मशीन",
+        "or": "ପଟ୍ କଣ୍ଟ୍ରୋଲ୍ ମେସିନ୍"
+      },
+      "speech": {
+        "en": "",
+        "hi": "पॉट कंट्रोल मशीन",
+        "or": "ପଟ୍ କଣ୍ଟ୍ରୋଲ୍ ମେସିନ୍"
+      }
+    },
+    {
+      "key": "Bath Powder",
+      "display": {
+        "en": "Bath Powder",
+        "hi": "बाथ पाउडर",
+        "or": "ବାଥ୍ ପାଉଡର୍"
+      },
+      "speech": {
+        "en": "",
+        "hi": "बाथ पाउडर",
+        "or": "ବାଥ୍ ପାଉଡର୍"
+      }
+    },
+    {
+      "key": "Throw Fused Alumina",
+      "display": {
+        "en": "Throw Fused Alumina",
+        "hi": "फ्यूज़्ड एल्यूमिना फेंकें",
+        "or": "ଫ୍ୟୁଜ୍ଡ୍ ଆଲୁମିନା ଫିଙ୍ଗନ୍ତୁ"
+      },
+      "speech": {
+        "en": "",
+        "hi": "फ्यूज़्ड एल्यूमिना फेंकें",
+        "or": "ଫ୍ୟୁଜ୍ଡ୍ ଆଲୁମିନା ଫିଙ୍ଗନ୍ତୁ"
+      }
+    },
+    {
+      "key": "Leakage Verification",
+      "display": {
+        "en": "Leakage Verification",
+        "hi": "लीकेज सत्यापन",
+        "or": "ଲିକେଜ୍ ଯାଞ୍ଚ"
+      },
+      "speech": {
+        "en": "",
+        "hi": "लीकेज सत्यापन",
+        "or": "ଲିକେଜ୍ ଯାଞ୍ଚ"
+      }
+    },
+    {
+      "key": "Close Hood",
+      "display": {
+        "en": "Close Hood",
+        "hi": "हुड बंद करें",
+        "or": "ହୁଡ୍ ବନ୍ଦ କରନ୍ତୁ"
+      },
+      "speech": {
+        "en": "",
+        "hi": "हुड बंद करें",
+        "or": "ହୁଡ୍ ବନ୍ଦ କରନ୍ତୁ"
+      }
+    },
+    {
+      "key": "Training Complete",
+      "display": {
+        "en": "Training Complete",
+        "hi": "प्रशिक्षण पूर्ण",
+        "or": "ପ୍ରଶିକ୍ଷଣ ସମ୍ପୂର୍ଣ୍ଣ"
+      },
+      "speech": {
+        "en": "",
+        "hi": "प्रशिक्षण पूर्ण",
+        "or": "ପ୍ରଶିକ୍ଷଣ ସମ୍ପୂର୍ଣ୍ଣ"
+      }
+    },
+    {
+      "key": "In normal production, the reduction pot operates at stable temperature and voltage parameters.",
+      "display": {
+        "en": "In normal production, the reduction pot operates at stable temperature and voltage parameters.",
+        "hi": "सामान्य उत्पादन में रिडक्शन पॉट स्थिर तापमान और वोल्टेज मानकों पर काम करता है।",
+        "or": "ସାଧାରଣ ଉତ୍ପାଦନରେ ରିଡକ୍ସନ୍ ପଟ୍ ସ୍ଥିର ତାପମାତ୍ରା ଏବଂ ଭୋଲ୍ଟେଜ୍ ମାନଦଣ୍ଡରେ କାମ କରେ।"
+      },
+      "speech": {
+        "en": "In normal production, the reduction pot operates at stable temperature and voltage parameters.",
+        "hi": "सामान्य उत्पादन में रिडक्शन पॉट स्थिर तापमान और वोल्टेज मानकों पर काम करता है।",
+        "or": "ସାଧାରଣ ଉତ୍ପାଦନରେ ରିଡକ୍ସନ୍ ପଟ୍ ସ୍ଥିର ତାପମାତ୍ରା ଏବଂ ଭୋଲ୍ଟେଜ୍ ମାନଦଣ୍ଡରେ କାମ କରେ।"
+      },
+      "voiceProfile": "Technical_Mark"
+    },
+    {
+      "key": "Inform the Shift Superintendent and Technical In-charge immediately through the walkie-talkie.",
+      "display": {
+        "en": "Inform the Shift Superintendent and Technical In-charge immediately through the walkie-talkie.",
+        "hi": "वॉकी-टॉकी के माध्यम से शिफ्ट सुपरिंटेंडेंट और टेक्निकल इंचार्ज को तुरंत सूचित करें।",
+        "or": "ୱାକି-ଟକି ମାଧ୍ୟମରେ ଶିଫ୍ଟ୍ ସୁପରିଣ୍ଟେଣ୍ଡେଣ୍ଟ ଏବଂ ଟେକ୍ନିକାଲ୍ ଇନ୍‌ଚାର୍ଜଙ୍କୁ ତୁରନ୍ତ ଜଣାନ୍ତୁ।"
+      },
+      "speech": {
+        "en": "Inform the Shift Superintendent and Technical In-charge immediately through the walkie-talkie.",
+        "hi": "वॉकी-टॉकी के माध्यम से शिफ्ट सुपरिंटेंडेंट और टेक्निकल इंचार्ज को तुरंत सूचित करें।",
+        "or": "ୱାକି-ଟକି ମାଧ୍ୟମରେ ଶିଫ୍ଟ୍ ସୁପରିଣ୍ଟେଣ୍ଡେଣ୍ଟ ଏବଂ ଟେକ୍ନିକାଲ୍ ଇନ୍‌ଚାର୍ଜଙ୍କୁ ତୁରନ୍ତ ଜଣାନ୍ତୁ।"
+      },
+      "voiceProfile": "Technical_Mark"
+    },
+    {
+      "key": "Select SST Cooling Connector in order to reduce the intensity of the leakage.",
+      "display": {
+        "en": "Select SST Cooling Connector in order to reduce the intensity of the leakage.",
+        "hi": "लीकेज की तीव्रता कम करने के लिए एसएसटी कूलिंग कनेक्टर चुनें।",
+        "or": "ଲିକେଜ୍‌ର ତୀବ୍ରତା କମାଇବା ପାଇଁ ଏସ୍ଏସ୍ଟି କୁଲିଂ କନେକ୍ଟର୍ ବାଛନ୍ତୁ।"
+      },
+      "speech": {
+        "en": "Select SST Cooling Connector in order to reduce the intensity of the leakage.",
+        "hi": "लीकेज की तीव्रता कम करने के लिए एसएसटी कूलिंग कनेक्टर चुनें।",
+        "or": "ଲିକେଜ୍‌ର ତୀବ୍ରତା କମାଇବା ପାଇଁ ଏସ୍ଏସ୍ଟି କୁଲିଂ କନେକ୍ଟର୍ ବାଛନ୍ତୁ।"
+      },
+      "voiceProfile": "Technical_Mark"
+    },
+    {
+      "key": "Select Hose pipe in order to reduce the intensity of the leakage.",
+      "display": {
+        "en": "Select Hose pipe in order to reduce the intensity of the leakage.",
+        "hi": "लीकेज की तीव्रता कम करने के लिए होज़ पाइप चुनें।",
+        "or": "ଲିକେଜ୍‌ର ତୀବ୍ରତା କମାଇବା ପାଇଁ ହୋଜ୍ ପାଇପ୍ ବାଛନ୍ତୁ।"
+      },
+      "speech": {
+        "en": "Select Hose pipe in order to reduce the intensity of the leakage.",
+        "hi": "लीकेज की तीव्रता कम करने के लिए होज़ पाइप चुनें।",
+        "or": "ଲିକେଜ୍‌ର ତୀବ୍ରତା କମାଇବା ପାଇଁ ହୋଜ୍ ପାଇପ୍ ବାଛନ୍ତୁ।"
+      },
+      "voiceProfile": "Technical_Mark"
+    },
+    {
+      "key": "Pick up fused alumina bag of 10 KG.",
+      "display": {
+        "en": "Pick up fused alumina bag of 10 KG.",
+        "hi": "10 KG का फ्यूज़्ड एल्यूमिना बैग उठाएँ।",
+        "or": "10 KG ର ଫ୍ୟୁଜ୍ଡ୍ ଆଲୁମିନା ବ୍ୟାଗ୍ ଉଠାନ୍ତୁ।"
+      },
+      "speech": {
+        "en": "Pick up fused alumina bag of 10 KG.",
+        "hi": "दस किलोग्राम का फ्यूज़्ड एल्यूमिना बैग उठाएँ।",
+        "or": "ଦଶ କିଲୋଗ୍ରାମର ଫ୍ୟୁଜ୍ଡ୍ ଆଲୁମିନା ବ୍ୟାଗ୍ ଉଠାନ୍ତୁ।"
+      },
+      "voiceProfile": "Technical_Mark"
+    },
+    {
+      "key": "Let us now open the valve to release compressed air in the affected area.",
+      "display": {
+        "en": "Let us now open the valve to release compressed air in the affected area.",
+        "hi": "आइए अब प्रभावित क्षेत्र में संपीड़ित हवा छोड़ने के लिए वाल्व खोलें।",
+        "or": "ଆସନ୍ତୁ ବର୍ତ୍ତମାନ ପ୍ରଭାବିତ ଅଞ୍ଚଳରେ ସଙ୍କୁଚିତ ବାୟୁ ଛାଡ଼ିବା ପାଇଁ ଭଲ୍ଭ ଖୋଲିବା।"
+      },
+      "speech": {
+        "en": "Let us now open the valve to release compressed air in the affected area.",
+        "hi": "आइए अब प्रभावित क्षेत्र में संपीड़ित हवा छोड़ने के लिए वाल्व खोलें।",
+        "or": "ଆସନ୍ତୁ ବର୍ତ୍ତମାନ ପ୍ରଭାବିତ ଅଞ୍ଚଳରେ ସଙ୍କୁଚିତ ବାୟୁ ଛାଡ଼ିବା ପାଇଁ ଭଲ୍ଭ ଖୋଲିବା।"
+      },
+      "voiceProfile": "Technical_Mark"
+    },
+    {
+      "key": "Slide the right hood.",
+      "display": {
+        "en": "Slide the right hood.",
+        "hi": "दाएँ हुड को स्लाइड करें।",
+        "or": "ଡାହାଣ ହୁଡ୍‌କୁ ଘୁଞ୍ଚାନ୍ତୁ।"
+      },
+      "speech": {
+        "en": "Slide the right hood.",
+        "hi": "दाएँ हुड को स्लाइड करें।",
+        "or": "ଡାହାଣ ହୁଡ୍‌କୁ ଘୁଞ୍ଚାନ୍ତୁ।"
+      },
+      "voiceProfile": "Technical_Mark"
+    },
+    {
+      "key": "Slide the left hood panel outward.",
+      "display": {
+        "en": "Slide the left hood panel outward.",
+        "hi": "बाएँ हुड पैनल को बाहर की ओर स्लाइड करें।",
+        "or": "ବାମ ହୁଡ୍ ପ୍ୟାନେଲ୍‌କୁ ବାହାରକୁ ଘୁଞ୍ଚାନ୍ତୁ।"
+      },
+      "speech": {
+        "en": "Slide the left hood panel outward.",
+        "hi": "बाएँ हुड पैनल को बाहर की ओर स्लाइड करें।",
+        "or": "ବାମ ହୁଡ୍ ପ୍ୟାନେଲ୍‌କୁ ବାହାରକୁ ଘୁଞ୍ଚାନ୍ତୁ।"
+      },
+      "voiceProfile": "Technical_Mark"
+    },
+    {
+      "key": "Let us start Crust Breaking Process by bringing PTM crane to the leaked potline",
+      "display": {
+        "en": "Let us start Crust Breaking Process by bringing PTM crane to the leaked potline",
+        "hi": "आइए रिसाव वाली पॉटलाइन तक पीटीएम क्रेन लाकर क्रस्ट तोड़ने की प्रक्रिया शुरू करें।",
+        "or": "ଆସନ୍ତୁ ଲିକେଜ୍ ହୋଇଥିବା ପଟ୍‌ଲାଇନ୍ ପର୍ଯ୍ୟନ୍ତ ପିଟିଏମ୍ କ୍ରେନ୍ ଆଣି କ୍ରଷ୍ଟ ଭାଙ୍ଗିବା ପ୍ରକ୍ରିୟା ଆରମ୍ଭ କରିବା।"
+      },
+      "speech": {
+        "en": "Let us start Crust Breaking Process by bringing PTM crane to the leaked potline",
+        "hi": "आइए रिसाव वाली पॉटलाइन तक पीटीएम क्रेन लाकर क्रस्ट तोड़ने की प्रक्रिया शुरू करें।",
+        "or": "ଆସନ୍ତୁ ଲିକେଜ୍ ହୋଇଥିବା ପଟ୍‌ଲାଇନ୍ ପର୍ଯ୍ୟନ୍ତ ପିଟିଏମ୍ କ୍ରେନ୍ ଆଣି କ୍ରଷ୍ଟ ଭାଙ୍ଗିବା ପ୍ରକ୍ରିୟା ଆରମ୍ଭ କରିବା।"
+      },
+      "voiceProfile": "Technical_Mark"
+    },
+    {
+      "key": "Let us start Crust Breaking Process by bring PTM crane to the leaked potline",
+      "display": {
+        "en": "Let us start Crust Breaking Process by bring PTM crane to the leaked potline",
+        "hi": "आइए रिसाव वाली पॉटलाइन तक पीटीएम क्रेन लाकर क्रस्ट तोड़ने की प्रक्रिया शुरू करें।",
+        "or": "ଆସନ୍ତୁ ଲିକେଜ୍ ହୋଇଥିବା ପଟ୍‌ଲାଇନ୍ ପର୍ଯ୍ୟନ୍ତ ପିଟିଏମ୍ କ୍ରେନ୍ ଆଣି କ୍ରଷ୍ଟ ଭାଙ୍ଗିବା ପ୍ରକ୍ରିୟା ଆରମ୍ଭ କରିବା।"
+      },
+      "speech": {
+        "en": "Let us start Crust Breaking Process by bring PTM crane to the leaked potline",
+        "hi": "आइए रिसाव वाली पॉटलाइन तक पीटीएम क्रेन लाकर क्रस्ट तोड़ने की प्रक्रिया शुरू करें।",
+        "or": "ଆସନ୍ତୁ ଲିକେଜ୍ ହୋଇଥିବା ପଟ୍‌ଲାଇନ୍ ପର୍ଯ୍ୟନ୍ତ ପିଟିଏମ୍ କ୍ରେନ୍ ଆଣି କ୍ରଷ୍ଟ ଭାଙ୍ଗିବା ପ୍ରକ୍ରିୟା ଆରମ୍ଭ କରିବା।"
+      },
+      "voiceProfile": "Technical_Mark"
+    },
+    {
+      "key": "Check the Voltage and Beam Level. Make sure both are within the safe operating limits.",
+      "display": {
+        "en": "Check the Voltage and Beam Level. Make sure both are within the safe operating limits.",
+        "hi": "वोल्टेज और बीम स्तर जाँचें। सुनिश्चित करें कि दोनों सुरक्षित संचालन सीमा के भीतर हैं।",
+        "or": "ଭୋଲ୍ଟେଜ୍ ଏବଂ ବିମ୍ ସ୍ତର ଯାଞ୍ଚ କରନ୍ତୁ। ଉଭୟ ସୁରକ୍ଷିତ ପରିଚାଳନା ସୀମା ମଧ୍ୟରେ ଅଛି ବୋଲି ନିଶ୍ଚିତ କରନ୍ତୁ।"
+      },
+      "speech": {
+        "en": "Check the Voltage and Beam Level. Make sure both are within the safe operating limits.",
+        "hi": "वोल्टेज और बीम स्तर जाँचें। सुनिश्चित करें कि दोनों सुरक्षित संचालन सीमा के भीतर हैं।",
+        "or": "ଭୋଲ୍ଟେଜ୍ ଏବଂ ବିମ୍ ସ୍ତର ଯାଞ୍ଚ କରନ୍ତୁ। ଉଭୟ ସୁରକ୍ଷିତ ପରିଚାଳନା ସୀମା ମଧ୍ୟରେ ଅଛି ବୋଲି ନିଶ୍ଚିତ କରନ୍ତୁ।"
+      },
+      "voiceProfile": "Technical_Mark"
+    },
+    {
+      "key": "Press AD again to continue adjusting the voltage and beam level toward the safe operating range.",
+      "display": {
+        "en": "Press AD again to continue adjusting the voltage and beam level toward the safe operating range.",
+        "hi": "वोल्टेज और बीम स्तर को सुरक्षित संचालन सीमा की ओर समायोजित करते रहने के लिए AD को फिर से दबाएँ।",
+        "or": "ଭୋଲ୍ଟେଜ୍ ଏବଂ ବିମ୍ ସ୍ତରକୁ ସୁରକ୍ଷିତ ପରିଚାଳନା ସୀମା ଆଡ଼କୁ ସଜାଡ଼ିବା ଜାରି ରଖିବା ପାଇଁ AD କୁ ପୁଣି ଦବାନ୍ତୁ।"
+      },
+      "speech": {
+        "en": "Press AD again to continue adjusting the voltage and beam level toward the safe operating range.",
+        "hi": "वोल्टेज और बीम स्तर को सुरक्षित संचालन सीमा की ओर समायोजित करते रहने के लिए AD को फिर से दबाएँ।",
+        "or": "ଭୋଲ୍ଟେଜ୍ ଏବଂ ବିମ୍ ସ୍ତରକୁ ସୁରକ୍ଷିତ ପରିଚାଳନା ସୀମା ଆଡ଼କୁ ସଜାଡ଼ିବା ଜାରି ରଖିବା ପାଇଁ ଏ ଡି କୁ ପୁଣି ଦବାନ୍ତୁ।"
+      },
+      "voiceProfile": "Technical_Mark"
+    },
+    {
+      "key": "The voltage has reached 4.1 volts. Continue adjusting until the voltage is below 4.1 volts and the beam level is above 350.",
+      "display": {
+        "en": "The voltage has reached 4.1 volts. Continue adjusting until the voltage is below 4.1 volts and the beam level is above 350.",
+        "hi": "वोल्टेज 4.1 वोल्ट तक पहुँच गया है। तब तक समायोजित करते रहें जब तक वोल्टेज 4.1 वोल्ट से नीचे और बीम स्तर 350 से ऊपर न हो जाए।",
+        "or": "ଭୋଲ୍ଟେଜ୍ 4.1 ଭୋଲ୍ଟରେ ପହଞ୍ଚିଛି। ଭୋଲ୍ଟେଜ୍ 4.1 ଭୋଲ୍ଟରୁ କମ୍ ଏବଂ ବିମ୍ ସ୍ତର 350 ରୁ ଅଧିକ ନହେବା ପର୍ଯ୍ୟନ୍ତ ସଜାଡ଼ିବା ଜାରି ରଖନ୍ତୁ।"
+      },
+      "speech": {
+        "en": "The voltage has reached 4.1 volts. Continue adjusting until the voltage is below 4.1 volts and the beam level is above 350.",
+        "hi": "वोल्टेज 4.1 वोल्ट तक पहुँच गया है। तब तक समायोजित करते रहें जब तक वोल्टेज 4.1 वोल्ट से नीचे और बीम स्तर 350 से ऊपर न हो जाए।",
+        "or": "ଭୋଲ୍ଟେଜ୍ ଚାରି ଦଶମିକ ଏକ ଭୋଲ୍ଟରେ ପହଞ୍ଚିଛି। ଭୋଲ୍ଟେଜ୍ ଚାରି ଦଶମିକ ଏକ ଭୋଲ୍ଟରୁ କମ୍ ଏବଂ ବିମ୍ ସ୍ତର ତିନି ଶହ ପଚାଶରୁ ଅଧିକ ନହେବା ପର୍ଯ୍ୟନ୍ତ ସଜାଡ଼ିବା ଜାରି ରଖନ୍ତୁ।"
+      },
+      "voiceProfile": "Technical_Mark"
+    },
+    {
+      "key": "The voltage and beam level are now within the safe operating range.",
+      "display": {
+        "en": "The voltage and beam level are now within the safe operating range.",
+        "hi": "वोल्टेज और बीम स्तर अब सुरक्षित संचालन सीमा के भीतर हैं।",
+        "or": "ଭୋଲ୍ଟେଜ୍ ଏବଂ ବିମ୍ ସ୍ତର ବର୍ତ୍ତମାନ ସୁରକ୍ଷିତ ପରିଚାଳନା ସୀମା ମଧ୍ୟରେ ଅଛି।"
+      },
+      "speech": {
+        "en": "The voltage and beam level are now within the safe operating range.",
+        "hi": "वोल्टेज और बीम स्तर अब सुरक्षित संचालन सीमा के भीतर हैं।",
+        "or": "ଭୋଲ୍ଟେଜ୍ ଏବଂ ବିମ୍ ସ୍ତର ବର୍ତ୍ତମାନ ସୁରକ୍ଷିତ ପରିଚାଳନା ସୀମା ମଧ୍ୟରେ ଅଛି।"
+      },
+      "voiceProfile": "Technical_Mark"
+    },
+    {
+      "key": "Now let us use bath powder from PTM crane.",
+      "display": {
+        "en": "Now let us use bath powder from PTM crane.",
+        "hi": "अब आइए पीटीएम क्रेन से बाथ पाउडर का उपयोग करें।",
+        "or": "ବର୍ତ୍ତମାନ ଆସନ୍ତୁ ପିଟିଏମ୍ କ୍ରେନ୍‌ରୁ ବାଥ୍ ପାଉଡର୍ ବ୍ୟବହାର କରିବା।"
+      },
+      "speech": {
+        "en": "Now let us use bath powder from PTM crane.",
+        "hi": "अब आइए पीटीएम क्रेन से बाथ पाउडर का उपयोग करें।",
+        "or": "ବର୍ତ୍ତମାନ ଆସନ୍ତୁ ପିଟିଏମ୍ କ୍ରେନ୍‌ରୁ ବାଥ୍ ପାଉଡର୍ ବ୍ୟବହାର କରିବା।"
+      },
+      "voiceProfile": "Technical_Mark"
+    },
+    {
+      "key": "Throw fused alumina to seal the bath leakage area. Make sure you are maintaining 2 to 3 meter safe distance.",
+      "display": {
+        "en": "Throw fused alumina to seal the bath leakage area. Make sure you are maintaining 2 to 3 meter safe distance.",
+        "hi": "बाथ लीकेज वाले क्षेत्र को सील करने के लिए फ्यूज़्ड एल्यूमिना फेंकें। सुनिश्चित करें कि आप 2 से 3 मीटर की सुरक्षित दूरी बनाए रखें।",
+        "or": "ବାଥ୍ ଲିକେଜ୍ ଅଞ୍ଚଳକୁ ସିଲ୍ କରିବା ପାଇଁ ଫ୍ୟୁଜ୍ଡ୍ ଆଲୁମିନା ଫିଙ୍ଗନ୍ତୁ। ଆପଣ 2 ରୁ 3 ମିଟର ସୁରକ୍ଷିତ ଦୂରତା ବଜାୟ ରଖୁଛନ୍ତି ବୋଲି ନିଶ୍ଚିତ କରନ୍ତୁ।"
+      },
+      "speech": {
+        "en": "Throw fused alumina to seal the bath leakage area. Make sure you are maintaining 2 to 3 meter safe distance.",
+        "hi": "बाथ लीकेज वाले क्षेत्र को सील करने के लिए फ्यूज़्ड एल्यूमिना फेंकें। सुनिश्चित करें कि आप दो से तीन मीटर की सुरक्षित दूरी बनाए रखें।",
+        "or": "ବାଥ୍ ଲିକେଜ୍ ଅଞ୍ଚଳକୁ ସିଲ୍ କରିବା ପାଇଁ ଫ୍ୟୁଜ୍ଡ୍ ଆଲୁମିନା ଫିଙ୍ଗନ୍ତୁ। ଆପଣ ଦୁଇରୁ ତିନି ମିଟର ସୁରକ୍ଷିତ ଦୂରତା ବଜାୟ ରଖୁଛନ୍ତି ବୋଲି ନିଶ୍ଚିତ କରନ୍ତୁ।"
+      },
+      "voiceProfile": "Technical_Mark"
+    },
+    {
+      "key": "After all these processes the leakage must be stopped, so let us check if there is still leakage.",
+      "display": {
+        "en": "After all these processes the leakage must be stopped, so let us check if there is still leakage.",
+        "hi": "इन सभी प्रक्रियाओं के बाद लीकेज रुक जाना चाहिए, तो आइए जाँचें कि अब भी लीकेज है या नहीं।",
+        "or": "ଏହି ସମସ୍ତ ପ୍ରକ୍ରିୟା ପରେ ଲିକେଜ୍ ବନ୍ଦ ହେବା ଉଚିତ, ତେଣୁ ଆସନ୍ତୁ ଏବେ ବି ଲିକେଜ୍ ଅଛି କି ନାହିଁ ଯାଞ୍ଚ କରିବା।"
+      },
+      "speech": {
+        "en": "After all these processes the leakage must be stopped, so let us check if there is still leakage.",
+        "hi": "इन सभी प्रक्रियाओं के बाद लीकेज रुक जाना चाहिए, तो आइए जाँचें कि अब भी लीकेज है या नहीं।",
+        "or": "ଏହି ସମସ୍ତ ପ୍ରକ୍ରିୟା ପରେ ଲିକେଜ୍ ବନ୍ଦ ହେବା ଉଚିତ, ତେଣୁ ଆସନ୍ତୁ ଏବେ ବି ଲିକେଜ୍ ଅଛି କି ନାହିଁ ଯାଞ୍ଚ କରିବା।"
+      },
+      "voiceProfile": "Technical_Mark"
+    },
+    {
+      "key": "Pot leakage is completely stopped. Let us close the hood.",
+      "display": {
+        "en": "Pot leakage is completely stopped. Let us close the hood.",
+        "hi": "पॉट लीकेज पूरी तरह रुक गया है। आइए हुड बंद करें।",
+        "or": "ପଟ୍ ଲିକେଜ୍ ସମ୍ପୂର୍ଣ୍ଣ ବନ୍ଦ ହୋଇଯାଇଛି। ଆସନ୍ତୁ ହୁଡ୍ ବନ୍ଦ କରିବା।"
+      },
+      "speech": {
+        "en": "Pot leakage is completely stopped. Let us close the hood.",
+        "hi": "पॉट लीकेज पूरी तरह रुक गया है। आइए हुड बंद करें।",
+        "or": "ପଟ୍ ଲିକେଜ୍ ସମ୍ପୂର୍ଣ୍ଣ ବନ୍ଦ ହୋଇଯାଇଛି। ଆସନ୍ତୁ ହୁଡ୍ ବନ୍ଦ କରିବା।"
+      },
+      "voiceProfile": "Technical_Mark"
+    },
+    {
+      "key": "Let us close the left hood now",
+      "display": {
+        "en": "Let us close the left hood now",
+        "hi": "आइए अब बायाँ हुड बंद करें।",
+        "or": "ଆସନ୍ତୁ ବର୍ତ୍ତମାନ ବାମ ହୁଡ୍ ବନ୍ଦ କରିବା।"
+      },
+      "speech": {
+        "en": "Let us close the left hood now",
+        "hi": "आइए अब बायाँ हुड बंद करें।",
+        "or": "ଆସନ୍ତୁ ବର୍ତ୍ତମାନ ବାମ ହୁଡ୍ ବନ୍ଦ କରିବା।"
+      },
+      "voiceProfile": "Technical_Mark"
+    },
+    {
+      "key": "Pot Leakage Emergency Response Training Completed.",
+      "display": {
+        "en": "Pot Leakage Emergency Response Training Completed.",
+        "hi": "पॉट लीकेज आपातकालीन प्रतिक्रिया प्रशिक्षण पूरा हुआ।",
+        "or": "ପଟ୍ ଲିକେଜ୍ ଜରୁରୀକାଳୀନ ପ୍ରତିକ୍ରିୟା ପ୍ରଶିକ୍ଷଣ ସମ୍ପୂର୍ଣ୍ଣ ହୋଇଛି।"
+      },
+      "speech": {
+        "en": "Pot Leakage Emergency Response Training Completed.",
+        "hi": "पॉट लीकेज आपातकालीन प्रतिक्रिया प्रशिक्षण पूरा हुआ।",
+        "or": "ପଟ୍ ଲିକେଜ୍ ଜରୁରୀକାଳୀନ ପ୍ରତିକ୍ରିୟା ପ୍ରଶିକ୍ଷଣ ସମ୍ପୂର୍ଣ୍ଣ ହୋଇଛି।"
+      },
+      "voiceProfile": "Technical_Mark"
+    },
+    {
+      "key": "NEXT",
+      "display": {
+        "en": "NEXT",
+        "hi": "आगे",
+        "or": "ଆଗକୁ"
+      },
+      "speech": {
+        "en": "NEXT",
+        "hi": "आगे",
+        "or": "ଆଗକୁ"
+      },
+      "voiceProfile": "Technical_Mark"
+    },
+    {
+      "key": "CONTINUE",
+      "display": {
+        "en": "CONTINUE",
+        "hi": "जारी रखें",
+        "or": "ଜାରି ରଖନ୍ତୁ"
+      },
+      "speech": {
+        "en": "CONTINUE",
+        "hi": "जारी रखें",
+        "or": "ଜାରି ରଖନ୍ତୁ"
+      },
+      "voiceProfile": "Technical_Mark"
+    },
+    {
+      "key": "CONTINUE >>",
+      "display": {
+        "en": "CONTINUE >>",
+        "hi": "जारी रखें >>",
+        "or": "ଜାରି ରଖନ୍ତୁ >>"
+      },
+      "speech": {
+        "en": "CONTINUE >>",
+        "hi": "जारी रखें >>",
+        "or": "ଜାରି ରଖନ୍ତୁ >>"
+      },
+      "voiceProfile": "Technical_Mark"
+    },
+    {
+      "key": "CONTROLS GUIDE",
+      "display": {
+        "en": "CONTROLS GUIDE",
+        "hi": "नियंत्रण गाइड",
+        "or": "ନିୟନ୍ତ୍ରଣ ଗାଇଡ୍"
+      },
+      "speech": {
+        "en": "CONTROLS GUIDE",
+        "hi": "नियंत्रण गाइड",
+        "or": "ନିୟନ୍ତ୍ରଣ ଗାଇଡ୍"
+      },
+      "voiceProfile": "Technical_Mark"
+    },
+    {
+      "key": "Shows this panel again",
+      "display": {
+        "en": "Shows this panel again",
+        "hi": "यह पैनल फिर से दिखाता है",
+        "or": "ଏହି ପ୍ୟାନେଲ୍ ପୁଣି ଦେଖାଏ"
+      },
+      "speech": {
+        "en": "Shows this panel again",
+        "hi": "यह पैनल फिर से दिखाता है",
+        "or": "ଏହି ପ୍ୟାନେଲ୍ ପୁଣି ଦେଖାଏ"
+      },
+      "voiceProfile": "Technical_Mark"
+    },
+    {
+      "key": "Release a tool over a glowing zone to use it",
+      "display": {
+        "en": "Release a tool over a glowing zone to use it",
+        "hi": "टूल का उपयोग करने के लिए उसे चमकते क्षेत्र के ऊपर छोड़ें",
+        "or": "ଟୁଲ୍ ବ୍ୟବହାର କରିବାକୁ ଏହାକୁ ଉଜ୍ଜ୍ୱଳ କ୍ଷେତ୍ର ଉପରେ ଛାଡ଼ନ୍ତୁ"
+      },
+      "speech": {
+        "en": "Release a tool over a glowing zone to use it",
+        "hi": "टूल का उपयोग करने के लिए उसे चमकते क्षेत्र के ऊपर छोड़ें",
+        "or": "ଟୁଲ୍ ବ୍ୟବହାର କରିବାକୁ ଏହାକୁ ଉଜ୍ଜ୍ୱଳ କ୍ଷେତ୍ର ଉପରେ ଛାଡ଼ନ୍ତୁ"
+      },
+      "voiceProfile": "Technical_Mark"
+    },
+    {
+      "key": "Point and release to teleport",
+      "display": {
+        "en": "Point and release to teleport",
+        "hi": "टेलीपोर्ट करने के लिए इंगित करें और छोड़ें",
+        "or": "ଟେଲିପୋର୍ଟ କରିବାକୁ ଦର୍ଶାନ୍ତୁ ଏବଂ ଛାଡ଼ନ୍ତୁ"
+      },
+      "speech": {
+        "en": "Point and release to teleport",
+        "hi": "टेलीपोर्ट करने के लिए इंगित करें और छोड़ें",
+        "or": "ଟେଲିପୋର୍ଟ କରିବାକୁ ଦର୍ଶାନ୍ତୁ ଏବଂ ଛାଡ଼ନ୍ତୁ"
+      },
+      "voiceProfile": "Technical_Mark"
+    },
+    {
+      "key": "Smooth move (left) / Snap turn (right)",
+      "display": {
+        "en": "Smooth move (left) / Snap turn (right)",
+        "hi": "सहज चलना (बायाँ) / स्नैप टर्न (दायाँ)",
+        "or": "ସ୍ମୁଥ୍ ଚାଲିବା (ବାମ) / ସ୍ନାପ୍ ଟର୍ନ (ଡାହାଣ)"
+      },
+      "speech": {
+        "en": "Smooth move (left) / Snap turn (right)",
+        "hi": "सहज चलना (बायाँ) / स्नैप टर्न (दायाँ)",
+        "or": "ସ୍ମୁଥ୍ ଚାଲିବା (ବାମ) / ସ୍ନାପ୍ ଟର୍ନ (ଡାହାଣ)"
+      },
+      "voiceProfile": "Technical_Mark"
+    },
+    {
+      "key": "Hold to move items in your hand",
+      "display": {
+        "en": "Hold to move items in your hand",
+        "hi": "हाथ में वस्तुओं को हिलाने के लिए दबाए रखें",
+        "or": "ହାତରେ ଥିବା ବସ୍ତୁ ଘୁଞ୍ଚାଇବାକୁ ଧରି ରଖନ୍ତୁ"
+      },
+      "speech": {
+        "en": "Hold to move items in your hand",
+        "hi": "हाथ में वस्तुओं को हिलाने के लिए दबाए रखें",
+        "or": "ହାତରେ ଥିବା ବସ୍ତୁ ଘୁଞ୍ଚାଇବାକୁ ଧରି ରଖନ୍ତୁ"
+      },
+      "voiceProfile": "Technical_Mark"
+    },
+    {
+      "key": "Grab / Pick objects you point at",
+      "display": {
+        "en": "Grab / Pick objects you point at",
+        "hi": "जिन वस्तुओं की ओर इंगित करें उन्हें पकड़ें / उठाएँ",
+        "or": "ଆପଣ ଯେଉଁ ବସ୍ତୁକୁ ଦର୍ଶାଉଛନ୍ତି ତାକୁ ଧରନ୍ତୁ / ଉଠାନ୍ତୁ"
+      },
+      "speech": {
+        "en": "Grab / Pick objects you point at",
+        "hi": "जिन वस्तुओं की ओर इंगित करें उन्हें पकड़ें / उठाएँ",
+        "or": "ଆପଣ ଯେଉଁ ବସ୍ତୁକୁ ଦର୍ଶାଉଛନ୍ତି ତାକୁ ଧରନ୍ତୁ / ଉଠାନ୍ତୁ"
+      },
+      "voiceProfile": "Technical_Mark"
+    },
+    {
+      "key": "Incorrect tool selected! This tool is not used for this step. Please select the highlighted tool.",
+      "display": {
+        "en": "Incorrect tool selected! This tool is not used for this step. Please select the highlighted tool.",
+        "hi": "गलत टूल चुना गया! यह टूल इस चरण में उपयोग नहीं होता। कृपया हाइलाइट किया गया टूल चुनें।",
+        "or": "ଭୁଲ୍ ଟୁଲ୍ ବାଛାଯାଇଛି! ଏହି ଟୁଲ୍ ଏହି ଧାପରେ ବ୍ୟବହୃତ ହୁଏ ନାହିଁ। ଦୟାକରି ହାଇଲାଇଟ୍ ହୋଇଥିବା ଟୁଲ୍ ବାଛନ୍ତୁ।"
+      },
+      "speech": {
+        "en": "Incorrect tool selected! This tool is not used for this step. Please select the highlighted tool.",
+        "hi": "गलत टूल चुना गया! यह टूल इस चरण में उपयोग नहीं होता। कृपया हाइलाइट किया गया टूल चुनें।",
+        "or": "ଭୁଲ୍ ଟୁଲ୍ ବାଛାଯାଇଛି! ଏହି ଟୁଲ୍ ଏହି ଧାପରେ ବ୍ୟବହୃତ ହୁଏ ନାହିଁ। ଦୟାକରି ହାଇଲାଇଟ୍ ହୋଇଥିବା ଟୁଲ୍ ବାଛନ୍ତୁ।"
+      },
+      "voiceProfile": "Technical_Mark"
+    },
+    {
+      "key": "[COLLECTED]",
+      "display": {
+        "en": "[COLLECTED]",
+        "hi": "[एकत्रित]",
+        "or": "[ସଂଗୃହୀତ]"
+      },
+      "speech": {
+        "en": "[COLLECTED]",
+        "hi": "[एकत्रित]",
+        "or": "[ସଂଗୃହୀତ]"
+      },
+      "voiceProfile": "Technical_Mark"
+    },
+    {
+      "key": "POT LEAKAGE RESPONSE COMPLETED",
+      "display": {
+        "en": "POT LEAKAGE RESPONSE COMPLETED",
+        "hi": "पॉट लीकेज प्रतिक्रिया पूर्ण",
+        "or": "ପଟ୍ ଲିକେଜ୍ ପ୍ରତିକ୍ରିୟା ସମ୍ପୂର୍ଣ୍ଣ"
+      },
+      "speech": {
+        "en": "POT LEAKAGE RESPONSE COMPLETED",
+        "hi": "पॉट लीकेज प्रतिक्रिया पूर्ण",
+        "or": "ପଟ୍ ଲିକେଜ୍ ପ୍ରତିକ୍ରିୟା ସମ୍ପୂର୍ଣ୍ଣ"
+      },
+      "voiceProfile": "Technical_Mark"
+    },
+    {
+      "key": "VEDANTA ALUMINIUM",
+      "display": {
+        "en": "VEDANTA ALUMINIUM",
+        "hi": "वेदांता एल्युमिनियम",
+        "or": "ବେଦାନ୍ତ ଆଲୁମିନିୟମ୍"
+      },
+      "speech": {
+        "en": "VEDANTA ALUMINIUM",
+        "hi": "वेदांता एल्युमिनियम",
+        "or": "ବେଦାନ୍ତ ଆଲୁମିନିୟମ୍"
+      },
+      "voiceProfile": "Technical_Mark"
+    },
+    {
+      "key": "VEDANTA ALUMINIUM — POTLINE OPERATIONS",
+      "display": {
+        "en": "VEDANTA ALUMINIUM — POTLINE OPERATIONS",
+        "hi": "वेदांता एल्युमिनियम — पॉटलाइन संचालन",
+        "or": "ବେଦାନ୍ତ ଆଲୁମିନିୟମ୍ — ପଟ୍‌ଲାଇନ୍ ପରିଚାଳନା"
+      },
+      "speech": {
+        "en": "VEDANTA ALUMINIUM — POTLINE OPERATIONS",
+        "hi": "वेदांता एल्युमिनियम — पॉटलाइन संचालन",
+        "or": "ବେଦାନ୍ତ ଆଲୁମିନିୟମ୍ — ପଟ୍‌ଲାଇନ୍ ପରିଚାଳନା"
+      },
+      "voiceProfile": "Technical_Mark"
+    },
+    {
+      "key": "Before completion, the operator must verify every item below. Click an item to confirm it.",
+      "display": {
+        "en": "Before completion, the operator must verify every item below. Click an item to confirm it.",
+        "hi": "पूर्ण करने से पहले ऑपरेटर को नीचे दिए हर बिंदु की पुष्टि करनी होगी। पुष्टि के लिए बिंदु पर क्लिक करें।",
+        "or": "ସମ୍ପୂର୍ଣ୍ଣ କରିବା ପୂର୍ବରୁ ଅପରେଟର୍ ତଳେ ଥିବା ପ୍ରତ୍ୟେକ ଆଇଟମ୍ ଯାଞ୍ଚ କରିବେ। ନିଶ୍ଚିତ କରିବାକୁ ଆଇଟମ୍ ଉପରେ କ୍ଲିକ୍ କରନ୍ତୁ।"
+      },
+      "speech": {
+        "en": "Before completion, the operator must verify every item below. Click an item to confirm it.",
+        "hi": "पूर्ण करने से पहले ऑपरेटर को नीचे दिए हर बिंदु की पुष्टि करनी होगी। पुष्टि के लिए बिंदु पर क्लिक करें।",
+        "or": "ସମ୍ପୂର୍ଣ୍ଣ କରିବା ପୂର୍ବରୁ ଅପରେଟର୍ ତଳେ ଥିବା ପ୍ରତ୍ୟେକ ଆଇଟମ୍ ଯାଞ୍ଚ କରିବେ। ନିଶ୍ଚିତ କରିବାକୁ ଆଇଟମ୍ ଉପରେ କ୍ଲିକ୍ କରନ୍ତୁ।"
+      },
+      "voiceProfile": "Technical_Mark"
+    },
+    {
+      "key": "All required tools collected and accounted for",
+      "display": {
+        "en": "All required tools collected and accounted for",
+        "hi": "सभी आवश्यक टूल एकत्र किए गए और गिने गए",
+        "or": "ସମସ୍ତ ଆବଶ୍ୟକ ଟୁଲ୍ ସଂଗ୍ରହ ହୋଇଛି ଏବଂ ହିସାବ କରାଯାଇଛି"
+      },
+      "speech": {
+        "en": "All required tools collected and accounted for",
+        "hi": "सभी आवश्यक टूल एकत्र किए गए और गिने गए",
+        "or": "ସମସ୍ତ ଆବଶ୍ୟକ ଟୁଲ୍ ସଂଗ୍ରହ ହୋଇଛି ଏବଂ ହିସାବ କରାଯାଇଛି"
+      },
+      "voiceProfile": "Technical_Mark"
+    },
+    {
+      "key": "Right and left hoods closed properly",
+      "display": {
+        "en": "Right and left hoods closed properly",
+        "hi": "दायाँ और बायाँ हुड ठीक से बंद किए गए",
+        "or": "ଡାହାଣ ଓ ବାମ ହୁଡ୍ ଠିକ୍ ଭାବେ ବନ୍ଦ ହୋଇଛି"
+      },
+      "speech": {
+        "en": "Right and left hoods closed properly",
+        "hi": "दायाँ और बायाँ हुड ठीक से बंद किए गए",
+        "or": "ଡାହାଣ ଓ ବାମ ହୁଡ୍ ଠିକ୍ ଭାବେ ବନ୍ଦ ହୋଇଛି"
+      },
+      "voiceProfile": "Technical_Mark"
+    },
+    {
+      "key": "Voltage maintained below 4.1 V",
+      "display": {
+        "en": "Voltage maintained below 4.1 V",
+        "hi": "वोल्टेज 4.1 V से नीचे बनाए रखा गया",
+        "or": "ଭୋଲ୍ଟେଜ୍ 4.1 V ରୁ କମ୍ ରଖାଯାଇଛି"
+      },
+      "speech": {
+        "en": "Voltage maintained below 4.1 V",
+        "hi": "वोल्टेज 4.1 V से नीचे बनाए रखा गया",
+        "or": "ଭୋଲ୍ଟେଜ୍ 4.1 V ରୁ କମ୍ ରଖାଯାଇଛି"
+      },
+      "voiceProfile": "Technical_Mark"
+    },
+    {
+      "key": "Cooling pipes checked and cooling air released",
+      "display": {
+        "en": "Cooling pipes checked and cooling air released",
+        "hi": "कूलिंग पाइप जाँचे गए और कूलिंग एयर छोड़ी गई",
+        "or": "କୁଲିଂ ପାଇପ୍ ଯାଞ୍ଚ ହୋଇଛି ଏବଂ କୁଲିଂ ଏୟାର୍ ଛଡ଼ାଯାଇଛି"
+      },
+      "speech": {
+        "en": "Cooling pipes checked and cooling air released",
+        "hi": "कूलिंग पाइप जाँचे गए और कूलिंग एयर छोड़ी गई",
+        "or": "କୁଲିଂ ପାଇପ୍ ଯାଞ୍ଚ ହୋଇଛି ଏବଂ କୁଲିଂ ଏୟାର୍ ଛଡ଼ାଯାଇଛି"
+      },
+      "voiceProfile": "Technical_Mark"
+    },
+    {
+      "key": "Beam level maintained above 350",
+      "display": {
+        "en": "Beam level maintained above 350",
+        "hi": "बीम लेवल 350 से ऊपर बनाए रखा गया",
+        "or": "ବିମ୍ ଲେଭେଲ୍ 350 ରୁ ଅଧିକ ରଖାଯାଇଛି"
+      },
+      "speech": {
+        "en": "Beam level maintained above 350",
+        "hi": "बीम लेवल 350 से ऊपर बनाए रखा गया",
+        "or": "ବିମ୍ ଲେଭେଲ୍ 350 ରୁ ଅଧିକ ରଖାଯାଇଛି"
+      },
+      "voiceProfile": "Technical_Mark"
+    },
+    {
+      "key": "FLR valve opened correctly",
+      "display": {
+        "en": "FLR valve opened correctly",
+        "hi": "एफएलआर वाल्व सही ढंग से खोला गया",
+        "or": "ଏଫ୍ଏଲ୍ଆର୍ ଭଲ୍ଭ ଠିକ୍ ଭାବେ ଖୋଲାଯାଇଛି"
+      },
+      "speech": {
+        "en": "FLR valve opened correctly",
+        "hi": "एफएलआर वाल्व सही ढंग से खोला गया",
+        "or": "ଏଫ୍ଏଲ୍ଆର୍ ଭଲ୍ଭ ଠିକ୍ ଭାବେ ଖୋଲାଯାଇଛି"
+      },
+      "voiceProfile": "Technical_Mark"
+    },
+    {
+      "key": "Bath powder applied using PTM crane",
+      "display": {
+        "en": "Bath powder applied using PTM crane",
+        "hi": "पीटीएम क्रेन से बाथ पाउडर डाला गया",
+        "or": "ପିଟିଏମ୍ କ୍ରେନ୍ ଦ୍ୱାରା ବାଥ୍ ପାଉଡର୍ ପ୍ରୟୋଗ କରାଯାଇଛି"
+      },
+      "speech": {
+        "en": "Bath powder applied using PTM crane",
+        "hi": "पीटीएम क्रेन से बाथ पाउडर डाला गया",
+        "or": "ପିଟିଏମ୍ କ୍ରେନ୍ ଦ୍ୱାରା ବାଥ୍ ପାଉଡର୍ ପ୍ରୟୋଗ କରାଯାଇଛି"
+      },
+      "voiceProfile": "Technical_Mark"
+    },
+    {
+      "key": "No leakage visible after treatment",
+      "display": {
+        "en": "No leakage visible after treatment",
+        "hi": "उपचार के बाद कोई लीकेज दिखाई नहीं दे रहा",
+        "or": "ଉପଚାର ପରେ କୌଣସି ଲିକେଜ୍ ଦେଖାଯାଉନାହିଁ"
+      },
+      "speech": {
+        "en": "No leakage visible after treatment",
+        "hi": "उपचार के बाद कोई लीकेज दिखाई नहीं दे रहा",
+        "or": "ଉପଚାର ପରେ କୌଣସି ଲିକେଜ୍ ଦେଖାଯାଉନାହିଁ"
+      },
+      "voiceProfile": "Technical_Mark"
+    },
+    {
+      "key": "Fused alumina (10 kg) added successfully",
+      "display": {
+        "en": "Fused alumina (10 kg) added successfully",
+        "hi": "फ्यूज़्ड एल्यूमिना (10 किग्रा) सफलतापूर्वक डाली गई",
+        "or": "ଫ୍ୟୁଜ୍ଡ୍ ଆଲୁମିନା (10 କିଗ୍ରା) ସଫଳତାର ସହ ଯୋଡ଼ାଯାଇଛି"
+      },
+      "speech": {
+        "en": "Fused alumina (10 kg) added successfully",
+        "hi": "फ्यूज़्ड एल्यूमिना (10 किग्रा) सफलतापूर्वक डाली गई",
+        "or": "ଫ୍ୟୁଜ୍ଡ୍ ଆଲୁମିନା (10 କିଗ୍ରା) ସଫଳତାର ସହ ଯୋଡ଼ାଯାଇଛି"
+      },
+      "voiceProfile": "Technical_Mark"
+    },
+    {
+      "key": "Final pot voltage and beam level verified",
+      "display": {
+        "en": "Final pot voltage and beam level verified",
+        "hi": "अंतिम पॉट वोल्टेज और बीम लेवल की पुष्टि की गई",
+        "or": "ଅନ୍ତିମ ପଟ୍ ଭୋଲ୍ଟେଜ୍ ଏବଂ ବିମ୍ ଲେଭେଲ୍ ଯାଞ୍ଚ ହୋଇଛି"
+      },
+      "speech": {
+        "en": "Final pot voltage and beam level verified",
+        "hi": "अंतिम पॉट वोल्टेज और बीम लेवल की पुष्टि की गई",
+        "or": "ଅନ୍ତିମ ପଟ୍ ଭୋଲ୍ଟେଜ୍ ଏବଂ ବିମ୍ ଲେଭେଲ୍ ଯାଞ୍ଚ ହୋଇଛି"
+      },
+      "voiceProfile": "Technical_Mark"
+    },
+    {
+      "key": "MOVE TO QUIZ",
+      "display": {
+        "en": "MOVE TO QUIZ",
+        "hi": "क्विज़ पर जाएँ",
+        "or": "କୁଇଜ୍‌କୁ ଯାଆନ୍ତୁ"
+      },
+      "speech": {
+        "en": "MOVE TO QUIZ",
+        "hi": "क्विज़ पर जाएँ",
+        "or": "କୁଇଜ୍‌କୁ ଯାଆନ୍ତୁ"
+      },
+      "voiceProfile": "Technical_Mark"
+    },
+    {
+      "key": "[VERIFIED]",
+      "display": {
+        "en": "[VERIFIED]",
+        "hi": "[सत्यापित]",
+        "or": "[ଯାଞ୍ଚିତ]"
+      },
+      "speech": {
+        "en": "[VERIFIED]",
+        "hi": "[सत्यापित]",
+        "or": "[ଯାଞ୍ଚିତ]"
+      },
+      "voiceProfile": "Technical_Mark"
+    },
+    {
+      "key": "EMERGENCY RADIO LINK",
+      "display": {
+        "en": "EMERGENCY RADIO LINK",
+        "hi": "आपातकालीन रेडियो लिंक",
+        "or": "ଜରୁରୀକାଳୀନ ରେଡିଓ ଲିଙ୍କ୍"
+      },
+      "speech": {
+        "en": "EMERGENCY RADIO LINK",
+        "hi": "आपातकालीन रेडियो लिंक",
+        "or": "ଜରୁରୀକାଳୀନ ରେଡିଓ ଲିଙ୍କ୍"
+      },
+      "voiceProfile": "Technical_Mark"
+    },
+    {
+      "key": "CONNECT TO POT SUPERINTENDENT & PROCESS CONTROL",
+      "display": {
+        "en": "CONNECT TO POT SUPERINTENDENT & PROCESS CONTROL",
+        "hi": "पॉट सुपरिंटेंडेंट और प्रोसेस कंट्रोल से जुड़ें",
+        "or": "ପଟ୍ ସୁପରିଣ୍ଟେଣ୍ଡେଣ୍ଟ ଏବଂ ପ୍ରୋସେସ୍ କଣ୍ଟ୍ରୋଲ୍ ସହ ସଂଯୁକ୍ତ ହୁଅନ୍ତୁ"
+      },
+      "speech": {
+        "en": "CONNECT TO POT SUPERINTENDENT & PROCESS CONTROL",
+        "hi": "पॉट सुपरिंटेंडेंट और प्रोसेस कंट्रोल से जुड़ें",
+        "or": "ପଟ୍ ସୁପରିଣ୍ଟେଣ୍ଡେଣ୍ଟ ଏବଂ ପ୍ରୋସେସ୍ କଣ୍ଟ୍ରୋଲ୍ ସହ ସଂଯୁକ୍ତ ହୁଅନ୍ତୁ"
+      },
+      "voiceProfile": "Technical_Mark"
+    },
+    {
+      "key": "RADIO TRANSMISSION",
+      "display": {
+        "en": "RADIO TRANSMISSION",
+        "hi": "रेडियो प्रसारण",
+        "or": "ରେଡିଓ ପ୍ରସାରଣ"
+      },
+      "speech": {
+        "en": "RADIO TRANSMISSION",
+        "hi": "रेडियो प्रसारण",
+        "or": "ରେଡିଓ ପ୍ରସାରଣ"
+      },
+      "voiceProfile": "Technical_Mark"
+    },
+    {
+      "key": "SHIFT IN-CHARGE",
+      "display": {
+        "en": "SHIFT IN-CHARGE",
+        "hi": "शिफ्ट इंचार्ज",
+        "or": "ଶିଫ୍ଟ୍ ଇନ୍‌ଚାର୍ଜ"
+      },
+      "speech": {
+        "en": "SHIFT IN-CHARGE",
+        "hi": "शिफ्ट इंचार्ज",
+        "or": "ଶିଫ୍ଟ୍ ଇନ୍‌ଚାର୍ଜ"
+      },
+      "voiceProfile": "Technical_Mark"
+    },
+    {
+      "key": "TECHNICAL IN-CHARGE",
+      "display": {
+        "en": "TECHNICAL IN-CHARGE",
+        "hi": "टेक्निकल इंचार्ज",
+        "or": "ଟେକ୍ନିକାଲ୍ ଇନ୍‌ଚାର୍ଜ"
+      },
+      "speech": {
+        "en": "TECHNICAL IN-CHARGE",
+        "hi": "टेक्निकल इंचार्ज",
+        "or": "ଟେକ୍ନିକାଲ୍ ଇନ୍‌ଚାର୍ଜ"
+      },
+      "voiceProfile": "Technical_Mark"
+    },
+    {
+      "key": "Process Control",
+      "display": {
+        "en": "Process Control",
+        "hi": "प्रोसेस कंट्रोल",
+        "or": "ପ୍ରୋସେସ୍ କଣ୍ଟ୍ରୋଲ୍"
+      },
+      "speech": {
+        "en": "Process Control",
+        "hi": "प्रोसेस कंट्रोल",
+        "or": "ପ୍ରୋସେସ୍ କଣ୍ଟ୍ରୋଲ୍"
+      },
+      "voiceProfile": "Technical_Mark"
+    },
+    {
+      "key": "Operational Safety",
+      "display": {
+        "en": "Operational Safety",
+        "hi": "संचालन सुरक्षा",
+        "or": "ପରିଚାଳନା ସୁରକ୍ଷା"
+      },
+      "speech": {
+        "en": "Operational Safety",
+        "hi": "संचालन सुरक्षा",
+        "or": "ପରିଚାଳନା ସୁରକ୍ଷା"
+      },
+      "voiceProfile": "Technical_Mark"
+    },
+    {
+      "key": "ACTIVE CHANNEL | CEILING: ≤ 4.5 V | PERSISTENT: < 1.2 V",
+      "display": {
+        "en": "ACTIVE CHANNEL | CEILING: ≤ 4.5 V | PERSISTENT: < 1.2 V",
+        "hi": "सक्रिय चैनल | अधिकतम: ≤ 4.5 V | लगातार: < 1.2 V",
+        "or": "ସକ୍ରିୟ ଚ୍ୟାନେଲ୍ | ସର୍ବାଧିକ: ≤ 4.5 V | ନିରନ୍ତର: < 1.2 V"
+      },
+      "speech": {
+        "en": "ACTIVE CHANNEL | CEILING: ≤ 4.5 V | PERSISTENT: < 1.2 V",
+        "hi": "सक्रिय चैनल | अधिकतम: ≤ 4.5 V | लगातार: < 1.2 V",
+        "or": "ସକ୍ରିୟ ଚ୍ୟାନେଲ୍ | ସର୍ବାଧିକ: ≤ 4.5 V | ନିରନ୍ତର: < 1.2 V"
+      },
+      "voiceProfile": "Technical_Mark"
+    },
+    {
+      "key": "SLIDE TO CALL >>>",
+      "display": {
+        "en": "SLIDE TO CALL >>>",
+        "hi": "कॉल के लिए स्लाइड करें >>>",
+        "or": "କଲ୍ ପାଇଁ ସ୍ଲାଇଡ୍ କରନ୍ତୁ >>>"
+      },
+      "speech": {
+        "en": "SLIDE TO CALL >>>",
+        "hi": "कॉल के लिए स्लाइड करें >>>",
+        "or": "କଲ୍ ପାଇଁ ସ୍ଲାଇଡ୍ କରନ୍ତୁ >>>"
+      },
+      "voiceProfile": "Technical_Mark"
+    },
+    {
+      "key": "CALLING...",
+      "display": {
+        "en": "CALLING...",
+        "hi": "कॉल हो रहा है...",
+        "or": "କଲ୍ ହେଉଛି..."
+      },
+      "speech": {
+        "en": "CALLING...",
+        "hi": "कॉल हो रहा है...",
+        "or": "କଲ୍ ହେଉଛି..."
+      },
+      "voiceProfile": "Technical_Mark"
+    },
+    {
+      "key": "EXIT TRAINING",
+      "display": {
+        "en": "EXIT TRAINING",
+        "hi": "प्रशिक्षण से बाहर निकलें",
+        "or": "ପ୍ରଶିକ୍ଷଣରୁ ବାହାରନ୍ତୁ"
+      },
+      "speech": {
+        "en": "EXIT TRAINING",
+        "hi": "प्रशिक्षण से बाहर निकलें",
+        "or": "ପ୍ରଶିକ୍ଷଣରୁ ବାହାରନ୍ତୁ"
+      },
+      "voiceProfile": "Technical_Mark"
+    },
+    {
+      "key": "RETRY QUIZ",
+      "display": {
+        "en": "RETRY QUIZ",
+        "hi": "क्विज़ दोबारा करें",
+        "or": "କୁଇଜ୍ ପୁନର୍ବାର ଦିଅନ୍ତୁ"
+      },
+      "speech": {
+        "en": "RETRY QUIZ",
+        "hi": "क्विज़ दोबारा करें",
+        "or": "କୁଇଜ୍ ପୁନର୍ବାର ଦିଅନ୍ତୁ"
+      },
+      "voiceProfile": "Technical_Mark"
+    },
+    {
+      "key": "NEXT QUESTION",
+      "display": {
+        "en": "NEXT QUESTION",
+        "hi": "अगला प्रश्न",
+        "or": "ପରବର୍ତ୍ତୀ ପ୍ରଶ୍ନ"
+      },
+      "speech": {
+        "en": "NEXT QUESTION",
+        "hi": "अगला प्रश्न",
+        "or": "ପରବର୍ତ୍ତୀ ପ୍ରଶ୍ନ"
+      },
+      "voiceProfile": "Technical_Mark"
+    },
+    {
+      "key": "SHOW RESULT",
+      "display": {
+        "en": "SHOW RESULT",
+        "hi": "परिणाम दिखाएँ",
+        "or": "ଫଳାଫଳ ଦେଖାନ୍ତୁ"
+      },
+      "speech": {
+        "en": "SHOW RESULT",
+        "hi": "परिणाम दिखाएँ",
+        "or": "ଫଳାଫଳ ଦେଖାନ୍ତୁ"
+      },
+      "voiceProfile": "Technical_Mark"
+    },
+    {
+      "key": "Select the correct answer.",
+      "display": {
+        "en": "Select the correct answer.",
+        "hi": "सही उत्तर चुनें।",
+        "or": "ସଠିକ୍ ଉତ୍ତର ବାଛନ୍ତୁ।"
+      },
+      "speech": {
+        "en": "Select the correct answer.",
+        "hi": "सही उत्तर चुनें।",
+        "or": "ସଠିକ୍ ଉତ୍ତର ବାଛନ୍ତୁ।"
+      },
+      "voiceProfile": "Technical_Mark"
+    },
+    {
+      "key": "Correct!",
+      "display": {
+        "en": "Correct!",
+        "hi": "सही!",
+        "or": "ସଠିକ୍!"
+      },
+      "speech": {
+        "en": "Correct!",
+        "hi": "सही!",
+        "or": "ସଠିକ୍!"
+      },
+      "voiceProfile": "Technical_Mark"
+    },
+    {
+      "key": "Incorrect.",
+      "display": {
+        "en": "Incorrect.",
+        "hi": "गलत।",
+        "or": "ଭୁଲ୍।"
+      },
+      "speech": {
+        "en": "Incorrect.",
+        "hi": "गलत।",
+        "or": "ଭୁଲ୍।"
+      },
+      "voiceProfile": "Technical_Mark"
+    },
+    {
+      "key": "Correct answer:",
+      "display": {
+        "en": "Correct answer:",
+        "hi": "सही उत्तर:",
+        "or": "ସଠିକ୍ ଉତ୍ତର:"
+      },
+      "speech": {
+        "en": "Correct answer:",
+        "hi": "सही उत्तर:",
+        "or": "ସଠିକ୍ ଉତ୍ତର:"
+      },
+      "voiceProfile": "Technical_Mark"
+    },
+    {
+      "key": "PASS",
+      "display": {
+        "en": "PASS",
+        "hi": "उत्तीर्ण",
+        "or": "ଉତ୍ତୀର୍ଣ୍ଣ"
+      },
+      "speech": {
+        "en": "PASS",
+        "hi": "उत्तीर्ण",
+        "or": "ଉତ୍ତୀର୍ଣ୍ଣ"
+      },
+      "voiceProfile": "Technical_Mark"
+    },
+    {
+      "key": "FAIL",
+      "display": {
+        "en": "FAIL",
+        "hi": "अनुत्तीर्ण",
+        "or": "ଅନୁତ୍ତୀର୍ଣ୍ଣ"
+      },
+      "speech": {
+        "en": "FAIL",
+        "hi": "अनुत्तीर्ण",
+        "or": "ଅନୁତ୍ତୀର୍ଣ୍ଣ"
+      },
+      "voiceProfile": "Technical_Mark"
+    },
+    {
+      "key": "Well done. You have completed the Pot Leakage training.",
+      "display": {
+        "en": "Well done. You have completed the Pot Leakage training.",
+        "hi": "शाबाश। आपने पॉट लीकेज प्रशिक्षण पूरा कर लिया है।",
+        "or": "ବହୁତ ଭଲ। ଆପଣ ପଟ୍ ଲିକେଜ୍ ପ୍ରଶିକ୍ଷଣ ସମ୍ପୂର୍ଣ୍ଣ କରିଛନ୍ତି।"
+      },
+      "speech": {
+        "en": "Well done. You have completed the Pot Leakage training.",
+        "hi": "शाबाश। आपने पॉट लीकेज प्रशिक्षण पूरा कर लिया है।",
+        "or": "ବହୁତ ଭଲ। ଆପଣ ପଟ୍ ଲିକେଜ୍ ପ୍ରଶିକ୍ଷଣ ସମ୍ପୂର୍ଣ୍ଣ କରିଛନ୍ତି।"
+      },
+      "voiceProfile": "Technical_Mark"
+    },
+    {
+      "key": "Assessment Result",
+      "display": {
+        "en": "Assessment Result",
+        "hi": "मूल्यांकन परिणाम",
+        "or": "ମୂଲ୍ୟାଙ୍କନ ଫଳାଫଳ"
+      },
+      "speech": {
+        "en": "Assessment Result",
+        "hi": "मूल्यांकन परिणाम",
+        "or": "ମୂଲ୍ୟାଙ୍କନ ଫଳାଫଳ"
+      },
+      "voiceProfile": "Technical_Mark"
+    },
+    {
+      "key": "STEP {0} / {1}",
+      "display": {
+        "en": "STEP {0} / {1}",
+        "hi": "चरण {0} / {1}",
+        "or": "ଧାପ {0} / {1}"
+      },
+      "speech": {
+        "en": "STEP {0} / {1}",
+        "hi": "चरण {0} / {1}",
+        "or": "ଧାପ {0} / {1}"
+      },
+      "voiceProfile": "Technical_Mark"
+    },
+    {
+      "key": "Question {0} / {1}",
+      "display": {
+        "en": "Question {0} / {1}",
+        "hi": "प्रश्न {0} / {1}",
+        "or": "ପ୍ରଶ୍ନ {0} / {1}"
+      },
+      "speech": {
+        "en": "Question {0} / {1}",
+        "hi": "प्रश्न {0} / {1}",
+        "or": "ପ୍ରଶ୍ନ {0} / {1}"
+      },
+      "voiceProfile": "Technical_Mark"
+    },
+    {
+      "key": "{0} / {1} correct",
+      "display": {
+        "en": "{0} / {1} correct",
+        "hi": "{0} / {1} सही",
+        "or": "{0} / {1} ସଠିକ୍"
+      },
+      "speech": {
+        "en": "{0} / {1} correct",
+        "hi": "{0} / {1} सही",
+        "or": "{0} / {1} ସଠିକ୍"
+      },
+      "voiceProfile": "Technical_Mark"
+    },
+    {
+      "key": "Score: {0}%",
+      "display": {
+        "en": "Score: {0}%",
+        "hi": "स्कोर: {0}%",
+        "or": "ସ୍କୋର: {0}%"
+      },
+      "speech": {
+        "en": "Score: {0}%",
+        "hi": "स्कोर: {0}%",
+        "or": "ସ୍କୋର: {0}%"
+      },
+      "voiceProfile": "Technical_Mark"
+    },
+    {
+      "key": "Status: {0}",
+      "display": {
+        "en": "Status: {0}",
+        "hi": "स्थिति: {0}",
+        "or": "ସ୍ଥିତି: {0}"
+      },
+      "speech": {
+        "en": "Status: {0}",
+        "hi": "स्थिति: {0}",
+        "or": "ସ୍ଥିତି: {0}"
+      },
+      "voiceProfile": "Technical_Mark"
+    },
+    {
+      "key": "Pass mark is {0}%. Review the procedure and retry the quiz.",
+      "display": {
+        "en": "Pass mark is {0}%. Review the procedure and retry the quiz.",
+        "hi": "उत्तीर्ण अंक {0}% है। प्रक्रिया की समीक्षा करें और क्विज़ दोबारा दें।",
+        "or": "ଉତ୍ତୀର୍ଣ୍ଣ ମାର୍କ {0}% ଅଟେ। ପ୍ରକ୍ରିୟା ସମୀକ୍ଷା କରନ୍ତୁ ଏବଂ କୁଇଜ୍ ପୁନର୍ବାର ଦିଅନ୍ତୁ।"
+      },
+      "speech": {
+        "en": "Pass mark is {0}%. Review the procedure and retry the quiz.",
+        "hi": "उत्तीर्ण अंक {0}% है। प्रक्रिया की समीक्षा करें और क्विज़ दोबारा दें।",
+        "or": "ଉତ୍ତୀର୍ଣ୍ଣ ମାର୍କ {0}% ଅଟେ। ପ୍ରକ୍ରିୟା ସମୀକ୍ଷା କରନ୍ତୁ ଏବଂ କୁଇଜ୍ ପୁନର୍ବାର ଦିଅନ୍ତୁ।"
+      },
+      "voiceProfile": "Technical_Mark"
+    },
+    {
+      "key": "COLLECTED TOOLS",
+      "display": {
+        "en": "COLLECTED TOOLS",
+        "hi": "एकत्रित टूल्स",
+        "or": "ସଂଗୃହୀତ ଟୁଲ୍ସ"
+      },
+      "speech": {
+        "en": "COLLECTED TOOLS",
+        "hi": "एकत्रित टूल्स",
+        "or": "ସଂଗୃହୀତ ଟୁଲ୍ସ"
+      },
+      "voiceProfile": "Technical_Mark"
+    },
+    {
+      "key": "Pot Leakage Standard Operations",
+      "display": {
+        "en": "Pot Leakage Standard Operations",
+        "hi": "पॉट लीकेज मानक संचालन",
+        "or": "ପଟ୍ ଲିକେଜ୍ ମାନକ ପରିଚାଳନା"
+      },
+      "speech": {
+        "en": "Pot Leakage Standard Operations",
+        "hi": "पॉट लीकेज मानक संचालन",
+        "or": "ପଟ୍ ଲିକେଜ୍ ମାନକ ପରିଚାଳନା"
+      },
+      "voiceProfile": "Technical_Mark"
+    },
+    {
+      "key": "Pot Leakage Assessment Result",
+      "display": {
+        "en": "Pot Leakage Assessment Result",
+        "hi": "पॉट लीकेज मूल्यांकन परिणाम",
+        "or": "ପଟ୍ ଲିକେଜ୍ ମୂଲ୍ୟାଙ୍କନ ଫଳାଫଳ"
+      },
+      "speech": {
+        "en": "Pot Leakage Assessment Result",
+        "hi": "पॉट लीकेज मूल्यांकन परिणाम",
+        "or": "ପଟ୍ ଲିକେଜ୍ ମୂଲ୍ୟାଙ୍କନ ଫଳାଫଳ"
+      },
+      "voiceProfile": "Technical_Mark"
+    },
+    {
+      "key": "Welcome",
+      "display": {
+        "en": "Welcome",
+        "hi": "स्वागत",
+        "or": "ସ୍ୱାଗତ"
+      },
+      "speech": {
+        "en": "Welcome",
+        "hi": "स्वागत",
+        "or": "ସ୍ୱାଗତ"
+      },
+      "voiceProfile": "Technical_Mark"
+    },
+    {
+      "key": "Normal Pot Operation",
+      "display": {
+        "en": "Normal Pot Operation",
+        "hi": "सामान्य पॉट संचालन",
+        "or": "ସାଧାରଣ ପଟ୍ ପରିଚାଳନା"
+      },
+      "speech": {
+        "en": "",
+        "hi": "",
+        "or": ""
+      }
+    },
+    {
+      "key": "Leakage Occurred",
+      "display": {
+        "en": "Leakage Occurred",
+        "hi": "लीकेज हुआ",
+        "or": "ଲିକେଜ୍ ହେଲା"
+      },
+      "speech": {
+        "en": "",
+        "hi": "",
+        "or": ""
+      }
+    },
+    {
+      "key": "Tool Selection",
+      "display": {
+        "en": "Tool Selection",
+        "hi": "टूल चयन",
+        "or": "ଟୁଲ୍ ବାଛିବା"
+      },
+      "speech": {
+        "en": "",
+        "hi": "",
+        "or": ""
+      }
+    },
+    {
+      "key": "Slide Right Hood (Plane.023)",
+      "display": {
+        "en": "Slide Right Hood (Plane.023)",
+        "hi": "दायाँ हुड स्लाइड करें (Plane.023)",
+        "or": "ଡାହାଣ ହୁଡ୍ ଘୁଞ୍ଚାନ୍ତୁ (Plane.023)"
+      },
+      "speech": {
+        "en": "",
+        "hi": "",
+        "or": ""
+      }
+    },
+    {
+      "key": "Slide Left Hood (Plane.058)",
+      "display": {
+        "en": "Slide Left Hood (Plane.058)",
+        "hi": "बायाँ हुड स्लाइड करें (Plane.058)",
+        "or": "ବାମ ହୁଡ୍ ଘୁଞ୍ଚାନ୍ତୁ (Plane.058)"
+      },
+      "speech": {
+        "en": "",
+        "hi": "",
+        "or": ""
+      }
+    },
+    {
+      "key": "Crust Bathing",
+      "display": {
+        "en": "Crust Bathing",
+        "hi": "क्रस्ट बाथिंग",
+        "or": "କ୍ରଷ୍ଟ ବାଥିଂ"
+      },
+      "speech": {
+        "en": "",
+        "hi": "",
+        "or": ""
+      }
+    },
+    {
+      "key": "Bath Powder Flow",
+      "display": {
+        "en": "Bath Powder Flow",
+        "hi": "बाथ पाउडर प्रवाह",
+        "or": "ବାଥ୍ ପାଉଡର୍ ପ୍ରବାହ"
+      },
+      "speech": {
+        "en": "",
+        "hi": "",
+        "or": ""
+      }
+    },
+    {
+      "key": "Training Completed",
+      "display": {
+        "en": "Training Completed",
+        "hi": "प्रशिक्षण पूर्ण",
+        "or": "ପ୍ରଶିକ୍ଷଣ ସମ୍ପୂର୍ଣ୍ଣ"
+      },
+      "speech": {
+        "en": "",
+        "hi": "",
+        "or": ""
+      }
+    }
+  ],
+  "_note": "hi/or text added by the localization pass. Odia (and the Hindi UI wording) needs native-speaker review; see Localization_Review_Odia.tsv."
+}

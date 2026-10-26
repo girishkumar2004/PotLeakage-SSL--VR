@@ -1,0 +1,418 @@
+{
+  "entries": [
+    {
+      "key": "TASK_01",
+      "display": {
+        "en": "Welcome to the Vedanta Pot Leakage Training Visualization.\nThis module covers the Emergency Response Procedure for Side Shell Leakage at Upper Location.",
+        "hi": "",
+        "or": ""
+      },
+      "speech": {
+        "en": "Welcome to the Vedanta Pot Leakage Training Visualization. This module covers the Emergency Response Procedure for Side Shell Leakage at Upper Location.",
+        "hi": "",
+        "or": ""
+      }
+    },
+    {
+      "key": "TASK_01_WELCOME",
+      "display": {
+        "en": "Welcome to the Vedanta Pot Leakage Training Visualization.\nThis module covers the Emergency Response Procedure for Side Shell Leakage at Upper Location.",
+        "hi": "",
+        "or": ""
+      },
+      "speech": {
+        "en": "Welcome to the Vedanta Pot Leakage Training Visualization. This module covers the Emergency Response Procedure for Side Shell Leakage at Upper Location.",
+        "hi": "",
+        "or": ""
+      }
+    },
+    {
+      "key": "TASK_02",
+      "display": {
+        "en": "The reduction pots operate continuously under high temperature and molten bath conditions. Proper monitoring and rapid response to abnormalities are critical to operational safety.",
+        "hi": "",
+        "or": ""
+      },
+      "speech": {
+        "en": "The reduction pots operate continuously under high temperature and molten bath conditions. Proper monitoring and rapid response to abnormalities are critical to operational safety.",
+        "hi": "",
+        "or": ""
+      }
+    },
+    {
+      "key": "TASK_03",
+      "voiceProfile": "Technical_Mark",
+      "display": {
+        "en": "Pot leakage has occurred in Pot 4321.",
+        "hi": "",
+        "or": ""
+      },
+      "speech": {
+        "en": "Pot leakage has occurred in Pot 4321.",
+        "hi": "",
+        "or": ""
+      }
+    },
+    {
+      "key": "TASK_03_SLIDE_HOOD",
+      "voiceProfile": "Technical_Mark",
+      "display": {
+        "en": "Slide the hood.",
+        "hi": "",
+        "or": ""
+      },
+      "speech": {
+        "en": "Slide the hood.",
+        "hi": "",
+        "or": ""
+      }
+    },
+    {
+      "key": "TASK_03_REMOVE_HOOD",
+      "voiceProfile": "Technical_Mark",
+      "display": {
+        "en": "Slide the hood.",
+        "hi": "",
+        "or": ""
+      },
+      "speech": {
+        "en": "Slide the hood.",
+        "hi": "",
+        "or": ""
+      }
+    },
+    {
+      "key": "TASK_04",
+      "voiceProfile": "Technical_Mark",
+      "display": {
+        "en": "Let us call the Superintendent in such situation by picking up the walkie-talkie.",
+        "hi": "",
+        "or": ""
+      },
+      "speech": {
+        "en": "Let us call the Superintendent in such situation by picking up the walkie-talkie.",
+        "hi": "",
+        "or": ""
+      }
+    },
+    {
+      "key": "RADIO_VO_TASK_03",
+      "display": {
+        "en": "Shift Superintendent, Technical In-charge, Pot 69 has developed a side shell leakage. The leakage is visible from the upper side of the pot.",
+        "hi": "",
+        "or": ""
+      },
+      "speech": {
+        "en": "Shift Superintendent, Technical In-charge, Pot 69 has developed a side shell leakage. The leakage is visible from the upper side of the pot.",
+        "hi": "",
+        "or": ""
+      }
+    },
+    {
+      "key": "POTLEAKAGE_WALKIE_SHIFT_INCHARGE",
+      "voiceProfile": "Shift_InCharge",
+      "display": {
+        "en": "Take proper safety measures before proceeding with the leakage response.",
+        "hi": "",
+        "or": ""
+      },
+      "speech": {
+        "en": "Take proper safety measures before proceeding with the leakage response.",
+        "hi": "",
+        "or": ""
+      }
+    },
+    {
+      "key": "POTLEAKAGE_WALKIE_TECHNICAL_INCHARGE",
+      "voiceProfile": "Technical_Mark",
+      "display": {
+        "en": "Check the pot voltage in the pot control system and reduce the voltage below 1.2 V if the leakage does not stop.",
+        "hi": "",
+        "or": ""
+      },
+      "speech": {
+        "en": "Check the pot voltage in the pot control system and reduce the voltage below one point two volts if the leakage does not stop.",
+        "hi": "",
+        "or": ""
+      }
+    },
+    {
+      "key": "POT_CONTROLLER_NOTIFICATION",
+      "display": {
+        "en": "Pot Controller Notification.\n\nEmergency chain activated. The Pot Controller broadcasts repeated announcements across the potline.\n\n\"Attention all personnel: Pot 69 upper side shell leakage reported. Emergency response team proceed to Pot 69.\"",
+        "hi": "",
+        "or": ""
+      },
+      "speech": {
+        "en": "Pot Controller Notification. Emergency chain activated. The Pot Controller broadcasts repeated announcements across the potline.",
+        "hi": "",
+        "or": ""
+      }
+    },
+    {
+      "key": "POT_CONTROLLER_ANNOUNCEMENT",
+      "display": {
+        "en": "Attention all personnel: Pot 69 upper side shell leakage reported. Emergency response team proceed to Pot 69.",
+        "hi": "",
+        "or": ""
+      },
+      "speech": {
+        "en": "Attention all personnel: Pot 69 upper side shell leakage reported. Emergency response team proceed to Pot 69.",
+        "hi": "",
+        "or": ""
+      }
+    },
+    {
+      "key": "TASK_05",
+      "voiceProfile": "Technical_Mark",
+      "display": {
+        "en": "Observe the voltage value. The safe limit is below 4.5 V, with current below 350 kA.",
+        "hi": "",
+        "or": ""
+      },
+      "speech": {
+        "en": "Observe the voltage value. The safe limit is below 4.5 V, with current below 350 kA.",
+        "hi": "",
+        "or": ""
+      }
+    },
+    {
+      "key": "TASK_06",
+      "voiceProfile": "Technical_Mark",
+      "display": {
+        "en": "Active digits are blinking on the Pot Controller. The voltage is currently high at 4.544 V, exceeding the safe operational threshold.",
+        "hi": "",
+        "or": ""
+      },
+      "speech": {
+        "en": "Active digits are blinking on the Pot Controller. The voltage is currently high at 4.544 V, exceeding the safe operational threshold.",
+        "hi": "",
+        "or": ""
+      }
+    },
+    {
+      "key": "TASK_07",
+      "voiceProfile": "Technical_Mark",
+      "display": {
+        "en": "Verify the beam level on both the Pot Controller and the Beam Scale.",
+        "hi": "",
+        "or": ""
+      },
+      "speech": {
+        "en": "Verify the beam level on both the Pot Controller and the Beam Scale.",
+        "hi": "",
+        "or": ""
+      }
+    },
+    {
+      "key": "TASK_08",
+      "voiceProfile": "Technical_Mark",
+      "display": {
+        "en": "Press the Lower Anode Beam button on the Pot Controller to bring the pot voltage within safe operational limits.",
+        "hi": "",
+        "or": ""
+      },
+      "speech": {
+        "en": "Press the Lower Anode Beam button on the Pot Controller to bring the pot voltage within safe operational limits.",
+        "hi": "",
+        "or": ""
+      }
+    },
+    {
+      "key": "TASK_09",
+      "voiceProfile": "Technical_Mark",
+      "display": {
+        "en": "Select the Side Breaking Tool from the toolbox to proceed with side breaking and crust removal.",
+        "hi": "",
+        "or": ""
+      },
+      "speech": {
+        "en": "Select the Side Breaking Tool from the toolbox to proceed with side breaking and crust removal.",
+        "hi": "",
+        "or": ""
+      }
+    },
+    {
+      "key": "TASK_10",
+      "voiceProfile": "Technical_Mark",
+      "display": {
+        "en": "Now carefully apply the stopper to the leakage point on the pot. Look for the area where smoke is visible and molten metal is flowing. If the leakage is wider, you may use an additional stopper to help control it.",
+        "hi": "",
+        "or": ""
+      },
+      "speech": {
+        "en": "Now carefully apply the stopper to the leakage point on the pot. Look for the area where smoke is visible and molten metal is flowing. If the leakage is wider, you may use an additional stopper to help control it.",
+        "hi": "",
+        "or": ""
+      }
+    },
+    {
+      "key": "TASK_10_STOPPER_APPLIED",
+      "voiceProfile": "Technical_Mark",
+      "display": {
+        "en": "Let us arrange the cooling pipes",
+        "hi": "",
+        "or": ""
+      },
+      "speech": {
+        "en": "Let us arrange the cooling pipes",
+        "hi": "",
+        "or": ""
+      }
+    },
+    {
+      "key": "TASK_10_PTM_CRANE",
+      "voiceProfile": "Technical_Mark",
+      "display": {
+        "en": " .",
+        "hi": "",
+        "or": ""
+      },
+      "speech": {
+        "en": "The intensity is reduced but not stopped. Let us arrange PTM crane for pot breaking process, and the bath bin is also arranged by forklift.",
+        "hi": "",
+        "or": ""
+      }
+    },
+    {
+      "key": "TASK_10_SIDE_BREAKING",
+      "voiceProfile": "Technical_Mark",
+      "display": {
+        "en": "Side breaking above the leakage has started.",
+        "hi": "",
+        "or": ""
+      },
+      "speech": {
+        "en": "Side breaking above the leakage has started.",
+        "hi": "",
+        "or": ""
+      }
+    },
+    {
+      "key": "TASK_10_RED_SHELL",
+      "voiceProfile": "Technical_Mark",
+      "display": {
+        "en": "Observe the red shell formation in the shell. Let us use hoes to reduce the red shell formation.",
+        "hi": "",
+        "or": ""
+      },
+      "speech": {
+        "en": "Observe the red shell formation in the shell. Let us use hoes to reduce the red shell formation.",
+        "hi": "",
+        "or": ""
+      }
+    },
+    {
+      "key": "TASK_10_VOLTAGE_CHECK",
+      "voiceProfile": "Technical_Mark",
+      "display": {
+        "en": "Check whether the voltage is within the safer limit before working on the red shell formation.",
+        "hi": "",
+        "or": ""
+      },
+      "speech": {
+        "en": "Check whether the voltage is within the safer limit before working on the red shell formation.",
+        "hi": "",
+        "or": ""
+      }
+    },
+    {
+      "key": "TASK_10_OBSERVE_RED_SHELL",
+      "voiceProfile": "Technical_Mark",
+      "display": {
+        "en": "Observe the red shell formation in the shell.",
+        "hi": "",
+        "or": ""
+      },
+      "speech": {
+        "en": "Observe the red shell formation in the shell.",
+        "hi": "",
+        "or": ""
+      }
+    },
+    {
+      "key": "TASK_10_USE_HOES",
+      "voiceProfile": "Technical_Mark",
+      "display": {
+        "en": "Let us use hose to reduce the red shell formation.",
+        "hi": "",
+        "or": ""
+      },
+      "speech": {
+        "en": "Let us use hose to reduce the red shell formation.",
+        "hi": "",
+        "or": ""
+      }
+    },
+    {
+      "key": "TASK_10_PICK_UP_HOES",
+      "voiceProfile": "Technical_Mark",
+      "display": {
+        "en": "Pick up the hose to reduce the red shell formation.",
+        "hi": "",
+        "or": ""
+      },
+      "speech": {
+        "en": "Pick up the hoes to reduce the red shell formation.",
+        "hi": "",
+        "or": ""
+      }
+    },
+    {
+      "key": "TASK_10_PLACE_HOES_PIPE",
+      "voiceProfile": "Technical_Mark",
+      "display": {
+        "en": "Place the hose pipe near the red shell area.",
+        "hi": "",
+        "or": ""
+      },
+      "speech": {
+        "en": "Place the hose pipe near the red shell area.",
+        "hi": "",
+        "or": ""
+      }
+    },
+    {
+      "key": "TASK_10_OPEN_FLR_VALVE",
+      "voiceProfile": "Technical_Mark",
+      "display": {
+        "en": "Open the FLR block valve.",
+        "hi": "",
+        "or": ""
+      },
+      "speech": {
+        "en": "Open the FLR block valve.",
+        "hi": "",
+        "or": ""
+      }
+    },
+    {
+      "key": "TASK_10_VALVE_OPEN_COOL_AIR",
+      "voiceProfile": "Technical_Mark",
+      "display": {
+        "en": "Now that the valve is open, cool air is released over there.",
+        "hi": "",
+        "or": ""
+      },
+      "speech": {
+        "en": "Now that the valve is open, cool air is released over there.",
+        "hi": "",
+        "or": ""
+      }
+    },
+    {
+      "key": "TASK_10_OBSERVE_RED_SHELL_COOLING",
+      "voiceProfile": "Technical_Mark",
+      "display": {
+        "en": "Let us observe the red shell. It still requires more cooling; use hoes to reduce red shell formation.",
+        "hi": "",
+        "or": ""
+      },
+      "speech": {
+        "en": "Let us observe the red shell. It still requires more cooling; use hoes to reduce red shell formation.",
+        "hi": "",
+        "or": ""
+      }
+    }
+  ]
+}

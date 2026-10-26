@@ -1,0 +1,1265 @@
+{
+  "audioPaddingVersion": 2,
+  "entries": [
+    {
+      "key": "TASK_01",
+      "language": "English",
+      "hash": "11d6a67730c9cfd9ee2235f0b128ae1f3634437645cf7313491a1ea4f4fc89f9",
+      "fileName": "English_11d6a67730c9cfd9ee2235f0b128ae1f3634437645cf7313491a1ea4f4fc89f9.wav",
+      "text": "Welcome to the Vedanta Pot Leakage Training Visualization. This module covers the Emergency Response Procedure for Side Shell Leakage at Upper Location.",
+      "paddingVersion": 2
+    },
+    {
+      "key": "TASK_01_WELCOME",
+      "language": "English",
+      "hash": "11d6a67730c9cfd9ee2235f0b128ae1f3634437645cf7313491a1ea4f4fc89f9",
+      "fileName": "English_11d6a67730c9cfd9ee2235f0b128ae1f3634437645cf7313491a1ea4f4fc89f9.wav",
+      "text": "Welcome to the Vedanta Pot Leakage Training Visualization. This module covers the Emergency Response Procedure for Side Shell Leakage at Upper Location.",
+      "paddingVersion": 2
+    },
+    {
+      "key": "TASK_02",
+      "language": "English",
+      "hash": "733d1093f14beaaf619816170068a8f8c6024eeec09bfc076b060a4bce0ae5e1",
+      "fileName": "English_733d1093f14beaaf619816170068a8f8c6024eeec09bfc076b060a4bce0ae5e1.wav",
+      "text": "The reduction pots operate continuously under high temperature and molten bath conditions. Proper monitoring and rapid response to abnormalities are critical to operational safety.",
+      "paddingVersion": 2
+    },
+    {
+      "key": "TASK_03",
+      "language": "English",
+      "hash": "TASK_03_POT4321",
+      "fileName": "English_TASK_03_POT4321.wav",
+      "text": "Pot leakage has occurred in Pot 4321.",
+      "paddingVersion": 2
+    },
+    {
+      "key": "TASK_03_SLIDE_HOOD",
+      "language": "English",
+      "hash": "500741703ef676533726cf049fed2fa158d29d19170f2c39b96d6945cd27dc97",
+      "fileName": "English_500741703ef676533726cf049fed2fa158d29d19170f2c39b96d6945cd27dc97.wav",
+      "text": "Slide the hood.",
+      "paddingVersion": 2
+    },
+    {
+      "key": "TASK_03_REMOVE_HOOD",
+      "language": "English",
+      "hash": "500741703ef676533726cf049fed2fa158d29d19170f2c39b96d6945cd27dc97",
+      "fileName": "English_500741703ef676533726cf049fed2fa158d29d19170f2c39b96d6945cd27dc97.wav",
+      "text": "Slide the hood.",
+      "paddingVersion": 2
+    },
+    {
+      "key": "TASK_04",
+      "language": "English",
+      "hash": "07e82f2cfab8bffa6a9ee3dbb454fe6daad9eee8fc02bdadcb315533d052e3ce",
+      "fileName": "English_07e82f2cfab8bffa6a9ee3dbb454fe6daad9eee8fc02bdadcb315533d052e3ce.wav",
+      "text": "Let us call the Superintendent in such situation by picking up the walkie-talkie.",
+      "paddingVersion": 2
+    },
+    {
+      "key": "RADIO_VO_TASK_03",
+      "language": "English",
+      "hash": "106f25dcfd184193e312ade7582b1a8f3e44ae14aa78079576bdf8b105b67e2b",
+      "fileName": "English_106f25dcfd184193e312ade7582b1a8f3e44ae14aa78079576bdf8b105b67e2b.wav",
+      "text": "Shift Superintendent, Technical In-charge, Pot 69 has developed a side shell leakage. The leakage is visible from the upper side of the pot.",
+      "paddingVersion": 2
+    },
+    {
+      "key": "POTLEAKAGE_WALKIE_SHIFT_INCHARGE",
+      "language": "English",
+      "hash": "f5a1e702f7f0dbecaa1e5963a8506d18ba7c15c87491eee8cb9b476c975a80d1",
+      "fileName": "English_f5a1e702f7f0dbecaa1e5963a8506d18ba7c15c87491eee8cb9b476c975a80d1.wav",
+      "text": "Take proper safety measures before proceeding with the leakage response.",
+      "paddingVersion": 2
+    },
+    {
+      "key": "POTLEAKAGE_WALKIE_TECHNICAL_INCHARGE",
+      "language": "English",
+      "hash": "face87befcc00429bda003eb603ab97b7c01b39b2012f3bc2df50bf93c33c1a7",
+      "fileName": "English_face87befcc00429bda003eb603ab97b7c01b39b2012f3bc2df50bf93c33c1a7.wav",
+      "text": "Check the pot voltage in the pot control system and reduce the voltage below one point two volts if the leakage does not stop.",
+      "paddingVersion": 2
+    },
+    {
+      "key": "POT_CONTROLLER_NOTIFICATION",
+      "language": "English",
+      "hash": "ab5fbaeb527fb90aa0b511abfdd7aeeafda810e4131053e2e35060355cb32e1e",
+      "fileName": "English_ab5fbaeb527fb90aa0b511abfdd7aeeafda810e4131053e2e35060355cb32e1e.wav",
+      "text": "Pot Controller Notification. Emergency chain activated. The Pot Controller broadcasts repeated announcements across the potline.",
+      "paddingVersion": 2
+    },
+    {
+      "key": "POT_CONTROLLER_ANNOUNCEMENT",
+      "language": "English",
+      "hash": "1abbb2f38e49a6fd373253b1f7a2bea97e6cb5e2467d0b2a0d47afdecf44fa2e",
+      "fileName": "English_1abbb2f38e49a6fd373253b1f7a2bea97e6cb5e2467d0b2a0d47afdecf44fa2e.wav",
+      "text": "Attention all personnel: Pot 69 upper side shell leakage reported. Emergency response team proceed to Pot 69.",
+      "paddingVersion": 2
+    },
+    {
+      "key": "TASK_05",
+      "language": "English",
+      "hash": "cb3efcb1d8cbb2eb5d487f819fea63b98d7ce933d4ddcea392ef2b862e887567",
+      "fileName": "English_cb3efcb1d8cbb2eb5d487f819fea63b98d7ce933d4ddcea392ef2b862e887567.wav",
+      "text": "Observe the voltage value. The safe limit is below 4.5 V, with current below 350 kA.",
+      "paddingVersion": 2
+    },
+    {
+      "key": "TASK_06",
+      "language": "English",
+      "hash": "8cf19eff08cd4efe3762b9ef66d6db1398b1e379ebd2c641f291e5704824b506",
+      "fileName": "English_8cf19eff08cd4efe3762b9ef66d6db1398b1e379ebd2c641f291e5704824b506.wav",
+      "text": "Active digits are blinking on the Pot Controller. The voltage is currently high at 4.544 V, exceeding the safe operational threshold.",
+      "paddingVersion": 2
+    },
+    {
+      "key": "TASK_07",
+      "language": "English",
+      "hash": "1e4386b05a7e404a8bfceb22c6f3077d0206decf3808381030a8e6ce330f83df",
+      "fileName": "English_1e4386b05a7e404a8bfceb22c6f3077d0206decf3808381030a8e6ce330f83df.wav",
+      "text": "Verify the beam level on both the Pot Controller and the Beam Scale.",
+      "paddingVersion": 2
+    },
+    {
+      "key": "TASK_08",
+      "language": "English",
+      "hash": "f4a90dfad8487e2052ec5e0e1a3fdf66fcc87b2fb3a26cafbc284f69d3f96ccd",
+      "fileName": "English_f4a90dfad8487e2052ec5e0e1a3fdf66fcc87b2fb3a26cafbc284f69d3f96ccd.wav",
+      "text": "Press the Lower Anode Beam button on the Pot Controller to bring the pot voltage within safe operational limits.",
+      "paddingVersion": 2
+    },
+    {
+      "key": "TASK_09",
+      "language": "English",
+      "hash": "be0a0f5ca281d8134fee260c21059ba20f190a78c444b228ca7a60102462c5b5",
+      "fileName": "English_be0a0f5ca281d8134fee260c21059ba20f190a78c444b228ca7a60102462c5b5.wav",
+      "text": "Select the Side Breaking Tool from the toolbox to proceed with side breaking and crust removal.",
+      "paddingVersion": 2
+    },
+    {
+      "key": "TASK_10",
+      "language": "English",
+      "hash": "cf2d1d1d4adbc88586eea6904f19074f4620bb175ab4cfb21f2bb2f06a5f84da",
+      "fileName": "English_cf2d1d1d4adbc88586eea6904f19074f4620bb175ab4cfb21f2bb2f06a5f84da.wav",
+      "text": "Now carefully apply the stopper to the leakage point on the pot. Look for the area where smoke is visible and molten metal is flowing. If the leakage is wider, you may use an additional stopper to help control it.",
+      "paddingVersion": 2
+    },
+    {
+      "key": "TASK_10_STOPPER_APPLIED",
+      "language": "English",
+      "hash": "570bcabb48625cc963de3427d4c62b44a299d4f53138bc4cb8bdfc4bb2cfa98f",
+      "fileName": "English_570bcabb48625cc963de3427d4c62b44a299d4f53138bc4cb8bdfc4bb2cfa98f.wav",
+      "text": "Let us arrange the cooling pipes",
+      "paddingVersion": 2
+    },
+    {
+      "key": "TASK_10_PTM_CRANE",
+      "language": "English",
+      "hash": "6b2be3fa31e30d79615a7bd3675b56291913f1be916b2d7d6e04ddfb45de7a05",
+      "fileName": "English_6b2be3fa31e30d79615a7bd3675b56291913f1be916b2d7d6e04ddfb45de7a05.wav",
+      "text": "The intensity is reduced but not stopped. Let us arrange PTM crane for pot breaking process, and the bath bin is also arranged by forklift.",
+      "paddingVersion": 2
+    },
+    {
+      "key": "TASK_10_SIDE_BREAKING",
+      "language": "English",
+      "hash": "f883677b79f37508de898f306b387b2956c3fa2b81d8187f32eb5e6aa0237381",
+      "fileName": "English_f883677b79f37508de898f306b387b2956c3fa2b81d8187f32eb5e6aa0237381.wav",
+      "text": "Side breaking above the leakage has started.",
+      "paddingVersion": 2
+    },
+    {
+      "key": "TASK_10_RED_SHELL",
+      "language": "English",
+      "hash": "4f347bd13e6ad8124417cc8372870e2189465fd7ee63a6d8c5e942012dd46d8c",
+      "fileName": "English_4f347bd13e6ad8124417cc8372870e2189465fd7ee63a6d8c5e942012dd46d8c.wav",
+      "text": "Observe the red shell formation in the shell. Let us use hoes to reduce the red shell formation.",
+      "paddingVersion": 2
+    },
+    {
+      "key": "TASK_10_VOLTAGE_CHECK",
+      "language": "English",
+      "hash": "7c853d1d736d3f790cd3fc26fff486449e99f025663e9f918daf43ef7a7071ec",
+      "fileName": "English_7c853d1d736d3f790cd3fc26fff486449e99f025663e9f918daf43ef7a7071ec.wav",
+      "text": "Check whether the voltage is within the safer limit before working on the red shell formation.",
+      "paddingVersion": 2
+    },
+    {
+      "key": "TASK_10_OBSERVE_RED_SHELL",
+      "language": "English",
+      "hash": "35ed6c36e59146e698e1252b28a788eed4a55fc2974bc17f21d6f0a4ec065418",
+      "fileName": "English_35ed6c36e59146e698e1252b28a788eed4a55fc2974bc17f21d6f0a4ec065418.wav",
+      "text": "Observe the red shell formation in the shell.",
+      "paddingVersion": 2
+    },
+    {
+      "key": "TASK_10_USE_HOES",
+      "language": "English",
+      "hash": "ba593e4389464cd200a70b70c94f0aa4c8397b6e782db3d951c3e642224ff980",
+      "fileName": "English_ba593e4389464cd200a70b70c94f0aa4c8397b6e782db3d951c3e642224ff980.wav",
+      "text": "Let us use hose to reduce the red shell formation.",
+      "paddingVersion": 2
+    },
+    {
+      "key": "TASK_10_PICK_UP_HOES",
+      "language": "English",
+      "hash": "904b86e80b2bd59803aac100460a5d3dd45770043b68edd2a42df5b6a5880044",
+      "fileName": "English_904b86e80b2bd59803aac100460a5d3dd45770043b68edd2a42df5b6a5880044.wav",
+      "text": "Pick up the hoes to reduce the red shell formation.",
+      "paddingVersion": 2
+    },
+    {
+      "key": "TASK_10_PLACE_HOES_PIPE",
+      "language": "English",
+      "hash": "27eda14bc0e8d5f375cef0fc12f97cacdc6161bcb99322ad82450bf060cd3659",
+      "fileName": "English_27eda14bc0e8d5f375cef0fc12f97cacdc6161bcb99322ad82450bf060cd3659.wav",
+      "text": "Place the hose pipe near the red shell area.",
+      "paddingVersion": 2
+    },
+    {
+      "key": "TASK_10_OPEN_FLR_VALVE",
+      "language": "English",
+      "hash": "299437c4390e49763c5ef34240416b73bfc41d9a0b6c901310347406b1014608",
+      "fileName": "English_299437c4390e49763c5ef34240416b73bfc41d9a0b6c901310347406b1014608.wav",
+      "text": "Open the FLR block valve.",
+      "paddingVersion": 2
+    },
+    {
+      "key": "TASK_10_VALVE_OPEN_COOL_AIR",
+      "language": "English",
+      "hash": "4679667bc89bae373ccba2cd1da4f920a9b96c9295c5173f20839f8715f2582a",
+      "fileName": "English_4679667bc89bae373ccba2cd1da4f920a9b96c9295c5173f20839f8715f2582a.wav",
+      "text": "Now that the valve is open, cool air is released over there.",
+      "paddingVersion": 2
+    },
+    {
+      "key": "TASK_10_OBSERVE_RED_SHELL_COOLING",
+      "language": "English",
+      "hash": "2e633141c2b0460eb6faf5c7f2ed3790c77d2cedc723ac9dc8a90a047454dfb9",
+      "fileName": "English_2e633141c2b0460eb6faf5c7f2ed3790c77d2cedc723ac9dc8a90a047454dfb9.wav",
+      "text": "Let us observe the red shell. It still requires more cooling; use hoes to reduce red shell formation.",
+      "paddingVersion": 2
+    },
+    {
+      "key": "TASK_BATH_PIPE_POWDER",
+      "language": "English",
+      "hash": "TASK_BATH_PIPE_POWDER",
+      "fileName": "English_TASK_BATH_PIPE_POWDER.wav",
+      "text": "Now let us use bath powder from PTM crane.",
+      "paddingVersion": 2
+    },
+    {
+      "key": "SELECT_HIGHLIGHTED_TOOL",
+      "language": "English",
+      "hash": "SELECT_HIGHLIGHTED_TOOL",
+      "fileName": "English_SELECT_HIGHLIGHTED_TOOL.wav",
+      "text": "Select the Highlighted Tool",
+      "paddingVersion": 2
+    },
+    {
+      "key": "TASK_5_AIR_UNLOCK",
+      "language": "English",
+      "hash": "TASK_5_AIR_UNLOCK",
+      "fileName": "English_TASK_5_AIR_UNLOCK.wav",
+      "text": "Let us now open the valve to release compressed air in the affected area.",
+      "paddingVersion": 2
+    },
+    {
+      "key": "TASK_CONTROL_MACHINE",
+      "language": "English",
+      "hash": "TASK_CONTROL_MACHINE",
+      "fileName": "English_TASK_CONTROL_MACHINE.wav",
+      "text": "Check the Voltage and Beam Level. Make sure both are within the safe operating limits.",
+      "paddingVersion": 2
+    },
+    {
+      "key": "TASK_CRUST_BATHING",
+      "language": "English",
+      "hash": "TASK_CRUST_BATHING",
+      "fileName": "English_TASK_CRUST_BATHING.wav",
+      "text": "Let us start Crust Breaking Process by bring PTM crane to the leaked potline",
+      "paddingVersion": 2
+    },
+    {
+      "key": "CONTROL_MACHINE_PRESS_AD",
+      "language": "English",
+      "hash": "CONTROL_MACHINE_PRESS_AD",
+      "fileName": "English_CONTROL_MACHINE_PRESS_AD.wav",
+      "text": "Press AD again to continue adjusting the voltage and beam level toward the safe operating range.",
+      "paddingVersion": 2
+    },
+    {
+      "key": "CONTROL_MACHINE_VOLTAGE_4_1",
+      "language": "English",
+      "hash": "CONTROL_MACHINE_VOLTAGE_4_1",
+      "fileName": "English_CONTROL_MACHINE_VOLTAGE_4_1.wav",
+      "text": "The voltage has reached 4.1 volts. Continue adjusting until the voltage is below 4.1 volts and the beam level is above 350.",
+      "paddingVersion": 2
+    },
+    {
+      "key": "CONTROL_MACHINE_SAFE_RANGE",
+      "language": "English",
+      "hash": "CONTROL_MACHINE_SAFE_RANGE",
+      "fileName": "English_CONTROL_MACHINE_SAFE_RANGE.wav",
+      "text": "The voltage and beam level are now within the safe operating range.",
+      "paddingVersion": 2
+    },
+    {
+      "key": "CLOSE_HOOD",
+      "language": "English",
+      "hash": "CLOSE_HOOD",
+      "fileName": "English_CLOSE_HOOD.wav",
+      "text": "Pot leakage is completely stopped. Let us close the hood.",
+      "paddingVersion": 2
+    },
+    {
+      "key": "THROW_FUSED_ALUMINA_SAFE_DISTANCE",
+      "language": "English",
+      "hash": "THROW_FUSED_ALUMINA_SAFE_DISTANCE",
+      "fileName": "English_THROW_FUSED_ALUMINA_SAFE_DISTANCE.wav",
+      "text": "Throw fused alumina to seal the bath leakage area. Make sure you are maintaining 2 to 3 meter safe distance.",
+      "paddingVersion": 2
+    },
+    {
+      "key": "CLOSE_HOOD_LEFT",
+      "language": "English",
+      "hash": "CLOSE_HOOD_LEFT",
+      "fileName": "English_CLOSE_HOOD_LEFT.wav",
+      "text": "Let us close the left hood now.",
+      "paddingVersion": 2
+    },
+    {
+      "key": "SELECT_SST_CONNECTOR",
+      "language": "English",
+      "hash": "SELECT_SST_CONNECTOR",
+      "fileName": "English_SELECT_SST_CONNECTOR.wav",
+      "text": "Select SST Cooling Connector in order to reduce the intensity of the leakage.",
+      "paddingVersion": 2
+    },
+    {
+      "key": "SELECT_HOSE_PIPE",
+      "language": "English",
+      "hash": "SELECT_HOSE_PIPE",
+      "fileName": "English_SELECT_HOSE_PIPE.wav",
+      "text": "Select Hose pipe in order to reduce the intensity of the leakage.",
+      "paddingVersion": 2
+    },
+    {
+      "key": "TASK_27_TRAINING_COMPLETED",
+      "language": "English",
+      "hash": "TASK_27_TRAINING_COMPLETED",
+      "fileName": "English_TASK_27_TRAINING_COMPLETED.wav",
+      "text": "Pot Leakage Emergency Response Training Completed.",
+      "paddingVersion": 2
+    },
+    {
+      "key": "TASK_01",
+      "language": "Hindi",
+      "hash": "456785399e30e2ba263c09ab58009558090ef564866a146c4b241125ea875471",
+      "altHash": "1688bb8dd9df31b1f12a315badf7268a49c680bd0a67cc3dfd3fe9d1cc204c24",
+      "fileName": "Hindi_456785399e30e2ba263c09ab58009558090ef564866a146c4b241125ea875471.wav",
+      "text": "वेदांता पॉट लीकेज प्रशिक्षण विज़ुअलाइज़ेशन में आपका स्वागत है। यह मॉड्यूल ऊपरी स्थान पर साइड शेल लीकेज की आपातकालीन प्रतिक्रिया प्रक्रिया को कवर करता है।",
+      "voiceProfile": "Technical_Mark",
+      "paddingVersion": 2
+    },
+    {
+      "key": "TASK_01_WELCOME",
+      "language": "Hindi",
+      "hash": "456785399e30e2ba263c09ab58009558090ef564866a146c4b241125ea875471",
+      "altHash": "1688bb8dd9df31b1f12a315badf7268a49c680bd0a67cc3dfd3fe9d1cc204c24",
+      "fileName": "Hindi_456785399e30e2ba263c09ab58009558090ef564866a146c4b241125ea875471.wav",
+      "text": "वेदांता पॉट लीकेज प्रशिक्षण विज़ुअलाइज़ेशन में आपका स्वागत है। यह मॉड्यूल ऊपरी स्थान पर साइड शेल लीकेज की आपातकालीन प्रतिक्रिया प्रक्रिया को कवर करता है।",
+      "voiceProfile": "Technical_Mark",
+      "paddingVersion": 2
+    },
+    {
+      "key": "TASK_02",
+      "language": "Hindi",
+      "hash": "13c4fe7abe66ae33e18b9a286a7bad452326da7af2e147110f1f845d525bb2c0",
+      "altHash": "5f4606fba55fe12a3d94f8889e7aaa5cd03d67a3349451a23edc3cd0daa45fec",
+      "fileName": "Hindi_13c4fe7abe66ae33e18b9a286a7bad452326da7af2e147110f1f845d525bb2c0.wav",
+      "text": "रिडक्शन पॉट उच्च तापमान और पिघले हुए बाथ की स्थितियों में लगातार काम करते हैं। संचालन सुरक्षा के लिए उचित निगरानी और असामान्यताओं पर तुरंत कार्रवाई बहुत ज़रूरी है।",
+      "voiceProfile": "Technical_Mark",
+      "paddingVersion": 2
+    },
+    {
+      "key": "TASK_03",
+      "language": "Hindi",
+      "hash": "13a5409aeb4cd7f5de1b7dcbefaf584f9f8d10d55e70fb854f7e40e703ba354f",
+      "altHash": "204ba1a1374719c0cbe09042d28b5cd1a728601ad0c617daecb379f3170e77a4",
+      "fileName": "Hindi_13a5409aeb4cd7f5de1b7dcbefaf584f9f8d10d55e70fb854f7e40e703ba354f.wav",
+      "text": "पॉट चार हज़ार तीन सौ इक्कीस में पॉट लीकेज हो गया है।",
+      "voiceProfile": "Technical_Mark",
+      "paddingVersion": 2
+    },
+    {
+      "key": "TASK_03_SLIDE_HOOD",
+      "language": "Hindi",
+      "hash": "22bef7cb526965c169ca2ec5af1444f202c5eada0d3935059d205613f57863f0",
+      "altHash": "8fb2ab715788fabf0f6055831c72370f41c2b5fb6894608be46b3d28bff7fb08",
+      "fileName": "Hindi_22bef7cb526965c169ca2ec5af1444f202c5eada0d3935059d205613f57863f0.wav",
+      "text": "हुड को स्लाइड करें।",
+      "voiceProfile": "Technical_Mark",
+      "paddingVersion": 2
+    },
+    {
+      "key": "TASK_03_REMOVE_HOOD",
+      "language": "Hindi",
+      "hash": "22bef7cb526965c169ca2ec5af1444f202c5eada0d3935059d205613f57863f0",
+      "altHash": "8fb2ab715788fabf0f6055831c72370f41c2b5fb6894608be46b3d28bff7fb08",
+      "fileName": "Hindi_22bef7cb526965c169ca2ec5af1444f202c5eada0d3935059d205613f57863f0.wav",
+      "text": "हुड को स्लाइड करें।",
+      "voiceProfile": "Technical_Mark",
+      "paddingVersion": 2
+    },
+    {
+      "key": "TASK_04",
+      "language": "Hindi",
+      "hash": "2ebd74d37d4b050feebc75f08077af828b41df33983851e1e8de96614ff67336",
+      "altHash": "6398a4602bab9de1329209f34df2596d1bf01e31ebaeaf0521ccacecc0b8ff1f",
+      "fileName": "Hindi_2ebd74d37d4b050feebc75f08077af828b41df33983851e1e8de96614ff67336.wav",
+      "text": "ऐसी स्थिति में आइए वॉकी-टॉकी उठाकर सुपरिंटेंडेंट को कॉल करें।",
+      "voiceProfile": "Technical_Mark",
+      "paddingVersion": 2
+    },
+    {
+      "key": "RADIO_VO_TASK_03",
+      "language": "Hindi",
+      "hash": "b26f64165c06a3f9e5cf26cf2b036694591e607926893bfd0bf0124a5dfbdb84",
+      "altHash": "f2e0b7ff667a63f7f907030bc63749aa7da92594645a4e55c3a58a669236d60b",
+      "fileName": "Hindi_b26f64165c06a3f9e5cf26cf2b036694591e607926893bfd0bf0124a5dfbdb84.wav",
+      "text": "शिफ्ट सुपरिंटेंडेंट, टेक्निकल इंचार्ज, पॉट उनहत्तर में साइड शेल लीकेज हो गया है। लीकेज पॉट के ऊपरी हिस्से से दिखाई दे रहा है।",
+      "voiceProfile": "Technical_Mark",
+      "paddingVersion": 2
+    },
+    {
+      "key": "POTLEAKAGE_WALKIE_SHIFT_INCHARGE",
+      "language": "Hindi",
+      "hash": "be8652b454d9bcf7c87da14144fb94259e14f3c61147f15a08208496ae1719a2",
+      "altHash": "42d10195809a3c989dd9dbb00a5ee7393dbfccbb37f63fb77a4b66657c67e493",
+      "fileName": "Hindi_be8652b454d9bcf7c87da14144fb94259e14f3c61147f15a08208496ae1719a2.wav",
+      "text": "लीकेज की कार्रवाई आगे बढ़ाने से पहले उचित सुरक्षा उपाय अपनाएँ।",
+      "voiceProfile": "Technical_Mark",
+      "paddingVersion": 2
+    },
+    {
+      "key": "POTLEAKAGE_WALKIE_TECHNICAL_INCHARGE",
+      "language": "Hindi",
+      "hash": "68efb763e69ce0ce9d1e991f0396a81ca98455f3469ee16d7c9f6554353eed1c",
+      "altHash": "57b45d1171ce82ee162614706e46cd780c46a72b74e32846b58e8ff523118e19",
+      "fileName": "Hindi_68efb763e69ce0ce9d1e991f0396a81ca98455f3469ee16d7c9f6554353eed1c.wav",
+      "text": "पॉट कंट्रोल सिस्टम में पॉट वोल्टेज जाँचें और यदि लीकेज न रुके तो वोल्टेज को एक दशमलव दो वोल्ट से नीचे घटाएँ।",
+      "voiceProfile": "Technical_Mark",
+      "paddingVersion": 2
+    },
+    {
+      "key": "POT_CONTROLLER_NOTIFICATION",
+      "language": "Hindi",
+      "hash": "20dfe4ceb1c5851f5345639dffd45333ff043335f626ff8750343b9d494cf866",
+      "altHash": "a045cbf2c87420f223393cdb9b60416587ef25c324eb7e17afb89dbe451eae92",
+      "fileName": "Hindi_20dfe4ceb1c5851f5345639dffd45333ff043335f626ff8750343b9d494cf866.wav",
+      "text": "पॉट कंट्रोलर सूचना। इमरजेंसी चेन सक्रिय हो गई है। पॉट कंट्रोलर पूरी पॉटलाइन में बार-बार घोषणा कर रहा है।",
+      "voiceProfile": "Technical_Mark",
+      "paddingVersion": 2
+    },
+    {
+      "key": "POT_CONTROLLER_ANNOUNCEMENT",
+      "language": "Hindi",
+      "hash": "4add627be513384d72ec43540243af8d63d1d42585da454610922c8d74fe55a2",
+      "altHash": "a3a794bf2766c621ffa2e1e2d253f663aff5d15498cace6d88e03c9ee4ee0066",
+      "fileName": "Hindi_4add627be513384d72ec43540243af8d63d1d42585da454610922c8d74fe55a2.wav",
+      "text": "सभी कर्मचारी ध्यान दें: पॉट उनहत्तर में ऊपरी साइड शेल लीकेज की सूचना मिली है। आपातकालीन प्रतिक्रिया दल पॉट उनहत्तर पर पहुँचे।",
+      "voiceProfile": "Technical_Mark",
+      "paddingVersion": 2
+    },
+    {
+      "key": "TASK_05",
+      "language": "Hindi",
+      "hash": "5ce66e0a077d994b20a1fe4f55b4e3377c0c440699f26aba9f84c328380e1430",
+      "altHash": "08fdd828286b067a89f1df20bafc627748ca9853e04a9d40021c8530a9ae9169",
+      "fileName": "Hindi_5ce66e0a077d994b20a1fe4f55b4e3377c0c440699f26aba9f84c328380e1430.wav",
+      "text": "वोल्टेज का मान देखें। सुरक्षित सीमा 4.5 वोल्ट से कम है, और करंट 350 किलो एम्पियर से कम होना चाहिए।",
+      "voiceProfile": "Technical_Mark",
+      "paddingVersion": 2
+    },
+    {
+      "key": "TASK_06",
+      "language": "Hindi",
+      "hash": "5d1df9361b4548f1285bdaa5ef3b093a9d4866c5e056cd0ef74849f6d8e858af",
+      "altHash": "faeb0c43644e5224e41a02c71bf7373e6def62196ef7344b212a173e51631123",
+      "fileName": "Hindi_5d1df9361b4548f1285bdaa5ef3b093a9d4866c5e056cd0ef74849f6d8e858af.wav",
+      "text": "पॉट कंट्रोलर पर सक्रिय अंक झपक रहे हैं। वोल्टेज इस समय 4.544 वोल्ट पर ऊँचा है, जो सुरक्षित संचालन सीमा से अधिक है।",
+      "voiceProfile": "Technical_Mark",
+      "paddingVersion": 2
+    },
+    {
+      "key": "TASK_07",
+      "language": "Hindi",
+      "hash": "db0ce10b8b099d806de99af9f5f41ea6cc7a62373ce63a9b577865140f9f4713",
+      "altHash": "0ba64b5bd34be6fae7266fd6e94f1d471aca6b7eac949adb7f3eb360329d29a2",
+      "fileName": "Hindi_db0ce10b8b099d806de99af9f5f41ea6cc7a62373ce63a9b577865140f9f4713.wav",
+      "text": "पॉट कंट्रोलर और बीम स्केल दोनों पर बीम स्तर की जाँच करें।",
+      "voiceProfile": "Technical_Mark",
+      "paddingVersion": 2
+    },
+    {
+      "key": "TASK_08",
+      "language": "Hindi",
+      "hash": "5e670e28707abf46aff821094ffc8c98b58b8991af0570ad55e767d35607f7ee",
+      "altHash": "266ff0bad6b233ef52e4797cb9a8a4b5134357861fa0d553ca083c75a45cf69e",
+      "fileName": "Hindi_5e670e28707abf46aff821094ffc8c98b58b8991af0570ad55e767d35607f7ee.wav",
+      "text": "पॉट वोल्टेज को सुरक्षित संचालन सीमा में लाने के लिए पॉट कंट्रोलर पर लोअर एनोड बीम बटन दबाएँ।",
+      "voiceProfile": "Technical_Mark",
+      "paddingVersion": 2
+    },
+    {
+      "key": "TASK_09",
+      "language": "Hindi",
+      "hash": "ab04a936aa3a72e471d401645446aaa0e4f5f173eefdd2e28607023a172b47fc",
+      "altHash": "a282b86c4f15fee7d076bbc2a73db3aac0510b3bcc87fa48b3cc8f27470dccfd",
+      "fileName": "Hindi_ab04a936aa3a72e471d401645446aaa0e4f5f173eefdd2e28607023a172b47fc.wav",
+      "text": "साइड ब्रेकिंग और क्रस्ट हटाने के लिए टूलबॉक्स से साइड ब्रेकिंग टूल चुनें।",
+      "voiceProfile": "Technical_Mark",
+      "paddingVersion": 2
+    },
+    {
+      "key": "TASK_10",
+      "language": "Hindi",
+      "hash": "02abc5fab680e8a4c925cd846ee0daf86baf9465bcc6b439bcd9ff4009d6e9e0",
+      "altHash": "8b5dab88a2e2a72b946eabd4f90c04a8d122488070fbf9e94f903dece3f78eff",
+      "fileName": "Hindi_02abc5fab680e8a4c925cd846ee0daf86baf9465bcc6b439bcd9ff4009d6e9e0.wav",
+      "text": "अब पॉट के लीकेज बिंदु पर स्टॉपर को सावधानी से लगाएँ। उस जगह को देखें जहाँ धुआँ दिख रहा है और पिघली धातु बह रही है। यदि लीकेज अधिक चौड़ा है, तो उसे नियंत्रित करने के लिए अतिरिक्त स्टॉपर का उपयोग कर सकते हैं।",
+      "voiceProfile": "Technical_Mark",
+      "paddingVersion": 2
+    },
+    {
+      "key": "TASK_10_STOPPER_APPLIED",
+      "language": "Hindi",
+      "hash": "5140c7d807d450fb3da4010f90697112a2c7228b366dcccfba3022a3c692c689",
+      "altHash": "bc13d2ca6558683a3bcaaeee7f419a5c11820fc9ccd71dd75436726041486c89",
+      "fileName": "Hindi_5140c7d807d450fb3da4010f90697112a2c7228b366dcccfba3022a3c692c689.wav",
+      "text": "आइए कूलिंग पाइप लगाएँ।",
+      "voiceProfile": "Technical_Mark",
+      "paddingVersion": 2
+    },
+    {
+      "key": "TASK_10_PTM_CRANE",
+      "language": "Hindi",
+      "hash": "810b5206e8532c2316b10ff168f210a9fa99cb187be5b97ff34a3394d2b8a91a",
+      "altHash": "826654a30fba68a84bd4c7a2034ea114861c5a5e29f7f194879ab1339de457e4",
+      "fileName": "Hindi_810b5206e8532c2316b10ff168f210a9fa99cb187be5b97ff34a3394d2b8a91a.wav",
+      "text": "तीव्रता कम हुई है लेकिन रुकी नहीं है। आइए पॉट ब्रेकिंग प्रक्रिया के लिए पीटीएम क्रेन की व्यवस्था करें, और फोर्कलिफ्ट से बाथ बिन भी लगाया जाता है।",
+      "voiceProfile": "Technical_Mark",
+      "paddingVersion": 2
+    },
+    {
+      "key": "TASK_10_SIDE_BREAKING",
+      "language": "Hindi",
+      "hash": "27a47efe28aaebaeadb0d199242609fb07d8a2ce4f930570c225c23ec0b644d2",
+      "altHash": "df021b490486ec10f7b375b231b96c9085dd731f9b678295f7c44f1b0a1c7268",
+      "fileName": "Hindi_27a47efe28aaebaeadb0d199242609fb07d8a2ce4f930570c225c23ec0b644d2.wav",
+      "text": "लीकेज के ऊपर साइड ब्रेकिंग शुरू हो गई है।",
+      "voiceProfile": "Technical_Mark",
+      "paddingVersion": 2
+    },
+    {
+      "key": "TASK_10_RED_SHELL",
+      "language": "Hindi",
+      "hash": "eb04a659cf4ae2ad72fa46b2e7991a0fe2c4677b53f2dd2252f21d324c5bdc0e",
+      "altHash": "30e9c64b4b163c593e7084cdaa46d61f0710f514d6ca4649b2fed25b08b1a351",
+      "fileName": "Hindi_eb04a659cf4ae2ad72fa46b2e7991a0fe2c4677b53f2dd2252f21d324c5bdc0e.wav",
+      "text": "शेल में रेड शेल के बनने को देखें। आइए रेड शेल बनना कम करने के लिए हो का उपयोग करें।",
+      "voiceProfile": "Technical_Mark",
+      "paddingVersion": 2
+    },
+    {
+      "key": "TASK_10_VOLTAGE_CHECK",
+      "language": "Hindi",
+      "hash": "e5340ee089427f829e0e3b22f9ac076d32b99633abd264c4769dbe11109d1502",
+      "altHash": "d6a0b1ce6bfa0b5cb9596b89ab2e6b49c00561aa43098fe304293026c9bc6018",
+      "fileName": "Hindi_e5340ee089427f829e0e3b22f9ac076d32b99633abd264c4769dbe11109d1502.wav",
+      "text": "रेड शेल पर काम करने से पहले जाँच लें कि वोल्टेज सुरक्षित सीमा के भीतर है या नहीं।",
+      "voiceProfile": "Technical_Mark",
+      "paddingVersion": 2
+    },
+    {
+      "key": "TASK_10_OBSERVE_RED_SHELL",
+      "language": "Hindi",
+      "hash": "4fe8ada273724c5734edd7b3a8148c124453cf410b148cdad9f5384867b0e71c",
+      "altHash": "e8608c77751f23f4da15a7fb92eafb56290c04d3e07071d86adcf78b22d1cc4a",
+      "fileName": "Hindi_4fe8ada273724c5734edd7b3a8148c124453cf410b148cdad9f5384867b0e71c.wav",
+      "text": "शेल में रेड शेल के बनने को देखें।",
+      "voiceProfile": "Technical_Mark",
+      "paddingVersion": 2
+    },
+    {
+      "key": "TASK_10_USE_HOES",
+      "language": "Hindi",
+      "hash": "0882bc5121f80aa868b7d3dac99a02762cb1e517f99cce81cfed8c2df51b64d4",
+      "altHash": "ab058b0f9f3781ba569c40c5a619b026c17a9330a251e6d61aa8e5d20acc9a21",
+      "fileName": "Hindi_0882bc5121f80aa868b7d3dac99a02762cb1e517f99cce81cfed8c2df51b64d4.wav",
+      "text": "आइए रेड शेल बनना कम करने के लिए होज़ का उपयोग करें।",
+      "voiceProfile": "Technical_Mark",
+      "paddingVersion": 2
+    },
+    {
+      "key": "TASK_10_PICK_UP_HOES",
+      "language": "Hindi",
+      "hash": "8ac341af5b78fb78036fd1c2527e0e1ad230b3c8240753689879e28bc72c5e0b",
+      "altHash": "257adb4e9755193b89e875e4ee564728af1b67abbc09d57f9b27443a4434d4aa",
+      "fileName": "Hindi_8ac341af5b78fb78036fd1c2527e0e1ad230b3c8240753689879e28bc72c5e0b.wav",
+      "text": "रेड शेल बनना कम करने के लिए हो उठाएँ।",
+      "voiceProfile": "Technical_Mark",
+      "paddingVersion": 2
+    },
+    {
+      "key": "TASK_10_PLACE_HOES_PIPE",
+      "language": "Hindi",
+      "hash": "c5171894dea804c9e33ebc4c5b220fe5241600ded04281480a8c8d77aaab6f04",
+      "altHash": "d862ff81d480bfde72812b5b5d8fb57995d5cb55e1f726947a79cedea82e7138",
+      "fileName": "Hindi_c5171894dea804c9e33ebc4c5b220fe5241600ded04281480a8c8d77aaab6f04.wav",
+      "text": "होज़ पाइप को रेड शेल वाले क्षेत्र के पास रखें।",
+      "voiceProfile": "Technical_Mark",
+      "paddingVersion": 2
+    },
+    {
+      "key": "TASK_10_OPEN_FLR_VALVE",
+      "language": "Hindi",
+      "hash": "dc6a1856b590d356635416ed764a6f2d061eb441cf26bcc616e048818dc92b72",
+      "altHash": "9c3bfa68b4eac4662d41ba311257ffd92ad1b765177df1d06fc4d4bb8ca89812",
+      "fileName": "Hindi_dc6a1856b590d356635416ed764a6f2d061eb441cf26bcc616e048818dc92b72.wav",
+      "text": "एफएलआर ब्लॉक वाल्व खोलें।",
+      "voiceProfile": "Technical_Mark",
+      "paddingVersion": 2
+    },
+    {
+      "key": "TASK_10_VALVE_OPEN_COOL_AIR",
+      "language": "Hindi",
+      "hash": "9ca2e6c793f5514332ba43a54136d06371f93356e70f1fe06094cbb16d25d5b9",
+      "altHash": "4c77d54195a48dfeaaa8152421d56976915d8a9bba2486758a68441e6dd355c7",
+      "fileName": "Hindi_9ca2e6c793f5514332ba43a54136d06371f93356e70f1fe06094cbb16d25d5b9.wav",
+      "text": "अब वाल्व खुल गया है, इसलिए वहाँ ठंडी हवा छोड़ी जा रही है।",
+      "voiceProfile": "Technical_Mark",
+      "paddingVersion": 2
+    },
+    {
+      "key": "TASK_10_OBSERVE_RED_SHELL_COOLING",
+      "language": "Hindi",
+      "hash": "05c484e2cf608e77e99966d17bf8f355f438bf6a813462c2b1442853637415a1",
+      "altHash": "7e71ba03023e5e4c131ad04b11c24c7a603c29d290b765f52f33ced9bee2c398",
+      "fileName": "Hindi_05c484e2cf608e77e99966d17bf8f355f438bf6a813462c2b1442853637415a1.wav",
+      "text": "आइए रेड शेल को देखें। इसे अभी और ठंडा करने की ज़रूरत है; रेड शेल बनना कम करने के लिए हो का उपयोग करें।",
+      "voiceProfile": "Technical_Mark",
+      "paddingVersion": 2
+    },
+    {
+      "key": "TASK_BATH_PIPE_POWDER",
+      "language": "Hindi",
+      "hash": "6f3990d9943717392086f3e10fb256e91058d1c555d9729fbc36ccd21ed7d4d5",
+      "altHash": "7d4dd607d801aa484cd691b24ce74fcc9e5c8a691fa12b8ad16d6d0bf2dd8aa6",
+      "fileName": "Hindi_6f3990d9943717392086f3e10fb256e91058d1c555d9729fbc36ccd21ed7d4d5.wav",
+      "text": "अब आइए पीटीएम क्रेन से बाथ पाउडर का उपयोग करें।",
+      "voiceProfile": "Technical_Mark",
+      "paddingVersion": 2
+    },
+    {
+      "key": "SELECT_HIGHLIGHTED_TOOL",
+      "language": "Hindi",
+      "hash": "d1dab51948e7675947a1dc8b2891906f498821b6f45e376522297dc31fe686a3",
+      "altHash": "41e1994650d4c737c05638138b5b2e154b21ad9aa7d2c4373f8f1e28a6d11876",
+      "fileName": "Hindi_d1dab51948e7675947a1dc8b2891906f498821b6f45e376522297dc31fe686a3.wav",
+      "text": "हाइलाइट किए गए टूल को चुनें",
+      "voiceProfile": "Technical_Mark",
+      "paddingVersion": 2
+    },
+    {
+      "key": "TASK_5_AIR_UNLOCK",
+      "language": "Hindi",
+      "hash": "ac3bdf69b711629daafef4576762d60e7def05245abf6350ddb33284940c3b36",
+      "altHash": "035b605ace550e4b96da30219a4e72b7427c4ee369cd913288484f8abe49878d",
+      "fileName": "Hindi_ac3bdf69b711629daafef4576762d60e7def05245abf6350ddb33284940c3b36.wav",
+      "text": "आइए अब प्रभावित क्षेत्र में संपीड़ित हवा छोड़ने के लिए वाल्व खोलें।",
+      "voiceProfile": "Technical_Mark",
+      "paddingVersion": 2
+    },
+    {
+      "key": "TASK_CONTROL_MACHINE",
+      "language": "Hindi",
+      "hash": "ed6b7190997bff46b462e7d0064a7e606a894bb86245e2242353b2729c0adb66",
+      "altHash": "079d60b654396042a3f0605b6096c8dc9c32ec6524a5f8b315d1e99200788ea8",
+      "fileName": "Hindi_ed6b7190997bff46b462e7d0064a7e606a894bb86245e2242353b2729c0adb66.wav",
+      "text": "वोल्टेज और बीम स्तर जाँचें। सुनिश्चित करें कि दोनों सुरक्षित संचालन सीमा के भीतर हैं।",
+      "voiceProfile": "Technical_Mark",
+      "paddingVersion": 2
+    },
+    {
+      "key": "TASK_CRUST_BATHING",
+      "language": "Hindi",
+      "hash": "a9b89eac022b73762e5a10b059ad897d6861d11b057fddd27303ccc16e83a5e1",
+      "altHash": "f089788fbf5fc41040774bede4a240dff4161cccfb7582d524e4a39a13aa3350",
+      "fileName": "Hindi_a9b89eac022b73762e5a10b059ad897d6861d11b057fddd27303ccc16e83a5e1.wav",
+      "text": "आइए रिसाव वाली पॉटलाइन तक पीटीएम क्रेन लाकर क्रस्ट तोड़ने की प्रक्रिया शुरू करें।",
+      "voiceProfile": "Technical_Mark",
+      "paddingVersion": 2
+    },
+    {
+      "key": "CONTROL_MACHINE_PRESS_AD",
+      "language": "Hindi",
+      "hash": "89f428f4a58bbd6d828f2232abdc0445756645b2a1dda2920b208a52b0a4d293",
+      "altHash": "bae8676194d56c5bdff4f41f3996ea12ad077f94648d3ed872826287d54b36dd",
+      "fileName": "Hindi_89f428f4a58bbd6d828f2232abdc0445756645b2a1dda2920b208a52b0a4d293.wav",
+      "text": "वोल्टेज और बीम स्तर को सुरक्षित संचालन सीमा की ओर समायोजित करते रहने के लिए AD को फिर से दबाएँ।",
+      "voiceProfile": "Technical_Mark",
+      "paddingVersion": 2
+    },
+    {
+      "key": "CONTROL_MACHINE_VOLTAGE_4_1",
+      "language": "Hindi",
+      "hash": "c28c4fdaa047d585ae02eea9806eec3d351905aa6c0b08c31330f2be1f4710b8",
+      "altHash": "cec9381304f4d1b106d46c7f2777a16ce4440e13cae663fb11203e2e6f50b669",
+      "fileName": "Hindi_c28c4fdaa047d585ae02eea9806eec3d351905aa6c0b08c31330f2be1f4710b8.wav",
+      "text": "वोल्टेज 4.1 वोल्ट तक पहुँच गया है। तब तक समायोजित करते रहें जब तक वोल्टेज 4.1 वोल्ट से नीचे और बीम स्तर 350 से ऊपर न हो जाए।",
+      "voiceProfile": "Technical_Mark",
+      "paddingVersion": 2
+    },
+    {
+      "key": "CONTROL_MACHINE_SAFE_RANGE",
+      "language": "Hindi",
+      "hash": "ab7dbb81117931a3e627c25a3c00279b8f37be66223087de21dd96d963c5e5bb",
+      "altHash": "0b64705231c4032487f69aae9062717b95dab3d9211bd1dd690d98bf2167d663",
+      "fileName": "Hindi_ab7dbb81117931a3e627c25a3c00279b8f37be66223087de21dd96d963c5e5bb.wav",
+      "text": "वोल्टेज और बीम स्तर अब सुरक्षित संचालन सीमा के भीतर हैं।",
+      "voiceProfile": "Technical_Mark",
+      "paddingVersion": 2
+    },
+    {
+      "key": "CLOSE_HOOD",
+      "language": "Hindi",
+      "hash": "dee6270dba9e20fee05b0de9946b06c1b1444fe1b2d5af7ebd76ac9d2817143e",
+      "altHash": "32ff0d9423fea064bb10ca099ef82d4b41370fee25d53c72ce386a4e504d0a14",
+      "fileName": "Hindi_dee6270dba9e20fee05b0de9946b06c1b1444fe1b2d5af7ebd76ac9d2817143e.wav",
+      "text": "पॉट लीकेज पूरी तरह रुक गया है। आइए हुड बंद करें।",
+      "voiceProfile": "Technical_Mark",
+      "paddingVersion": 2
+    },
+    {
+      "key": "THROW_FUSED_ALUMINA_SAFE_DISTANCE",
+      "language": "Hindi",
+      "hash": "38ae6a81437f04c795914b63e6e70a04f4abf87bde98f5c4da95e7d46add97f8",
+      "altHash": "0a46a6f08ecea483080d75a8f99b2b7be7857bfdbfe92769c4a8de4e5eb1cbd5",
+      "fileName": "Hindi_38ae6a81437f04c795914b63e6e70a04f4abf87bde98f5c4da95e7d46add97f8.wav",
+      "text": "बाथ लीकेज वाले क्षेत्र को सील करने के लिए फ्यूज़्ड एल्यूमिना फेंकें। सुनिश्चित करें कि आप दो से तीन मीटर की सुरक्षित दूरी बनाए रखें।",
+      "voiceProfile": "Technical_Mark",
+      "paddingVersion": 2
+    },
+    {
+      "key": "CLOSE_HOOD_LEFT",
+      "language": "Hindi",
+      "hash": "ff071b4290f6e731ad06f8869e312494d28d3bdc350694b5b68b82afa7e8fe4e",
+      "altHash": "c6eac5f7f910e964a441cc0bf1abbb284bcbb843cfd434cc80c30ef2e4798a82",
+      "fileName": "Hindi_ff071b4290f6e731ad06f8869e312494d28d3bdc350694b5b68b82afa7e8fe4e.wav",
+      "text": "आइए अब बायाँ हुड बंद करें।",
+      "voiceProfile": "Technical_Mark",
+      "paddingVersion": 2
+    },
+    {
+      "key": "SELECT_SST_CONNECTOR",
+      "language": "Hindi",
+      "hash": "8477a4da06a08ab4acb0f6b07c0d74b5078c6a1ff1237c5dc6940f841cdb1bf8",
+      "altHash": "c97ae41787f7c0c1368576964eaf514adac02794c5c169c7d319d64c3e09addf",
+      "fileName": "Hindi_8477a4da06a08ab4acb0f6b07c0d74b5078c6a1ff1237c5dc6940f841cdb1bf8.wav",
+      "text": "लीकेज की तीव्रता कम करने के लिए एसएसटी कूलिंग कनेक्टर चुनें।",
+      "voiceProfile": "Technical_Mark",
+      "paddingVersion": 2
+    },
+    {
+      "key": "SELECT_HOSE_PIPE",
+      "language": "Hindi",
+      "hash": "bdda037deca79e93b794922e44fabace48b6a1cf59ccc5bf083985c973e8c3ee",
+      "altHash": "daa353d5d96f414003ac150eb74a3aeec6fabf5d6ebef9aa3132286fc3ca8c30",
+      "fileName": "Hindi_bdda037deca79e93b794922e44fabace48b6a1cf59ccc5bf083985c973e8c3ee.wav",
+      "text": "लीकेज की तीव्रता कम करने के लिए होज़ पाइप चुनें।",
+      "voiceProfile": "Technical_Mark",
+      "paddingVersion": 2
+    },
+    {
+      "key": "TASK_27_TRAINING_COMPLETED",
+      "language": "Hindi",
+      "hash": "6ca47a0f5ef311719e2b133afc9910329adcb48a5c2199bb5fde389b9c94d388",
+      "altHash": "449ad3b2a89a7a973a6ee09996e70ac5d52b2f96162079927c84c506e73a5ced",
+      "fileName": "Hindi_6ca47a0f5ef311719e2b133afc9910329adcb48a5c2199bb5fde389b9c94d388.wav",
+      "text": "पॉट लीकेज आपातकालीन प्रतिक्रिया प्रशिक्षण पूरा हुआ।",
+      "voiceProfile": "Technical_Mark",
+      "paddingVersion": 2
+    },
+    {
+      "key": "TASK_01",
+      "language": "Odia",
+      "hash": "48e2ffaaa8c5f5c6b8a14a493a93ef3d9a3b526d5707f2079727581e096eac96",
+      "altHash": "692ecb6d160534f4001050323e7b923e5dc6eaba2f4238854b079be1b598b534",
+      "fileName": "Odia_48e2ffaaa8c5f5c6b8a14a493a93ef3d9a3b526d5707f2079727581e096eac96.wav",
+      "text": "ବେଦାନ୍ତ ପଟ୍ ଲିକେଜ୍ ପ୍ରଶିକ୍ଷଣ ଭିଜୁଆଲାଇଜେସନ୍‌କୁ ଆପଣଙ୍କୁ ସ୍ୱାଗତ। ଏହି ମଡ୍ୟୁଲ୍ ଉପର ସ୍ଥାନରେ ସାଇଡ୍ ସେଲ୍ ଲିକେଜ୍ ପାଇଁ ଜରୁରୀକାଳୀନ ପ୍ରତିକ୍ରିୟା ପ୍ରକ୍ରିୟାକୁ ଅନ୍ତର୍ଭୁକ୍ତ କରେ।",
+      "voiceProfile": "Technical_Mark",
+      "paddingVersion": 2
+    },
+    {
+      "key": "TASK_01_WELCOME",
+      "language": "Odia",
+      "hash": "48e2ffaaa8c5f5c6b8a14a493a93ef3d9a3b526d5707f2079727581e096eac96",
+      "altHash": "692ecb6d160534f4001050323e7b923e5dc6eaba2f4238854b079be1b598b534",
+      "fileName": "Odia_48e2ffaaa8c5f5c6b8a14a493a93ef3d9a3b526d5707f2079727581e096eac96.wav",
+      "text": "ବେଦାନ୍ତ ପଟ୍ ଲିକେଜ୍ ପ୍ରଶିକ୍ଷଣ ଭିଜୁଆଲାଇଜେସନ୍‌କୁ ଆପଣଙ୍କୁ ସ୍ୱାଗତ। ଏହି ମଡ୍ୟୁଲ୍ ଉପର ସ୍ଥାନରେ ସାଇଡ୍ ସେଲ୍ ଲିକେଜ୍ ପାଇଁ ଜରୁରୀକାଳୀନ ପ୍ରତିକ୍ରିୟା ପ୍ରକ୍ରିୟାକୁ ଅନ୍ତର୍ଭୁକ୍ତ କରେ।",
+      "voiceProfile": "Technical_Mark",
+      "paddingVersion": 2
+    },
+    {
+      "key": "TASK_02",
+      "language": "Odia",
+      "hash": "e4f1372172ebe8ab103e174ca03133835e95e1cff02bec2fd18254d263ee2546",
+      "altHash": "1037d3b7c69403ca7578f5a022486fd9b30392cedba103b6811f03530c9e0077",
+      "fileName": "Odia_e4f1372172ebe8ab103e174ca03133835e95e1cff02bec2fd18254d263ee2546.wav",
+      "text": "ରିଡକ୍ସନ୍ ପଟ୍ ଉଚ୍ଚ ତାପମାତ୍ରା ଏବଂ ତରଳ ବାଥ୍ ଅବସ୍ଥାରେ ନିରନ୍ତର କାମ କରେ। ପରିଚାଳନା ସୁରକ୍ଷା ପାଇଁ ଠିକ୍ ନିରୀକ୍ଷଣ ଏବଂ ଅସ୍ୱାଭାବିକତା ପ୍ରତି ଶୀଘ୍ର ପ୍ରତିକ୍ରିୟା ଅତ୍ୟନ୍ତ ଗୁରୁତ୍ୱପୂର୍ଣ୍ଣ।",
+      "voiceProfile": "Technical_Mark",
+      "paddingVersion": 2
+    },
+    {
+      "key": "TASK_03",
+      "language": "Odia",
+      "hash": "be22aa15d137fb01ed366f38656226e19788b87e3d544728a11cd5a270917e88",
+      "altHash": "477aa7dd479943a9fb2a551b357cec88852140ed2ec965eec322264071d2447e",
+      "fileName": "Odia_be22aa15d137fb01ed366f38656226e19788b87e3d544728a11cd5a270917e88.wav",
+      "text": "ପଟ୍ ଚାରି ହଜାର ତିନି ଶହ ଏକୋଇଶରେ ପଟ୍ ଲିକେଜ୍ ହୋଇଛି।",
+      "voiceProfile": "Technical_Mark",
+      "paddingVersion": 2
+    },
+    {
+      "key": "TASK_03_SLIDE_HOOD",
+      "language": "Odia",
+      "hash": "2969074518d1bcb3f61302246a70e6c835da704a1860e29a44f59c3705b1ad65",
+      "altHash": "cbb831289343457e1a7eeb160a093ac420455fcc344c499a957aa7ea3a154a1f",
+      "fileName": "Odia_2969074518d1bcb3f61302246a70e6c835da704a1860e29a44f59c3705b1ad65.wav",
+      "text": "ହୁଡ୍‌କୁ ଘୁଞ୍ଚାନ୍ତୁ।",
+      "voiceProfile": "Technical_Mark",
+      "paddingVersion": 2
+    },
+    {
+      "key": "TASK_03_REMOVE_HOOD",
+      "language": "Odia",
+      "hash": "2969074518d1bcb3f61302246a70e6c835da704a1860e29a44f59c3705b1ad65",
+      "altHash": "cbb831289343457e1a7eeb160a093ac420455fcc344c499a957aa7ea3a154a1f",
+      "fileName": "Odia_2969074518d1bcb3f61302246a70e6c835da704a1860e29a44f59c3705b1ad65.wav",
+      "text": "ହୁଡ୍‌କୁ ଘୁଞ୍ଚାନ୍ତୁ।",
+      "voiceProfile": "Technical_Mark",
+      "paddingVersion": 2
+    },
+    {
+      "key": "TASK_04",
+      "language": "Odia",
+      "hash": "ce7db7fc9589e74f43212a9ef8c162580a84b4a34b61e56a55a5876622c97fca",
+      "altHash": "0c9e930a4650e883730429c812ba2f9751015581cd482e5b956400cb044db0d1",
+      "fileName": "Odia_ce7db7fc9589e74f43212a9ef8c162580a84b4a34b61e56a55a5876622c97fca.wav",
+      "text": "ଏପରି ପରିସ୍ଥିତିରେ ୱାକି-ଟକି ଉଠାଇ ସୁପରିଣ୍ଟେଣ୍ଡେଣ୍ଟଙ୍କୁ କଲ୍ କରିବା।",
+      "voiceProfile": "Technical_Mark",
+      "paddingVersion": 2
+    },
+    {
+      "key": "RADIO_VO_TASK_03",
+      "language": "Odia",
+      "hash": "359966f6ed8104ce104db857c66c3ce093c70b18cfbc7617fcad0d8c591a3125",
+      "altHash": "e721dc55277ae58a1b846dfd845e7fd42c0ce2ba4228ea634dfaedb1cc22b8ec",
+      "fileName": "Odia_359966f6ed8104ce104db857c66c3ce093c70b18cfbc7617fcad0d8c591a3125.wav",
+      "text": "ଶିଫ୍ଟ୍ ସୁପରିଣ୍ଟେଣ୍ଡେଣ୍ଟ, ଟେକ୍ନିକାଲ୍ ଇନ୍‌ଚାର୍ଜ, ପଟ୍ ଊନସ୍ତରିରେ ସାଇଡ୍ ସେଲ୍ ଲିକେଜ୍ ହୋଇଛି। ଲିକେଜ୍ ପଟ୍‌ର ଉପର ପାର୍ଶ୍ୱରୁ ଦେଖାଯାଉଛି।",
+      "voiceProfile": "Technical_Mark",
+      "paddingVersion": 2
+    },
+    {
+      "key": "POTLEAKAGE_WALKIE_SHIFT_INCHARGE",
+      "language": "Odia",
+      "hash": "3485ab70d7e35ea6ee4bb13e4a71e6c53527adb0fef0dfb25bfb120c503937ce",
+      "altHash": "1990e95de151aa6a127fef10e9a2799621b15069d174bb85a17a3422a1f8c85e",
+      "fileName": "Odia_3485ab70d7e35ea6ee4bb13e4a71e6c53527adb0fef0dfb25bfb120c503937ce.wav",
+      "text": "ଲିକେଜ୍ ପ୍ରତିକ୍ରିୟା ଆଗକୁ ବଢ଼ାଇବା ପୂର୍ବରୁ ଠିକ୍ ସୁରକ୍ଷା ପଦକ୍ଷେପ ନିଅନ୍ତୁ।",
+      "voiceProfile": "Technical_Mark",
+      "paddingVersion": 2
+    },
+    {
+      "key": "POTLEAKAGE_WALKIE_TECHNICAL_INCHARGE",
+      "language": "Odia",
+      "hash": "bcc8bffb6415b2dd06e75d82cead6ecdb54c9a71b1ba41a66df7505f1c402f92",
+      "altHash": "8dc4a149ecd567bf995cadfa78a97b1876cc2e1673172e13db15b309a846e3ac",
+      "fileName": "Odia_bcc8bffb6415b2dd06e75d82cead6ecdb54c9a71b1ba41a66df7505f1c402f92.wav",
+      "text": "ପଟ୍ କଣ୍ଟ୍ରୋଲ୍ ସିଷ୍ଟମ୍‌ରେ ପଟ୍ ଭୋଲ୍ଟେଜ୍ ଯାଞ୍ଚ କରନ୍ତୁ ଏବଂ ଲିକେଜ୍ ବନ୍ଦ ନହେଲେ ଭୋଲ୍ଟେଜ୍‌କୁ ଏକ ଦଶମିକ ଦୁଇ ଭୋଲ୍ଟରୁ କମ୍ କରନ୍ତୁ।",
+      "voiceProfile": "Technical_Mark",
+      "paddingVersion": 2
+    },
+    {
+      "key": "POT_CONTROLLER_NOTIFICATION",
+      "language": "Odia",
+      "hash": "564888d665afdf8a5f75883a689359d788adcef253bf7b6eda46d215068d3d00",
+      "altHash": "807cfac5c11faf111432de5e1b28b2066034b269dbbacecce60e33139494c44f",
+      "fileName": "Odia_564888d665afdf8a5f75883a689359d788adcef253bf7b6eda46d215068d3d00.wav",
+      "text": "ପଟ୍ କଣ୍ଟ୍ରୋଲର୍ ବିଜ୍ଞପ୍ତି। ଇମରଜେନ୍ସି ଚେନ୍ ସକ୍ରିୟ ହୋଇଛି। ପଟ୍ କଣ୍ଟ୍ରୋଲର୍ ସମ୍ପୂର୍ଣ୍ଣ ପଟ୍‌ଲାଇନ୍‌ରେ ବାରମ୍ବାର ଘୋଷଣା କରୁଛି।",
+      "voiceProfile": "Technical_Mark",
+      "paddingVersion": 2
+    },
+    {
+      "key": "POT_CONTROLLER_ANNOUNCEMENT",
+      "language": "Odia",
+      "hash": "225b863887259050de92d0a4bc3e456569aa35c33fd8b885fe574bde8fe8dcad",
+      "altHash": "db473624f6c17ef4ff0ad88a8b38c8e48705a132806e5ed6a8c384ea5b9ad46c",
+      "fileName": "Odia_225b863887259050de92d0a4bc3e456569aa35c33fd8b885fe574bde8fe8dcad.wav",
+      "text": "ସମସ୍ତ କର୍ମଚାରୀ ଧ୍ୟାନ ଦିଅନ୍ତୁ: ପଟ୍ ଊନସ୍ତରିରେ ଉପର ସାଇଡ୍ ସେଲ୍ ଲିକେଜ୍ ଖବର ମିଳିଛି। ଜରୁରୀକାଳୀନ ପ୍ରତିକ୍ରିୟା ଦଳ ପଟ୍ ଊନସ୍ତରିକୁ ଯାଆନ୍ତୁ।",
+      "voiceProfile": "Technical_Mark",
+      "paddingVersion": 2
+    },
+    {
+      "key": "TASK_05",
+      "language": "Odia",
+      "hash": "84948566146bd6ccbcf989c5a97ddf78a28ba60a4d2632507dff005f4e3f9060",
+      "altHash": "9d49db27940ca2d84bc6a35ea28a0f1e2d04ca3c3f502d6e82d47759df8d5d1a",
+      "fileName": "Odia_84948566146bd6ccbcf989c5a97ddf78a28ba60a4d2632507dff005f4e3f9060.wav",
+      "text": "ଭୋଲ୍ଟେଜ୍ ମୂଲ୍ୟ ଦେଖନ୍ତୁ। ସୁରକ୍ଷିତ ସୀମା ଚାରି ଦଶମିକ ପାଞ୍ଚ ଭୋଲ୍ଟରୁ କମ୍, ଏବଂ କରେଣ୍ଟ୍ ତିନି ଶହ ପଚାଶ କିଲୋ ଆମ୍ପିୟରରୁ କମ୍ ହେବା ଉଚିତ।",
+      "voiceProfile": "Technical_Mark",
+      "paddingVersion": 2
+    },
+    {
+      "key": "TASK_06",
+      "language": "Odia",
+      "hash": "d995ea986cb23422779d2133c5ebd17366495ea8489555a0c49064a20b576db0",
+      "altHash": "846fb1e38d395d48d08a487309fad44ae5e33357ef4d5ac48596ebd0bc77ac4b",
+      "fileName": "Odia_d995ea986cb23422779d2133c5ebd17366495ea8489555a0c49064a20b576db0.wav",
+      "text": "ପଟ୍ କଣ୍ଟ୍ରୋଲର୍‌ରେ ସକ୍ରିୟ ଅଙ୍କଗୁଡ଼ିକ ଝଲକୁଛି। ଭୋଲ୍ଟେଜ୍ ବର୍ତ୍ତମାନ ଚାରି ଦଶମିକ ପାଞ୍ଚ ଚାରି ଚାରି ଭୋଲ୍ଟରେ ଅଧିକ ଅଛି, ଯାହା ସୁରକ୍ଷିତ ପରିଚାଳନା ସୀମାଠାରୁ ଅଧିକ।",
+      "voiceProfile": "Technical_Mark",
+      "paddingVersion": 2
+    },
+    {
+      "key": "TASK_07",
+      "language": "Odia",
+      "hash": "302cec36b2e60e94ad210ebb920fb8e5dfad1788ecbbdfa1151eee815dd03ebd",
+      "altHash": "47adcd4bdf50ef52d6d240076530618bf97cbcc8f33bdb2d85c499568f8b463d",
+      "fileName": "Odia_302cec36b2e60e94ad210ebb920fb8e5dfad1788ecbbdfa1151eee815dd03ebd.wav",
+      "text": "ପଟ୍ କଣ୍ଟ୍ରୋଲର୍ ଏବଂ ବିମ୍ ସ୍କେଲ୍ ଉଭୟରେ ବିମ୍ ସ୍ତର ଯାଞ୍ଚ କରନ୍ତୁ।",
+      "voiceProfile": "Technical_Mark",
+      "paddingVersion": 2
+    },
+    {
+      "key": "TASK_08",
+      "language": "Odia",
+      "hash": "5c1c4b1f4c1f072bf003c5471eb4104710f0e2aa9c8750913dbf4b5532082b5c",
+      "altHash": "d19cc20f8ec3c80096375bd931f5ebe73395079ad67f74a992111aceb78e33f7",
+      "fileName": "Odia_5c1c4b1f4c1f072bf003c5471eb4104710f0e2aa9c8750913dbf4b5532082b5c.wav",
+      "text": "ପଟ୍ ଭୋଲ୍ଟେଜ୍‌କୁ ସୁରକ୍ଷିତ ପରିଚାଳନା ସୀମା ମଧ୍ୟକୁ ଆଣିବା ପାଇଁ ପଟ୍ କଣ୍ଟ୍ରୋଲର୍‌ରେ ଲୋୟର୍ ଆନୋଡ୍ ବିମ୍ ବଟନ୍ ଦବାନ୍ତୁ।",
+      "voiceProfile": "Technical_Mark",
+      "paddingVersion": 2
+    },
+    {
+      "key": "TASK_09",
+      "language": "Odia",
+      "hash": "659ada2c9ae52d4845dca3d231c3b0b8af310eb759d73831a0fd3a52802e253a",
+      "altHash": "34835834a9bb79a605a7c7bbb3f8e101b3b4bac0bb5d4ef1b1b2986963c1a820",
+      "fileName": "Odia_659ada2c9ae52d4845dca3d231c3b0b8af310eb759d73831a0fd3a52802e253a.wav",
+      "text": "ସାଇଡ୍ ବ୍ରେକିଂ ଏବଂ କ୍ରଷ୍ଟ ହଟାଇବା ପାଇଁ ଟୁଲ୍‌ବକ୍ସରୁ ସାଇଡ୍ ବ୍ରେକିଂ ଟୁଲ୍ ବାଛନ୍ତୁ।",
+      "voiceProfile": "Technical_Mark",
+      "paddingVersion": 2
+    },
+    {
+      "key": "TASK_10",
+      "language": "Odia",
+      "hash": "8c36695ff772ef16b8f5c8230a28a86b643e9daa2ebd58c46bb3dd51d661ea64",
+      "altHash": "b0212e419a8b5359a7861e830d6cd26b89deb80ec8e0fbccfb85f68f760dd78b",
+      "fileName": "Odia_8c36695ff772ef16b8f5c8230a28a86b643e9daa2ebd58c46bb3dd51d661ea64.wav",
+      "text": "ବର୍ତ୍ତମାନ ପଟ୍‌ର ଲିକେଜ୍ ସ୍ଥାନରେ ସାବଧାନତାର ସହ ଷ୍ଟପର୍ ଲଗାନ୍ତୁ। ଯେଉଁ ସ୍ଥାନରେ ଧୂଆଁ ଦେଖାଯାଉଛି ଏବଂ ତରଳ ଧାତୁ ବହୁଛି ତାହା ଦେଖନ୍ତୁ। ଯଦି ଲିକେଜ୍ ଅଧିକ ଚଉଡ଼ା, ତେବେ ଏହାକୁ ନିୟନ୍ତ୍ରଣ କରିବା ପାଇଁ ଅତିରିକ୍ତ ଷ୍ଟପର୍ ବ୍ୟବହାର କରିପାରିବେ।",
+      "voiceProfile": "Technical_Mark",
+      "paddingVersion": 2
+    },
+    {
+      "key": "TASK_10_STOPPER_APPLIED",
+      "language": "Odia",
+      "hash": "e071534974dc0d8f27285a05c4e13586a980df74b4fab339790b147d7a511886",
+      "altHash": "da05c23837a0fd03732b20e11a4104b4d41a97513ba0984d5fa40e1874282fa3",
+      "fileName": "Odia_e071534974dc0d8f27285a05c4e13586a980df74b4fab339790b147d7a511886.wav",
+      "text": "ଆସନ୍ତୁ କୁଲିଂ ପାଇପ୍ ଲଗାଇବା।",
+      "voiceProfile": "Technical_Mark",
+      "paddingVersion": 2
+    },
+    {
+      "key": "TASK_10_PTM_CRANE",
+      "language": "Odia",
+      "hash": "8268ebff531b6fb61f609a21a2b7ab9046df4baa27ce31e6513003c6aa0eb1b0",
+      "altHash": "44bb7785f2478f575dede975c5efaff69090f63966bf0a43a3825a5394475fdb",
+      "fileName": "Odia_8268ebff531b6fb61f609a21a2b7ab9046df4baa27ce31e6513003c6aa0eb1b0.wav",
+      "text": "ତୀବ୍ରତା କମିଛି କିନ୍ତୁ ବନ୍ଦ ହୋଇନାହିଁ। ଆସନ୍ତୁ ପଟ୍ ବ୍ରେକିଂ ପ୍ରକ୍ରିୟା ପାଇଁ ପିଟିଏମ୍ କ୍ରେନ୍ ବ୍ୟବସ୍ଥା କରିବା, ଏବଂ ଫୋର୍କଲିଫ୍ଟ ଦ୍ୱାରା ବାଥ୍ ବିନ୍ ମଧ୍ୟ ରଖାଯାଏ।",
+      "voiceProfile": "Technical_Mark",
+      "paddingVersion": 2
+    },
+    {
+      "key": "TASK_10_SIDE_BREAKING",
+      "language": "Odia",
+      "hash": "6fb18d2f17f569c0d39aaccd68baa66bb76a320c5603c75c8d621bec7b2f1cd3",
+      "altHash": "09b000435b1c4d301c4bd42063a1a28c556681d4c58f1eb687df441336b6481b",
+      "fileName": "Odia_6fb18d2f17f569c0d39aaccd68baa66bb76a320c5603c75c8d621bec7b2f1cd3.wav",
+      "text": "ଲିକେଜ୍ ଉପରେ ସାଇଡ୍ ବ୍ରେକିଂ ଆରମ୍ଭ ହୋଇଛି।",
+      "voiceProfile": "Technical_Mark",
+      "paddingVersion": 2
+    },
+    {
+      "key": "TASK_10_RED_SHELL",
+      "language": "Odia",
+      "hash": "ceb61723fce5e2afa33c9e3670f17e800480b9b77d7138993bab2ecc29b044cf",
+      "altHash": "14850ac46f3c6c95ee029ec82136e580cd13f07dcdf6787d7950054074fa8f8c",
+      "fileName": "Odia_ceb61723fce5e2afa33c9e3670f17e800480b9b77d7138993bab2ecc29b044cf.wav",
+      "text": "ସେଲ୍‌ରେ ରେଡ୍ ସେଲ୍ ଗଠନକୁ ଦେଖନ୍ତୁ। ଆସନ୍ତୁ ରେଡ୍ ସେଲ୍ ଗଠନ କମାଇବା ପାଇଁ ହୋ ବ୍ୟବହାର କରିବା।",
+      "voiceProfile": "Technical_Mark",
+      "paddingVersion": 2
+    },
+    {
+      "key": "TASK_10_VOLTAGE_CHECK",
+      "language": "Odia",
+      "hash": "7360a7b6c610d6c4f3eca2e925be5cdcb7f541a9183b12d14dfb7c7f7a1813c5",
+      "altHash": "42c72dcf74b6768b62ea863ec5f55c3ebb33a2a43fa0962601b02969829a3e47",
+      "fileName": "Odia_7360a7b6c610d6c4f3eca2e925be5cdcb7f541a9183b12d14dfb7c7f7a1813c5.wav",
+      "text": "ରେଡ୍ ସେଲ୍ ଗଠନ ଉପରେ କାମ କରିବା ପୂର୍ବରୁ ଭୋଲ୍ଟେଜ୍ ସୁରକ୍ଷିତ ସୀମା ମଧ୍ୟରେ ଅଛି କି ନାହିଁ ଯାଞ୍ଚ କରନ୍ତୁ।",
+      "voiceProfile": "Technical_Mark",
+      "paddingVersion": 2
+    },
+    {
+      "key": "TASK_10_OBSERVE_RED_SHELL",
+      "language": "Odia",
+      "hash": "1609d518802ca4d22005c0ecd7ce22eb3f515252ab4b2d6b21ed3b07d77d96fa",
+      "altHash": "2e3d2bce2e9cebb13047e7538e04802f6247cb27339a6f86c589f312d04ddde6",
+      "fileName": "Odia_1609d518802ca4d22005c0ecd7ce22eb3f515252ab4b2d6b21ed3b07d77d96fa.wav",
+      "text": "ସେଲ୍‌ରେ ରେଡ୍ ସେଲ୍ ଗଠନକୁ ଦେଖନ୍ତୁ।",
+      "voiceProfile": "Technical_Mark",
+      "paddingVersion": 2
+    },
+    {
+      "key": "TASK_10_USE_HOES",
+      "language": "Odia",
+      "hash": "dd72ade06f7c5120a0eab03b3a1b0201017c088d0a58c994495ef02219e2da54",
+      "altHash": "c728c7db868fee6189d85e5e678ffac8b7a929ecacb96f644c4ad00fd2ae2101",
+      "fileName": "Odia_dd72ade06f7c5120a0eab03b3a1b0201017c088d0a58c994495ef02219e2da54.wav",
+      "text": "ଆସନ୍ତୁ ରେଡ୍ ସେଲ୍ ଗଠନ କମାଇବା ପାଇଁ ହୋଜ୍ ବ୍ୟବହାର କରିବା।",
+      "voiceProfile": "Technical_Mark",
+      "paddingVersion": 2
+    },
+    {
+      "key": "TASK_10_PICK_UP_HOES",
+      "language": "Odia",
+      "hash": "7c0ddf5fee01ac4c157e0412bdb0d6e92f397f283aa1f77cf5a1dc9af44015b2",
+      "altHash": "e37dd771c4cebee205b633c5f7aca74d356de446c9f3ad4d65e4c469845614c8",
+      "fileName": "Odia_7c0ddf5fee01ac4c157e0412bdb0d6e92f397f283aa1f77cf5a1dc9af44015b2.wav",
+      "text": "ରେଡ୍ ସେଲ୍ ଗଠନ କମାଇବା ପାଇଁ ହୋ ଉଠାନ୍ତୁ।",
+      "voiceProfile": "Technical_Mark",
+      "paddingVersion": 2
+    },
+    {
+      "key": "TASK_10_PLACE_HOES_PIPE",
+      "language": "Odia",
+      "hash": "b587077beab5c27af7e70cd5897fa6c682bbe03c3aaa3b2c9e6633ea881565ac",
+      "altHash": "5488b7358c451189526b31912683bce84393eedce81d267eb4d67df202e66ed5",
+      "fileName": "Odia_b587077beab5c27af7e70cd5897fa6c682bbe03c3aaa3b2c9e6633ea881565ac.wav",
+      "text": "ହୋଜ୍ ପାଇପ୍‌କୁ ରେଡ୍ ସେଲ୍ ଅଞ୍ଚଳ ନିକଟରେ ରଖନ୍ତୁ।",
+      "voiceProfile": "Technical_Mark",
+      "paddingVersion": 2
+    },
+    {
+      "key": "TASK_10_OPEN_FLR_VALVE",
+      "language": "Odia",
+      "hash": "012049132d089f76fc5beaa359a9608d27ae47210fe1bfb77c3a3e481cfcebfd",
+      "altHash": "47e9f6a952291be00df37c884fb80decf0e1e6f48cf31d60d2b924a1eb33be98",
+      "fileName": "Odia_012049132d089f76fc5beaa359a9608d27ae47210fe1bfb77c3a3e481cfcebfd.wav",
+      "text": "ଏଫ୍ଏଲ୍ଆର୍ ବ୍ଲକ୍ ଭଲ୍ଭ ଖୋଲନ୍ତୁ।",
+      "voiceProfile": "Technical_Mark",
+      "paddingVersion": 2
+    },
+    {
+      "key": "TASK_10_VALVE_OPEN_COOL_AIR",
+      "language": "Odia",
+      "hash": "278f08afae5660d0c7d32061d03978563d9ce7454c7a5d3de02743affc0750b8",
+      "altHash": "84cfa07f55aa6f779c282fd541426c4e24a4a81a81fcba3985ae21e2d0123d97",
+      "fileName": "Odia_278f08afae5660d0c7d32061d03978563d9ce7454c7a5d3de02743affc0750b8.wav",
+      "text": "ବର୍ତ୍ତମାନ ଭଲ୍ଭ ଖୋଲିଯାଇଛି, ତେଣୁ ସେଠାରେ ଥଣ୍ଡା ବାୟୁ ଛଡ଼ାଯାଉଛି।",
+      "voiceProfile": "Technical_Mark",
+      "paddingVersion": 2
+    },
+    {
+      "key": "TASK_10_OBSERVE_RED_SHELL_COOLING",
+      "language": "Odia",
+      "hash": "dbdeb9ada151ce5d2ead8c227260acc29c19c509a6a6cff0ab22324d7a326126",
+      "altHash": "34190a52dc43425124fc5be76ebedd60b16811c872c51c93c68f9896c70455d6",
+      "fileName": "Odia_dbdeb9ada151ce5d2ead8c227260acc29c19c509a6a6cff0ab22324d7a326126.wav",
+      "text": "ଆସନ୍ତୁ ରେଡ୍ ସେଲ୍ ଦେଖିବା। ଏହାକୁ ଏବେ ଅଧିକ ଥଣ୍ଡା କରିବା ଆବଶ୍ୟକ; ରେଡ୍ ସେଲ୍ ଗଠନ କମାଇବା ପାଇଁ ହୋ ବ୍ୟବହାର କରନ୍ତୁ।",
+      "voiceProfile": "Technical_Mark",
+      "paddingVersion": 2
+    },
+    {
+      "key": "TASK_BATH_PIPE_POWDER",
+      "language": "Odia",
+      "hash": "1d978023dfe43a5a20c396da4c38718ea1772630c102e226aca5b5a0e70c215b",
+      "altHash": "8e9c39f9ce6f96e7e5b0fb47fd6791f5645e0d416af9544873eb55ea3def67b6",
+      "fileName": "Odia_1d978023dfe43a5a20c396da4c38718ea1772630c102e226aca5b5a0e70c215b.wav",
+      "text": "ବର୍ତ୍ତମାନ ଆସନ୍ତୁ ପିଟିଏମ୍ କ୍ରେନ୍‌ରୁ ବାଥ୍ ପାଉଡର୍ ବ୍ୟବହାର କରିବା।",
+      "voiceProfile": "Technical_Mark",
+      "paddingVersion": 2
+    },
+    {
+      "key": "SELECT_HIGHLIGHTED_TOOL",
+      "language": "Odia",
+      "hash": "816691585c157c07633f4b665de53f87f28914ba5cb60bf63ce85075df40ac20",
+      "altHash": "cf0249efa05b995301e13cd465037aa1fc4e97cf42e1f6248478b99b4f5de434",
+      "fileName": "Odia_816691585c157c07633f4b665de53f87f28914ba5cb60bf63ce85075df40ac20.wav",
+      "text": "ହାଇଲାଇଟ୍ କରାଯାଇଥିବା ଟୁଲ୍ ବାଛନ୍ତୁ",
+      "voiceProfile": "Technical_Mark",
+      "paddingVersion": 2
+    },
+    {
+      "key": "TASK_5_AIR_UNLOCK",
+      "language": "Odia",
+      "hash": "3ef8c64ae8a2e0a862cf31e4e0598eb9f3521138069d2bf9a5025d438ccbbad1",
+      "altHash": "44cdd1b3726c927d24e1d6b86a35c9c0763024e52e0daf5c6ea355aaf10cc2dd",
+      "fileName": "Odia_3ef8c64ae8a2e0a862cf31e4e0598eb9f3521138069d2bf9a5025d438ccbbad1.wav",
+      "text": "ଆସନ୍ତୁ ବର୍ତ୍ତମାନ ପ୍ରଭାବିତ ଅଞ୍ଚଳରେ ସଙ୍କୁଚିତ ବାୟୁ ଛାଡ଼ିବା ପାଇଁ ଭଲ୍ଭ ଖୋଲିବା।",
+      "voiceProfile": "Technical_Mark",
+      "paddingVersion": 2
+    },
+    {
+      "key": "TASK_CONTROL_MACHINE",
+      "language": "Odia",
+      "hash": "0fe772d161cbb81e5ebe61b03fb169349e1707b4a52e22d2e32ae58e1d10fc8d",
+      "altHash": "cfa4d92e3be6846633ab659cd8621a8633a6ba4bb9211747072aacf770ae5ea7",
+      "fileName": "Odia_0fe772d161cbb81e5ebe61b03fb169349e1707b4a52e22d2e32ae58e1d10fc8d.wav",
+      "text": "ଭୋଲ୍ଟେଜ୍ ଏବଂ ବିମ୍ ସ୍ତର ଯାଞ୍ଚ କରନ୍ତୁ। ଉଭୟ ସୁରକ୍ଷିତ ପରିଚାଳନା ସୀମା ମଧ୍ୟରେ ଅଛି ବୋଲି ନିଶ୍ଚିତ କରନ୍ତୁ।",
+      "voiceProfile": "Technical_Mark",
+      "paddingVersion": 2
+    },
+    {
+      "key": "TASK_CRUST_BATHING",
+      "language": "Odia",
+      "hash": "b8eb68edce76c2b4bbd55e217f80dbd13ef664e88ee6b99c2e44b0a04a2fc1a5",
+      "altHash": "3a1010c3b08f1b4728b5266413c7507e0cf673a56b7da200e0bf4e76efa8de1b",
+      "fileName": "Odia_b8eb68edce76c2b4bbd55e217f80dbd13ef664e88ee6b99c2e44b0a04a2fc1a5.wav",
+      "text": "ଆସନ୍ତୁ ଲିକେଜ୍ ହୋଇଥିବା ପଟ୍‌ଲାଇନ୍ ପର୍ଯ୍ୟନ୍ତ ପିଟିଏମ୍ କ୍ରେନ୍ ଆଣି କ୍ରଷ୍ଟ ଭାଙ୍ଗିବା ପ୍ରକ୍ରିୟା ଆରମ୍ଭ କରିବା।",
+      "voiceProfile": "Technical_Mark",
+      "paddingVersion": 2
+    },
+    {
+      "key": "CONTROL_MACHINE_PRESS_AD",
+      "language": "Odia",
+      "hash": "7da8be46a5925568b8b4ccc0013ed07fa0bd59e04781f4533c75a984ee8ec2bd",
+      "altHash": "84c882fc8f7761f74e8ab537dbfc95ac8a6571a42f1a5be6bfed76e02a7a1fed",
+      "fileName": "Odia_7da8be46a5925568b8b4ccc0013ed07fa0bd59e04781f4533c75a984ee8ec2bd.wav",
+      "text": "ଭୋଲ୍ଟେଜ୍ ଏବଂ ବିମ୍ ସ୍ତରକୁ ସୁରକ୍ଷିତ ପରିଚାଳନା ସୀମା ଆଡ଼କୁ ସଜାଡ଼ିବା ଜାରି ରଖିବା ପାଇଁ ଏ ଡି କୁ ପୁଣି ଦବାନ୍ତୁ।",
+      "voiceProfile": "Technical_Mark",
+      "paddingVersion": 2
+    },
+    {
+      "key": "CONTROL_MACHINE_VOLTAGE_4_1",
+      "language": "Odia",
+      "hash": "c68cff872c60a31df44cd44f806a8f798bf01dfaff53be7fc3043e9e9f9c9555",
+      "altHash": "95bca0ada7f5b3178c6857bf2803398c7d5f3aaefdde2466b3e745f16df8038d",
+      "fileName": "Odia_c68cff872c60a31df44cd44f806a8f798bf01dfaff53be7fc3043e9e9f9c9555.wav",
+      "text": "ଭୋଲ୍ଟେଜ୍ ଚାରି ଦଶମିକ ଏକ ଭୋଲ୍ଟରେ ପହଞ୍ଚିଛି। ଭୋଲ୍ଟେଜ୍ ଚାରି ଦଶମିକ ଏକ ଭୋଲ୍ଟରୁ କମ୍ ଏବଂ ବିମ୍ ସ୍ତର ତିନି ଶହ ପଚାଶରୁ ଅଧିକ ନହେବା ପର୍ଯ୍ୟନ୍ତ ସଜାଡ଼ିବା ଜାରି ରଖନ୍ତୁ।",
+      "voiceProfile": "Technical_Mark",
+      "paddingVersion": 2
+    },
+    {
+      "key": "CONTROL_MACHINE_SAFE_RANGE",
+      "language": "Odia",
+      "hash": "dbb840fa26b7afa7981048b447a1c3accb19918b0843c90a20044bd4ac5701bd",
+      "altHash": "2382344ca6990cc836ec14966714cde3191e2e6a74e4097ac9931e88988bbed4",
+      "fileName": "Odia_dbb840fa26b7afa7981048b447a1c3accb19918b0843c90a20044bd4ac5701bd.wav",
+      "text": "ଭୋଲ୍ଟେଜ୍ ଏବଂ ବିମ୍ ସ୍ତର ବର୍ତ୍ତମାନ ସୁରକ୍ଷିତ ପରିଚାଳନା ସୀମା ମଧ୍ୟରେ ଅଛି।",
+      "voiceProfile": "Technical_Mark",
+      "paddingVersion": 2
+    },
+    {
+      "key": "CLOSE_HOOD",
+      "language": "Odia",
+      "hash": "c0cc0e39779428dd7dc19bd2f52556ff3328ce9189fba548a181999951f83098",
+      "altHash": "0254c6dae26b8b0328319131078fe2fddb31fd21936d9a970007d9de1cdf096b",
+      "fileName": "Odia_c0cc0e39779428dd7dc19bd2f52556ff3328ce9189fba548a181999951f83098.wav",
+      "text": "ପଟ୍ ଲିକେଜ୍ ସମ୍ପୂର୍ଣ୍ଣ ବନ୍ଦ ହୋଇଯାଇଛି। ଆସନ୍ତୁ ହୁଡ୍ ବନ୍ଦ କରିବା।",
+      "voiceProfile": "Technical_Mark",
+      "paddingVersion": 2
+    },
+    {
+      "key": "THROW_FUSED_ALUMINA_SAFE_DISTANCE",
+      "language": "Odia",
+      "hash": "82ebd3a8e34d5d14c3c8679462f7c25e2d13f5945ba7a03895d98b0da4e92601",
+      "altHash": "49d5344b5be31ff27eeb1986aada62fa5cd1c3157d4f537045ac0394e20e6b92",
+      "fileName": "Odia_82ebd3a8e34d5d14c3c8679462f7c25e2d13f5945ba7a03895d98b0da4e92601.wav",
+      "text": "ବାଥ୍ ଲିକେଜ୍ ଅଞ୍ଚଳକୁ ସିଲ୍ କରିବା ପାଇଁ ଫ୍ୟୁଜ୍ଡ୍ ଆଲୁମିନା ଫିଙ୍ଗନ୍ତୁ। ଆପଣ ଦୁଇରୁ ତିନି ମିଟର ସୁରକ୍ଷିତ ଦୂରତା ବଜାୟ ରଖୁଛନ୍ତି ବୋଲି ନିଶ୍ଚିତ କରନ୍ତୁ।",
+      "voiceProfile": "Technical_Mark",
+      "paddingVersion": 2
+    },
+    {
+      "key": "CLOSE_HOOD_LEFT",
+      "language": "Odia",
+      "hash": "a505774640133982adca7879f558aaf77c4d9391b1987b973f61d5e94846d220",
+      "altHash": "88c28deca91f3a5bbf7296906c4b1667d6dc53c2fd47e2010fc6278b5e7d3361",
+      "fileName": "Odia_a505774640133982adca7879f558aaf77c4d9391b1987b973f61d5e94846d220.wav",
+      "text": "ଆସନ୍ତୁ ବର୍ତ୍ତମାନ ବାମ ହୁଡ୍ ବନ୍ଦ କରିବା।",
+      "voiceProfile": "Technical_Mark",
+      "paddingVersion": 2
+    },
+    {
+      "key": "SELECT_SST_CONNECTOR",
+      "language": "Odia",
+      "hash": "e4b2cd59ce2bcefcd3603505af78895cb52df75dd05d2a319e8329dd7b85012e",
+      "altHash": "77b8cfd7c976a1b6beb8d7ac77ccef3c9f0ce2cf0ee7f1aadcc06857e9940031",
+      "fileName": "Odia_e4b2cd59ce2bcefcd3603505af78895cb52df75dd05d2a319e8329dd7b85012e.wav",
+      "text": "ଲିକେଜ୍‌ର ତୀବ୍ରତା କମାଇବା ପାଇଁ ଏସ୍ଏସ୍ଟି କୁଲିଂ କନେକ୍ଟର୍ ବାଛନ୍ତୁ।",
+      "voiceProfile": "Technical_Mark",
+      "paddingVersion": 2
+    },
+    {
+      "key": "SELECT_HOSE_PIPE",
+      "language": "Odia",
+      "hash": "fd8fd02ebf136190a2eb51b72ea47d22c80a7b3754d103dfc76aa096e47d65fb",
+      "altHash": "c5483d6d99c4fe211eb5ac4728f42d1211e09ad12e7cc3c0aa67db6315c4edc2",
+      "fileName": "Odia_fd8fd02ebf136190a2eb51b72ea47d22c80a7b3754d103dfc76aa096e47d65fb.wav",
+      "text": "ଲିକେଜ୍‌ର ତୀବ୍ରତା କମାଇବା ପାଇଁ ହୋଜ୍ ପାଇପ୍ ବାଛନ୍ତୁ।",
+      "voiceProfile": "Technical_Mark",
+      "paddingVersion": 2
+    },
+    {
+      "key": "TASK_27_TRAINING_COMPLETED",
+      "language": "Odia",
+      "hash": "1fb26e093bc9df3e033c26344c824a936f8cac4044b67b7fb7bc1420181637d8",
+      "altHash": "15aea2c7f30183c9d9a54a38d833fb4c42bc51eb50657a30f248b72a6cdb4ebe",
+      "fileName": "Odia_1fb26e093bc9df3e033c26344c824a936f8cac4044b67b7fb7bc1420181637d8.wav",
+      "text": "ପଟ୍ ଲିକେଜ୍ ଜରୁରୀକାଳୀନ ପ୍ରତିକ୍ରିୟା ପ୍ରଶିକ୍ଷଣ ସମ୍ପୂର୍ଣ୍ଣ ହୋଇଛି।",
+      "voiceProfile": "Technical_Mark",
+      "paddingVersion": 2
+    },
+    {
+      "key": "PICK_FUSED_ALUMINA_BAG",
+      "language": "English",
+      "hash": "PICK_FUSED_ALUMINA_BAG",
+      "fileName": "English_PICK_FUSED_ALUMINA_BAG.wav",
+      "text": "Pick up fused alumina bag of 10 KG.",
+      "paddingVersion": 2
+    },
+    {
+      "key": "PICK_FUSED_ALUMINA_BAG",
+      "language": "Hindi",
+      "hash": "09fc5f531b3e51726755855fe2072e7633d2a9889aac73a7af153d09ed42d0a4",
+      "altHash": "291b7057869a298f053d182238b162927cf70eae03e1b1c447cb568ce99def17",
+      "fileName": "Hindi_09fc5f531b3e51726755855fe2072e7633d2a9889aac73a7af153d09ed42d0a4.wav",
+      "text": "दस किलोग्राम का फ्यूज़्ड एल्यूमिना बैग उठाएँ।",
+      "voiceProfile": "Technical_Mark",
+      "paddingVersion": 2
+    },
+    {
+      "key": "PICK_FUSED_ALUMINA_BAG",
+      "language": "Odia",
+      "hash": "4e785731a23fd9eebb6fa5c548bf298b8b0c61f11c7da2fab7a331a9e4770076",
+      "altHash": "470e5d06e7bbf108ace58c3f5ad60be46e98bbc8601b9eb38cbc4ea000568403",
+      "fileName": "Odia_4e785731a23fd9eebb6fa5c548bf298b8b0c61f11c7da2fab7a331a9e4770076.wav",
+      "text": "ଦଶ କିଲୋଗ୍ରାମର ଫ୍ୟୁଜ୍ଡ୍ ଆଲୁମିନା ବ୍ୟାଗ୍ ଉଠାନ୍ତୁ।",
+      "voiceProfile": "Technical_Mark",
+      "paddingVersion": 2
+    }
+  ]
+}
